@@ -20,6 +20,7 @@
 
 * {
   font-family: Outfit, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  
 }
 
 h1 {
@@ -47,7 +48,6 @@ h2 {
 .button {
   background-color:var(--color-3); /* gainsboro;*/ 
   color: gainsboro;
-  text-shadow: #141b21;
   text-align: center; 
   display: inline-block;
   font-size: 13px;
@@ -208,11 +208,17 @@ html, body , .container {
 }
 
 .Espaciador{
+  position:fixed;
+  bottom: 1;
+  left: 0;
+  right: 0;
+  margin: 3px;
+  border-radius: 10%;
   background-color:  var(--color-3);
   padding-top:0.5%;
   padding-bottom: 0.5%;
   display: flex;
-  justify-content:space-around;
+  justify-content:space-around; 
 }
 
 .Pregunta{
