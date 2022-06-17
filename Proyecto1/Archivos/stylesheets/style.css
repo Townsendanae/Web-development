@@ -81,7 +81,6 @@ h2 {
 .container {
   margin: 10px;
   text-align: center;
-
   align-items: center;
 
 }
@@ -175,9 +174,36 @@ h2 {
   margin: 0.5%;
   border-radius: 10%;
   background-color: #ffda70;
+
   display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
   justify-content: space-around;
   align-items: center;
+  align-content: stretch;
+}
+
+.faceTitle{
+  align-items: center;
+  align-content: center;
+  
+}
+
+.Face img{
+  border-radius: 50%;
+  width: 200px;
+}
+
+.containerFaces{
+  display: flex;
+  padding: 3%;
+}
+
+.FacesColum{
+  align-items: baseline;
+  flex: 32%;
+  padding: 5px;
+
 }
 
 .Color {
@@ -188,8 +214,22 @@ h2 {
   padding-top: 3%;
   padding-bottom: 3%;
   display: flex;
-  justify-content: space-around;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
   align-items: center;
+  align-content: flex-start;
+}
+
+.Color img{
+  padding-right: 7%;
+  max-width: 50%;
+}
+
+.Color img:hover {
+  box-shadow: 0px 30px 50px -25px;
+  cursor: pointer;
+  opacity: 0.89;
 }
 
 .Pointer {
@@ -250,18 +290,22 @@ h2 {
   margin: 0.5%;
   border-radius: 10%;
   text-align: center;
-  display: inline;
-  align-items: center;
+  align-content: center;
   background-color: #a3054b;
+  padding-bottom: 3%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
 }
 
-table {
+.table {
   border-collapse: separate;
   border-spacing: 5px;
-  background: #000 url("gradient.gif") bottom left repeat-x;
   color: #ccc;
   align-items: center;
 }
+
 td, th {
   background: #ccc;
   color: #000;
@@ -285,7 +329,29 @@ td, th {
   display: inline;
   align-items: center;
   background-color: #005e9d;
-  padding-top: 3%;
+  padding: 3%;
+
+}
+
+.textBox {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #ccc;
+  max-width: 30%;
+  opacity: 80%;
+}
+
+.containerTextBox {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  align-items: center;
+  align-content: flex-start;
 
 }
 
@@ -324,7 +390,6 @@ td, th {
 }
 
 .Formulario {
-  display: block;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr;
   gap: 0px 0px;
@@ -335,9 +400,15 @@ td, th {
   grid-area: Formulario;
   margin: 0.5%;
   border-radius: 10%;
-  text-align:center;
   background-color: #943c58;
-  padding-bottom: 1%;
+  padding: 5%;
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: flex-start;
+  align-content: flex-start;
 
 }
 .tituloForm{
@@ -347,9 +418,9 @@ td, th {
   padding-top: 2%;
 }
 form{
+  margin-left:60px ;
   padding: 60px;
   max-width: 400px;
-  margin: 2% auto;
   background-color: #ccc;
   display:inline-block;
 }
@@ -418,20 +489,7 @@ img {
   margin: 5px;
 }
 
-.textBox {
-  padding: 3%;
-  align-items: center;
-  justify-content: center;
-  flex-wrap: wrap;
-}
 
-.containerTextBox {
-  column-count: 2;
-  padding: 5%;
-  align-items: center;
-  justify-content: center;
-  flex-wrap: wrap;
-}
 
 .redesPic {
   height: 20%;
