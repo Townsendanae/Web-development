@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="with=device-width">
+  <meta name="viewport" content="with=device-width" initial-scale=1.0>
   <title>Danaé Townsend</title>
   <link href="stylesheets/style.css" rel="stylesheet" type="text/css" />
 </head>
@@ -21,7 +21,7 @@
         <h3>What should I say to introduce myself?</h3>
       </div>
     </div>
-    <div class="Data">
+    <div class="Data" id="aboutMe">
       <div class="Face">
           <div class="faceTitle">
             <h2>This is my face</h2>
@@ -47,7 +47,7 @@
         </div>
         <img src="./Imagenes/cursor.png"></img>
       </div>
-      <div class="Pics">
+      <div class="Pics" id="Pics">
         <img class="imgPics" src="./Imagenes/foto1.jpeg"></img>
         <img class="imgPics" src="./Imagenes/foto2.jpeg"></img>
         <img class="imgPics" src="./Imagenes/foto3.jpeg"></img>
@@ -64,15 +64,41 @@
             width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"
             referrerpolicy="no-referrer-when-downgrade"></iframe>
           <div class="contenedorPaises">
-            <p>Chile</p>
-            <p>Estados Unidos</p>
-            <p>Irlanda</p>
-            <p>Panamá</p>
-            <p>Perú</p>
+            <ul>
+              <li type="none">Chile</li>         
+              <ol>          
+                <li>Santiago de Chile</li>
+                <li>Desierto de Atacama</li>
+                <li>Punta Arenas</li>
+                <li>Puerto Natales</li>             
+              </ol>           
+              <hr style="height:8px; color: black; background-color: black;" />        
+              <li type="none">Estados Unidos</li>             
+              <ol>            
+                <li>NYC</li>
+                <li>Washington DC</li>
+                <li>Orlando</li>             
+              </ol>   
+              <hr style="height:8px; color: black; background-color: black;" />   
+              <li type="none">Irlanda</li>             
+              <ol>            
+                <li>Dublín</li>            
+              </ol> 
+              <hr style="height:8px; color: black; background-color: black;" />   
+              <li type="none">Panamá</li>             
+              <ol>            
+                <li>Panamá City</li>            
+              </ol>  
+              <hr style="height:8px; color: black; background-color: black;" />   
+              <li type="none">Perú</li>             
+              <ol>            
+                <li>Lima, Cusco</li>            
+              </ol>          
+            </ul>
           </div>
         </div>
       </div>
-      <div class="Languages">
+      <div class="Languages" id="Languages">
         <h2>Languages</h2>
         <table class="tabla">
           <tr>       
@@ -117,7 +143,7 @@
           </tr>     
         </table>
       </div>
-      <div class="Video">
+      <div class="Video" id="Videos">
         <div>
           <h2>Some of my favourites videos I've ever made:</h2>
         </div>
@@ -155,6 +181,11 @@
             <a href="https://www.instagram.com/danaetownsendh/" target="_blank"><img class="redesPic" ; src="./Imagenes/instagram.webp" ;></img></a>
           </div>
         </div>
+        <div class="Github">
+          <div class="redesDiv">
+            <a href="https://github.com/Townsendanae" target="_blank"><img class="redesPic" ; src="./Imagenes/logoGithub.png" ;></img></a>
+          </div>
+        </div>
         <div class="Linkedin">
           <div class="redesDiv">
             <a href="https://www.linkedin.com/in/dana%C3%A9-townsend-31986a234/" target="_blank"><img class="redesPic" ; src="./Imagenes/linkein.png" ;></img></a>
@@ -167,13 +198,21 @@
         </div>
       </div>
       <div class="Espaciador">
-        <button class="button">Boton1</button>
-        <button class="button">Boton2</button>
-        <button class="button">Boton3</button>
-        <button class="button">Boton4</button>
+        <a href="#aboutMe">
+          <button class="button">About Me</button>
+        </a>
+        <a href="#Pics">
+          <button class="button">Pics</button>
+        </a>
+        <a href="#Videos">
+          <button class="button">Videos</button>
+        </a>
+        <a href="#Languages">
+          <button class="button">Languages</button>
+        </a>
       </div>
     </div>
-    <div class="Formulario">
+    <div class="Formulario" id="Form">
       <h2 class="tituloForm">Do you wanna get in touch?</h2>
       <form>
         <input name="nombre" type="text" placeholder="Nombre" maxlength="30" pattern="[a-zA-Z0-9]+" required
