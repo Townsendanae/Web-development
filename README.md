@@ -1,6 +1,6 @@
 # TownsendDAWM
 
-Project about web page creation using ONLY HTML and CSS. 
-This is just the beginning :).
+Development of web and mobile applications, portfolio of projects. 
+Escuela Superior Politécnica del Litoral. 2022 - 1S
 
 
