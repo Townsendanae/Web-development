@@ -15393,7 +15393,7 @@ html:not(.layout-menu-fixed) .menu-inner-shadow {
   width: 100%;
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 15000px) {
   .layout-menu-fixed .layout-menu,
 .layout-menu-fixed-offcanvas .layout-menu {
     position: fixed;

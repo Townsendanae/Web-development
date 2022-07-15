@@ -307,9 +307,31 @@
   cargarDatosComparacion()
 
 
+  //Card title -- card-title mb-2People
+
+  let cargarTotalPersonas = () => {
+    fetch("https://swapi.dev/api/people/?format=json")
+    .then(response =>  response.json())
+        .then(data => {
+            let totalPersonas = data['count']
+            document.getElementById('card-title mb-2People').innerHTML = `${totalPersonas}`; 
+        })
+        .catch(console.error);
+  }
+  cargarTotalPersonas()
+  //Card title -- NavesTotales
+  let cargarTotalNaves = () => {
+    fetch("https://swapi.dev/api/starships/?format=json")
+    .then(response =>  response.json())
+        .then(data => {
+            let totalNaves = data['count']
+            document.getElementById('NavesTotales').innerHTML = `${totalNaves}`; 
+        })
+        .catch(console.error);
+  }
 
 
-
+  cargarTotalNaves();
   // const totalRevenueChartEl = document.querySelector('#totalRevenueChart'),
   //   totalRevenueChartOptions = {
   //     series: [
