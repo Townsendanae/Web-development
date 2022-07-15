@@ -12,267 +12,563 @@
   axisColor = config.colors.axisColor;
   borderColor = config.colors.borderColor;
 
-  // Total Revenue Report Chart - Bar Chart
+  // Millennium Falcon vs Rebel transport - Bar Chart/// 
   // --------------------------------------------------------------------
-  const totalRevenueChartEl = document.querySelector('#totalRevenueChart'),
-    totalRevenueChartOptions = {
-      series: [
-        {
-          name: '2021',
-          data: [18, 7, 15, 29, 18, 12, 9]
-        },
-        {
-          name: '2020',
-          data: [-13, -18, -9, -14, -5, -17, -15]
-        }
-      ],
-      chart: {
-        height: 300,
-        stacked: true,
-        type: 'bar',
-        toolbar: { show: false }
+
+  async function cargarDatosComparacion () {
+
+    let parametros = ["length","passengers","max_atmosphering_speed","MGLT"]
+    let valoresMillennium = []
+    let valoresRebel = []
+  
+    const response = await fetch('https://swapi.dev/api/starships/?format=json');
+    const data = await response.json();
+    for (let datos of data['results']) {
+
+      if (datos['name'] == "Millennium Falcon"){
+        valoresMillennium.push(parseInt(datos['length']))
+        valoresMillennium.push(parseInt(datos['passengers']))
+        valoresMillennium.push(parseInt(datos['max_atmosphering_speed'])/10)
+        valoresMillennium.push(parseInt(datos['MGLT']))
+      }
+
+      if (datos['name'] == "Rebel transport"){
+        valoresRebel.push(parseInt(datos['length']))
+        valoresRebel.push(parseInt(datos['passengers']))
+        valoresRebel.push(parseInt(datos['max_atmosphering_speed'])/10)
+        valoresRebel.push(parseInt(datos['MGLT']))
+      }      
+    }
+  console.log(parametros,valoresMillennium,valoresRebel)
+  const totalRevenueChartEl = document.querySelector('#ComparacionNaves');
+  
+  let totalRevenueChartOptions = {
+    series: [
+      {
+        name: 'Rebel transport',
+        data: valoresRebel
       },
-      plotOptions: {
-        bar: {
-          horizontal: false,
-          columnWidth: '33%',
-          borderRadius: 12,
-          startingShape: 'rounded',
-          endingShape: 'rounded'
-        }
+      {
+        name: 'Millennium Falcon',
+        data: valoresMillennium
+      }
+    ],
+    chart: {
+      height: 300,
+      stacked: true,
+      type: 'bar',
+      toolbar: { show: false }
+    },
+    plotOptions: {
+      bar: {
+        horizontal: false,
+        columnWidth: '33%',
+        borderRadius: 12,
+        startingShape: 'rounded',
+        endingShape: 'rounded'
+      }
+    },
+    colors: [config.colors.primary, config.colors.info],
+    dataLabels: {
+      enabled: false
+    },
+    stroke: {
+      curve: 'smooth',
+      width: 6,
+      lineCap: 'round',
+      colors: [cardColor]
+    },
+    legend: {
+      show: true,
+      horizontalAlign: 'left',
+      position: 'top',
+      markers: {
+        height: 8,
+        width: 8,
+        radius: 12,
+        offsetX: -3
       },
-      colors: [config.colors.primary, config.colors.info],
-      dataLabels: {
-        enabled: false
+      labels: {
+        colors: axisColor
       },
-      stroke: {
-        curve: 'smooth',
-        width: 6,
-        lineCap: 'round',
-        colors: [cardColor]
-      },
-      legend: {
-        show: true,
-        horizontalAlign: 'left',
-        position: 'top',
-        markers: {
-          height: 8,
-          width: 8,
-          radius: 12,
-          offsetX: -3
-        },
-        labels: {
+      itemMargin: {
+        horizontal: 10
+      }
+    },
+    grid: {
+      borderColor: borderColor,
+      padding: {
+        top: 0,
+        bottom: -8,
+        left: 20,
+        right: 20
+      }
+    },
+    xaxis: {
+      categories: parametros,
+      labels: {
+        style: {
+          fontSize: '13px',
           colors: axisColor
-        },
-        itemMargin: {
-          horizontal: 10
         }
       },
-      grid: {
-        borderColor: borderColor,
-        padding: {
-          top: 0,
-          bottom: -8,
-          left: 20,
-          right: 20
-        }
+      axisTicks: {
+        show: false
       },
-      xaxis: {
-        categories: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul'],
-        labels: {
-          style: {
-            fontSize: '13px',
-            colors: axisColor
-          }
-        },
-        axisTicks: {
-          show: false
-        },
-        axisBorder: {
-          show: false
+      axisBorder: {
+        show: false
+      }
+    },
+    yaxis: {
+      labels: {
+        style: {
+          fontSize: '13px',
+          colors: axisColor
         }
-      },
-      yaxis: {
-        labels: {
-          style: {
-            fontSize: '13px',
-            colors: axisColor
+      }
+    },
+    responsive: [
+      {
+        breakpoint: 1700,
+        options: {
+          plotOptions: {
+            bar: {
+              borderRadius: 10,
+              columnWidth: '32%'
+            }
           }
         }
       },
-      responsive: [
-        {
-          breakpoint: 1700,
-          options: {
-            plotOptions: {
-              bar: {
-                borderRadius: 10,
-                columnWidth: '32%'
-              }
-            }
-          }
-        },
-        {
-          breakpoint: 1580,
-          options: {
-            plotOptions: {
-              bar: {
-                borderRadius: 10,
-                columnWidth: '35%'
-              }
-            }
-          }
-        },
-        {
-          breakpoint: 1440,
-          options: {
-            plotOptions: {
-              bar: {
-                borderRadius: 10,
-                columnWidth: '42%'
-              }
-            }
-          }
-        },
-        {
-          breakpoint: 1300,
-          options: {
-            plotOptions: {
-              bar: {
-                borderRadius: 10,
-                columnWidth: '48%'
-              }
-            }
-          }
-        },
-        {
-          breakpoint: 1200,
-          options: {
-            plotOptions: {
-              bar: {
-                borderRadius: 10,
-                columnWidth: '40%'
-              }
-            }
-          }
-        },
-        {
-          breakpoint: 1040,
-          options: {
-            plotOptions: {
-              bar: {
-                borderRadius: 11,
-                columnWidth: '48%'
-              }
-            }
-          }
-        },
-        {
-          breakpoint: 991,
-          options: {
-            plotOptions: {
-              bar: {
-                borderRadius: 10,
-                columnWidth: '30%'
-              }
-            }
-          }
-        },
-        {
-          breakpoint: 840,
-          options: {
-            plotOptions: {
-              bar: {
-                borderRadius: 10,
-                columnWidth: '35%'
-              }
-            }
-          }
-        },
-        {
-          breakpoint: 768,
-          options: {
-            plotOptions: {
-              bar: {
-                borderRadius: 10,
-                columnWidth: '28%'
-              }
-            }
-          }
-        },
-        {
-          breakpoint: 640,
-          options: {
-            plotOptions: {
-              bar: {
-                borderRadius: 10,
-                columnWidth: '32%'
-              }
-            }
-          }
-        },
-        {
-          breakpoint: 576,
-          options: {
-            plotOptions: {
-              bar: {
-                borderRadius: 10,
-                columnWidth: '37%'
-              }
-            }
-          }
-        },
-        {
-          breakpoint: 480,
-          options: {
-            plotOptions: {
-              bar: {
-                borderRadius: 10,
-                columnWidth: '45%'
-              }
-            }
-          }
-        },
-        {
-          breakpoint: 420,
-          options: {
-            plotOptions: {
-              bar: {
-                borderRadius: 10,
-                columnWidth: '52%'
-              }
-            }
-          }
-        },
-        {
-          breakpoint: 380,
-          options: {
-            plotOptions: {
-              bar: {
-                borderRadius: 10,
-                columnWidth: '60%'
-              }
+      {
+        breakpoint: 1580,
+        options: {
+          plotOptions: {
+            bar: {
+              borderRadius: 10,
+              columnWidth: '35%'
             }
           }
         }
-      ],
-      states: {
-        hover: {
-          filter: {
-            type: 'none'
+      },
+      {
+        breakpoint: 1440,
+        options: {
+          plotOptions: {
+            bar: {
+              borderRadius: 10,
+              columnWidth: '42%'
+            }
           }
-        },
-        active: {
-          filter: {
-            type: 'none'
+        }
+      },
+      {
+        breakpoint: 1300,
+        options: {
+          plotOptions: {
+            bar: {
+              borderRadius: 10,
+              columnWidth: '48%'
+            }
+          }
+        }
+      },
+      {
+        breakpoint: 1200,
+        options: {
+          plotOptions: {
+            bar: {
+              borderRadius: 10,
+              columnWidth: '40%'
+            }
+          }
+        }
+      },
+      {
+        breakpoint: 1040,
+        options: {
+          plotOptions: {
+            bar: {
+              borderRadius: 11,
+              columnWidth: '48%'
+            }
+          }
+        }
+      },
+      {
+        breakpoint: 991,
+        options: {
+          plotOptions: {
+            bar: {
+              borderRadius: 10,
+              columnWidth: '30%'
+            }
+          }
+        }
+      },
+      {
+        breakpoint: 840,
+        options: {
+          plotOptions: {
+            bar: {
+              borderRadius: 10,
+              columnWidth: '35%'
+            }
+          }
+        }
+      },
+      {
+        breakpoint: 768,
+        options: {
+          plotOptions: {
+            bar: {
+              borderRadius: 10,
+              columnWidth: '28%'
+            }
+          }
+        }
+      },
+      {
+        breakpoint: 640,
+        options: {
+          plotOptions: {
+            bar: {
+              borderRadius: 10,
+              columnWidth: '32%'
+            }
+          }
+        }
+      },
+      {
+        breakpoint: 576,
+        options: {
+          plotOptions: {
+            bar: {
+              borderRadius: 10,
+              columnWidth: '37%'
+            }
+          }
+        }
+      },
+      {
+        breakpoint: 480,
+        options: {
+          plotOptions: {
+            bar: {
+              borderRadius: 10,
+              columnWidth: '45%'
+            }
+          }
+        }
+      },
+      {
+        breakpoint: 420,
+        options: {
+          plotOptions: {
+            bar: {
+              borderRadius: 10,
+              columnWidth: '52%'
+            }
+          }
+        }
+      },
+      {
+        breakpoint: 380,
+        options: {
+          plotOptions: {
+            bar: {
+              borderRadius: 10,
+              columnWidth: '60%'
+            }
           }
         }
       }
-    };
+    ],
+    states: {
+      hover: {
+        filter: {
+          type: 'none'
+        }
+      },
+      active: {
+        filter: {
+          type: 'none'
+        }
+      }
+    }
+  };
+
   if (typeof totalRevenueChartEl !== undefined && totalRevenueChartEl !== null) {
-    const totalRevenueChart = new ApexCharts(totalRevenueChartEl, totalRevenueChartOptions);
-    totalRevenueChart.render();
+      const totalRevenueChart = new ApexCharts(totalRevenueChartEl, totalRevenueChartOptions);
+      totalRevenueChart.render();
+    }
+ 
   }
+  
+  cargarDatosComparacion()
+
+
+
+
+
+  // const totalRevenueChartEl = document.querySelector('#totalRevenueChart'),
+  //   totalRevenueChartOptions = {
+  //     series: [
+  //       {
+  //         name: '2021',
+  //         data: [18, 7, 15, 29, 18, 12, 9]
+  //       },
+  //       {
+  //         name: '2020',
+  //         data: [13, -18, -9, -14, -5, -17, -15]
+  //       }
+  //     ],
+  //     chart: {
+  //       height: 300,
+  //       stacked: true,
+  //       type: 'bar',
+  //       toolbar: { show: false }
+  //     },
+  //     plotOptions: {
+  //       bar: {
+  //         horizontal: false,
+  //         columnWidth: '33%',
+  //         borderRadius: 12,
+  //         startingShape: 'rounded',
+  //         endingShape: 'rounded'
+  //       }
+  //     },
+  //     colors: [config.colors.primary, config.colors.info],
+  //     dataLabels: {
+  //       enabled: false
+  //     },
+  //     stroke: {
+  //       curve: 'smooth',
+  //       width: 6,
+  //       lineCap: 'round',
+  //       colors: [cardColor]
+  //     },
+  //     legend: {
+  //       show: true,
+  //       horizontalAlign: 'left',
+  //       position: 'top',
+  //       markers: {
+  //         height: 8,
+  //         width: 8,
+  //         radius: 12,
+  //         offsetX: -3
+  //       },
+  //       labels: {
+  //         colors: axisColor
+  //       },
+  //       itemMargin: {
+  //         horizontal: 10
+  //       }
+  //     },
+  //     grid: {
+  //       borderColor: borderColor,
+  //       padding: {
+  //         top: 0,
+  //         bottom: -8,
+  //         left: 20,
+  //         right: 20
+  //       }
+  //     },
+  //     xaxis: {
+  //       categories: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul'],
+  //       labels: {
+  //         style: {
+  //           fontSize: '13px',
+  //           colors: axisColor
+  //         }
+  //       },
+  //       axisTicks: {
+  //         show: false
+  //       },
+  //       axisBorder: {
+  //         show: false
+  //       }
+  //     },
+  //     yaxis: {
+  //       labels: {
+  //         style: {
+  //           fontSize: '13px',
+  //           colors: axisColor
+  //         }
+  //       }
+  //     },
+  //     responsive: [
+  //       {
+  //         breakpoint: 1700,
+  //         options: {
+  //           plotOptions: {
+  //             bar: {
+  //               borderRadius: 10,
+  //               columnWidth: '32%'
+  //             }
+  //           }
+  //         }
+  //       },
+  //       {
+  //         breakpoint: 1580,
+  //         options: {
+  //           plotOptions: {
+  //             bar: {
+  //               borderRadius: 10,
+  //               columnWidth: '35%'
+  //             }
+  //           }
+  //         }
+  //       },
+  //       {
+  //         breakpoint: 1440,
+  //         options: {
+  //           plotOptions: {
+  //             bar: {
+  //               borderRadius: 10,
+  //               columnWidth: '42%'
+  //             }
+  //           }
+  //         }
+  //       },
+  //       {
+  //         breakpoint: 1300,
+  //         options: {
+  //           plotOptions: {
+  //             bar: {
+  //               borderRadius: 10,
+  //               columnWidth: '48%'
+  //             }
+  //           }
+  //         }
+  //       },
+  //       {
+  //         breakpoint: 1200,
+  //         options: {
+  //           plotOptions: {
+  //             bar: {
+  //               borderRadius: 10,
+  //               columnWidth: '40%'
+  //             }
+  //           }
+  //         }
+  //       },
+  //       {
+  //         breakpoint: 1040,
+  //         options: {
+  //           plotOptions: {
+  //             bar: {
+  //               borderRadius: 11,
+  //               columnWidth: '48%'
+  //             }
+  //           }
+  //         }
+  //       },
+  //       {
+  //         breakpoint: 991,
+  //         options: {
+  //           plotOptions: {
+  //             bar: {
+  //               borderRadius: 10,
+  //               columnWidth: '30%'
+  //             }
+  //           }
+  //         }
+  //       },
+  //       {
+  //         breakpoint: 840,
+  //         options: {
+  //           plotOptions: {
+  //             bar: {
+  //               borderRadius: 10,
+  //               columnWidth: '35%'
+  //             }
+  //           }
+  //         }
+  //       },
+  //       {
+  //         breakpoint: 768,
+  //         options: {
+  //           plotOptions: {
+  //             bar: {
+  //               borderRadius: 10,
+  //               columnWidth: '28%'
+  //             }
+  //           }
+  //         }
+  //       },
+  //       {
+  //         breakpoint: 640,
+  //         options: {
+  //           plotOptions: {
+  //             bar: {
+  //               borderRadius: 10,
+  //               columnWidth: '32%'
+  //             }
+  //           }
+  //         }
+  //       },
+  //       {
+  //         breakpoint: 576,
+  //         options: {
+  //           plotOptions: {
+  //             bar: {
+  //               borderRadius: 10,
+  //               columnWidth: '37%'
+  //             }
+  //           }
+  //         }
+  //       },
+  //       {
+  //         breakpoint: 480,
+  //         options: {
+  //           plotOptions: {
+  //             bar: {
+  //               borderRadius: 10,
+  //               columnWidth: '45%'
+  //             }
+  //           }
+  //         }
+  //       },
+  //       {
+  //         breakpoint: 420,
+  //         options: {
+  //           plotOptions: {
+  //             bar: {
+  //               borderRadius: 10,
+  //               columnWidth: '52%'
+  //             }
+  //           }
+  //         }
+  //       },
+  //       {
+  //         breakpoint: 380,
+  //         options: {
+  //           plotOptions: {
+  //             bar: {
+  //               borderRadius: 10,
+  //               columnWidth: '60%'
+  //             }
+  //           }
+  //         }
+  //       }
+  //     ],
+  //     states: {
+  //       hover: {
+  //         filter: {
+  //           type: 'none'
+  //         }
+  //       },
+  //       active: {
+  //         filter: {
+  //           type: 'none'
+  //         }
+  //       }
+  //     }
+  //   };
+  // if (typeof totalRevenueChartEl !== undefined && totalRevenueChartEl !== null) {
+  //   const totalRevenueChart = new ApexCharts(totalRevenueChartEl, totalRevenueChartOptions);
+  //   totalRevenueChart.render();
+  // }
 
   // Growth Chart - Radial Bar Chart
   // --------------------------------------------------------------------
@@ -488,104 +784,149 @@
     statisticsChart.render();
   }
 
-  // Income Chart - Area chart
+  // Cantidad de planetas que hay en cada film - Area chart
   // --------------------------------------------------------------------
-  const incomeChartEl = document.querySelector('#incomeChart'),
-    incomeChartConfig = {
-      series: [
-        {
-          data: [24, 21, 30, 22, 42, 26, 35, 29]
-        }
-      ],
-      chart: {
-        height: 215,
-        parentHeightOffset: 0,
-        parentWidthOffset: 0,
-        toolbar: {
-          show: false
-        },
-        type: 'area'
-      },
-      dataLabels: {
-        enabled: false
-      },
-      stroke: {
-        width: 2,
-        curve: 'smooth'
-      },
-      legend: {
-        show: false
-      },
-      markers: {
-        size: 6,
-        colors: 'transparent',
-        strokeColors: 'transparent',
-        strokeWidth: 4,
-        discrete: [
-          {
-            fillColor: config.colors.white,
-            seriesIndex: 0,
-            dataPointIndex: 7,
-            strokeColor: config.colors.primary,
-            strokeWidth: 2,
-            size: 6,
-            radius: 8
-          }
-        ],
-        hover: {
-          size: 7
-        }
-      },
-      colors: [config.colors.primary],
-      fill: {
-        type: 'gradient',
-        gradient: {
-          shade: shadeColor,
-          shadeIntensity: 0.6,
-          opacityFrom: 0.5,
-          opacityTo: 0.25,
-          stops: [0, 95, 100]
-        }
-      },
-      grid: {
-        borderColor: borderColor,
-        strokeDashArray: 3,
-        padding: {
-          top: -20,
-          bottom: -8,
-          left: -10,
-          right: 8
-        }
-      },
-      xaxis: {
-        categories: ['', 'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul'],
-        axisBorder: {
-          show: false
-        },
-        axisTicks: {
-          show: false
-        },
-        labels: {
-          show: true,
-          style: {
-            fontSize: '13px',
-            colors: axisColor
-          }
-        }
-      },
-      yaxis: {
-        labels: {
-          show: false
-        },
-        min: 10,
-        max: 50,
-        tickAmount: 4
-      }
-    };
-  if (typeof incomeChartEl !== undefined && incomeChartEl !== null) {
-    const incomeChart = new ApexCharts(incomeChartEl, incomeChartConfig);
-    incomeChart.render();
+
+
+async function cargarDatos () {
+
+  let cantidadPlanetas = []
+  let nombreFilm = []
+
+  const response = await fetch('https://swapi.dev/api/films/?format=json');
+  const data = await response.json();
+  for (let datos of data['results']) {
+    let titulo = datos['title'];
+    let arrayPlanets = datos['planets']
+    nombreFilm.push(""+titulo)
+    cantidadPlanetas.push(arrayPlanets.length);
   }
+  console.log(cantidadPlanetas,nombreFilm)
+const $grafica = document.querySelector("#graficaPlanetasYFilms");
+const datosPlanetsFilms = {
+    label: "Cantidad de planetas en el film",
+    data: cantidadPlanetas, 
+    backgroundColor: 'rgba(54, 162, 235, 0.2)',
+    borderColor: 'rgba(54, 162, 235, 1)',
+    borderWidth: 1,
+};
+new Chart($grafica, {
+    type: 'line',
+    data: {
+        labels: nombreFilm,
+        datasets: [
+          datosPlanetsFilms,
+        ]
+    },
+    options: {
+        scales: {
+            yAxes: [{
+                ticks: {
+                    beginAtZero: true
+                }
+            }],
+        },
+    }
+});
+}
+
+cargarDatos()
+// const incomeChartEl = document.querySelector('#incomeChart'),
+//     incomeChartConfig = {
+//       series: [
+//         {
+//           data: [24, 21, 30, 22, 42, 26, 35, 29] /// cantidad de veces que se repite un planeta en todas las peliculas
+//         }
+//       ],
+//       chart: {
+//         height: 215,
+//         parentHeightOffset: 0,
+//         parentWidthOffset: 0,
+//         toolbar: {
+//           show: false
+//         },
+//         type: 'area'
+//       },
+//       dataLabels: {
+//         enabled: false
+//       },
+//       stroke: {
+//         width: 2,
+//         curve: 'smooth'
+//       },
+//       legend: {
+//         show: false
+//       },
+//       markers: {
+//         size: 6,
+//         colors: 'transparent',
+//         strokeColors: 'transparent',
+//         strokeWidth: 4,
+//         discrete: [
+//           {
+//             fillColor: config.colors.white,
+//             seriesIndex: 0,
+//             dataPointIndex: 7,
+//             strokeColor: config.colors.primary,
+//             strokeWidth: 2,
+//             size: 6,
+//             radius: 8
+//           }
+//         ],
+//         hover: {
+//           size: 7
+//         }
+//       },
+//       colors: [config.colors.primary],
+//       fill: {
+//         type: 'gradient',
+//         gradient: {
+//           shade: shadeColor,
+//           shadeIntensity: 0.6,
+//           opacityFrom: 0.5,
+//           opacityTo: 0.25,
+//           stops: [0, 95, 100]
+//         }
+//       },
+//       grid: {
+//         borderColor: borderColor,
+//         strokeDashArray: 3,
+//         padding: {
+//           top: -20,
+//           bottom: -8,
+//           left: -10,
+//           right: 8
+//         }
+//       },
+//       xaxis: {
+//         categories: ['', 'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul'],
+//         axisBorder: {
+//           show: false
+//         },
+//         axisTicks: {
+//           show: false
+//         },
+//         labels: {
+//           show: true,
+//           style: {
+//             fontSize: '13px',
+//             colors: axisColor
+//           }
+//         }
+//       },
+//       yaxis: {
+//         labels: {
+//           show: false
+//         },
+//         min: 10,
+//         max: 50,
+//         tickAmount: 4
+//       }
+//     };
+//   if (typeof incomeChartEl !== undefined && incomeChartEl !== null) {
+//     const incomeChart = new ApexCharts(incomeChartEl, incomeChartConfig);
+//     incomeChart.render();
+//   }
 
   // Expenses Mini Chart - Radial Chart
   // --------------------------------------------------------------------
