@@ -425,6 +425,7 @@
   // Planetas y características - tabla 
   // --------------------------------------------------------------------
 
+
   async function cargarDatosPlanetas() {
     let listaPlanetas = [] // 8 primeros planetas
     let URLPlanetas = []
@@ -434,18 +435,31 @@
 
     for (let planeta of data['results']){
       let nombre = planeta['name']
-      let enlance = planeta['url']
+      let enlace = planeta['url']
       listaPlanetas.push(nombre)
-      URLPlanetas.push(enlance)
-      document.getElementById('menuPlanetas').innerHTML += `<li id="${nombre}"><a class="dropdown-item">${nombre}</a></li>`;
+      URLPlanetas.push(enlace)
+      document.getElementById('menuPlanetas').innerHTML += `<li class="selectPlaneta" id="selecPlaneta" value="${enlace}"><a class="dropdown-item">${nombre}</a></li>`;
     }
   }
 
   let PresentarDatosPlaneta = (URLPlaneta) => {
-
+    console.log(URLPlaneta)
   }
 
   cargarDatosPlanetas();
+  
+  // let listaItems = document.getElementsByClassName('selectPlaneta');
+
+  // listaItems.forEach(function(item) {
+  //   item.onclick = function(e) {
+  //      console.log(this.innerText); // this returns clicked li's value
+  //   }
+  // });
+
+  // selectPlanet.addEventListener('click', (event) => {
+  //   let enlacePlanet = `${event.target.value}`;
+  //   PresentarDatosPlaneta(enlacePlanet);
+  // });
 
 
   // Distribución de especies en personajes con especie registrada
@@ -696,4 +710,35 @@
 
   // Especies y características - List
   // --------------------------------------------------------------------
+
+  async function cargarDatosListaEspecies() {
+    let nombresEspecies = [] // 6 primeras especies
+    let vidas = []
+    let lenguajes = []
+
+    const response = await fetch("https://swapi.dev/api/species/?page=2&format=json");
+    const data = await response.json();
+
+    for (let dato of data['results']){
+      let nombre = dato['name']
+      let altura = dato['average_height']
+      let vida = dato['average_lifespan']
+      let lenguaje = dato['language']
+
+      nombresEspecies.push(nombre)
+      vidas.push(vida)
+      lenguajes.push(lenguaje)
+    }
+
+    for (let i = 1; i < 7; i++){
+
+      document.getElementById("especie-"+i+"-nombre").innerHTML = `${nombresEspecies[i-1]}`;
+      document.getElementById("especie-"+i+"-etiqueta-"+1).innerHTML = `${vidas[i-1]}`;
+      document.getElementById("especie-"+i+"-etiqueta-"+2).innerHTML = `${lenguajes[i-1]}`;
+    }
+
+    
+
+  }
+  cargarDatosListaEspecies()
 
