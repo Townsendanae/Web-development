@@ -387,9 +387,9 @@
 
         document.getElementById('NombreNave').innerHTML = `${NaveElegida}`;
         if (indice == 0){
-          document.getElementById('presentacionNave').innerHTML = `<img id="imgPresentacionNaves" src="../assets/img/naves/halconMIlenario.webp"/>`;
+          document.getElementById('presentacionNave').innerHTML = `<img id="imgPresentaciones" src="../assets/img/naves/halconMIlenario.webp"/>`;
         } else{
-          document.getElementById('presentacionNave').innerHTML = `<img id="imgPresentacionNaves" src="../assets/img/naves/RebelTransport.gif"/>`;
+          document.getElementById('presentacionNave').innerHTML = `<img id="imgPresentaciones" src="../assets/img/naves/RebelTransport.gif"/>`;
         }
                 
         for(let i = 0; i < arregloDatos.length; i++){
@@ -422,160 +422,42 @@
     cargarInfoNaves(eleccion, "https://swapi.dev/api/starships/17/",1)
   });
 
-
-  // Growth Chart - Radial Bar Chart
+  // Planetas y características - tabla 
   // --------------------------------------------------------------------
 
-  // const growthChartEl = document.querySelector('#growthChart'),
-  //   growthChartOptions = {
-  //     series: [78],
-  //     labels: ['Growth'],
-  //     chart: {
-  //       height: 240,
-  //       type: 'radialBar'
-  //     },
-  //     plotOptions: {
-  //       radialBar: {
-  //         size: 150,
-  //         offsetY: 10,
-  //         startAngle: -150,
-  //         endAngle: 150,
-  //         hollow: {
-  //           size: '55%'
-  //         },
-  //         track: {
-  //           background: cardColor,
-  //           strokeWidth: '100%'
-  //         },
-  //         dataLabels: {
-  //           name: {
-  //             offsetY: 15,
-  //             color: headingColor,
-  //             fontSize: '15px',
-  //             fontWeight: '600',
-  //             fontFamily: 'Public Sans'
-  //           },
-  //           value: {
-  //             offsetY: -25,
-  //             color: headingColor,
-  //             fontSize: '22px',
-  //             fontWeight: '500',
-  //             fontFamily: 'Public Sans'
-  //           }
-  //         }
-  //       }
-  //     },
-  //     colors: [config.colors.primary],
-  //     fill: {
-  //       type: 'gradient',
-  //       gradient: {
-  //         shade: 'dark',
-  //         shadeIntensity: 0.5,
-  //         gradientToColors: [config.colors.primary],
-  //         inverseColors: true,
-  //         opacityFrom: 1,
-  //         opacityTo: 0.6,
-  //         stops: [30, 70, 100]
-  //       }
-  //     },
-  //     stroke: {
-  //       dashArray: 5
-  //     },
-  //     grid: {
-  //       padding: {
-  //         top: -35,
-  //         bottom: -10
-  //       }
-  //     },
-  //     states: {
-  //       hover: {
-  //         filter: {
-  //           type: 'none'
-  //         }
-  //       },
-  //       active: {
-  //         filter: {
-  //           type: 'none'
-  //         }
-  //       }
-  //     }
-  //   };
-  // if (typeof growthChartEl !== undefined && growthChartEl !== null) {
-  //   const growthChart = new ApexCharts(growthChartEl, growthChartOptions);
-  //   growthChart.render();
-  // }
+  async function cargarDatosPlanetas() {
+    let listaPlanetas = [] // 8 primeros planetas
+    let URLPlanetas = []
 
-  // Profit Report Line Chart
-  // --------------------------------------------------------------------
-  const profileReportChartEl = document.querySelector('#profileReportChart'),
-    profileReportChartConfig = {
-      chart: {
-        height: 80,
-        // width: 175,
-        type: 'line',
-        toolbar: {
-          show: false
-        },
-        dropShadow: {
-          enabled: true,
-          top: 10,
-          left: 5,
-          blur: 3,
-          color: config.colors.warning,
-          opacity: 0.15
-        },
-        sparkline: {
-          enabled: true
-        }
-      },
-      grid: {
-        show: false,
-        padding: {
-          right: 8
-        }
-      },
-      colors: [config.colors.warning],
-      dataLabels: {
-        enabled: false
-      },
-      stroke: {
-        width: 5,
-        curve: 'smooth'
-      },
-      series: [
-        {
-          data: [110, 270, 145, 245, 205, 285]
-        }
-      ],
-      xaxis: {
-        show: false,
-        lines: {
-          show: false
-        },
-        labels: {
-          show: false
-        },
-        axisBorder: {
-          show: false
-        }
-      },
-      yaxis: {
-        show: false
-      }
-    };
-  if (typeof profileReportChartEl !== undefined && profileReportChartEl !== null) {
-    const profileReportChart = new ApexCharts(profileReportChartEl, profileReportChartConfig);
-    profileReportChart.render();
+    const response = await fetch("https://swapi.dev/api/planets/?format=json");
+    const data = await response.json();
+
+    for (let planeta of data['results']){
+      let nombre = planeta['name']
+      let enlance = planeta['url']
+      listaPlanetas.push(nombre)
+      URLPlanetas.push(enlance)
+      document.getElementById('menuPlanetas').innerHTML += `<li id="${nombre}"><a class="dropdown-item">${nombre}</a></li>`;
+    }
   }
 
-  // Distribución de especies en personajes principales
+  let PresentarDatosPlaneta = (URLPlaneta) => {
+
+  }
+
+  cargarDatosPlanetas();
+
+
+  // Distribución de especies en personajes con especie registrada
   // --------------------------------------------------------------------
 
 
   async function cargarDatosEspecies() {
-
+    let totalPersonajes = 0;
     let especiesArray = []
     let cantidadPorEspecie = []
+    let infoArray = [];
+    let especiesSeleccionadas = [];
 
     let siguiente = "https://swapi.dev/api/species/?format=json"
 
@@ -583,24 +465,37 @@
       const response = await fetch(siguiente);
       const data = await response.json();
       siguiente = data['next'];
+      let total = data['count'];
+      document.getElementById("TotalEspecies").innerHTML = `${total}`;
 
       for (let datos of data['results']) {
 
         let nombre = datos['name'];
         especiesArray.push(nombre);
+        let arrayPersonas = datos['people']
+        cantidadPorEspecie.push(arrayPersonas.length)
+        totalPersonajes += arrayPersonas.length;
 
-        let cantidadPersonas = datos['people'].length
-        cantidadPorEspecie.push(cantidadPersonas)
+        if ((nombre == "Human") || (nombre =="Droid") || (nombre == "Wookie") || (nombre == "Gungan")){
+          especiesSeleccionadas.push(nombre)
+          infoArray.push(arrayPersonas)
+        }
       }
     }
 
-    //obtener quienes son los humanos, doides, gungan, Tholothian para presentar en el panel de abajo. 
-    // cambiar el total de ordenes a total de especies 
-    // pasar el char de plantilla de profile report a cantidad de planetas en el film 
-    //cambiar el char de profile report y tomar como plantilla el de especies y caracteristicas para el de profile de algunos planetas. 
-    //eliminar payments y tansactions
-    // si le da click a conocer cuales son: presentar un popup con la info de cuales son detallada. (expenses) eliminar profit
-    // en los 3 puntitos de cada recuadro, poner "Conoce quienes son " personajes importantes y naves 
+    for(let i = 0 ; i < 4; i++){
+      let especie = especiesSeleccionadas[i];
+      let personas = infoArray[i];
+
+      document.getElementById(especie + "-Label").innerHTML = `${especie}`;  
+      
+      for (let personaUrl of personas){
+        const responsePersona = await fetch(personaUrl);
+        const dataPersona = await responsePersona.json();
+        let namePersona = dataPersona['name'];
+        document.getElementById(especie + "-People").innerHTML += `${namePersona + ". "}`;  
+      }
+    }
 
     const chartOrderStatistics = document.querySelector('#orderStatisticsChart'),
     orderChartConfig = {
@@ -609,15 +504,10 @@
       },
       labels: especiesArray,
       series: cantidadPorEspecie,
-      // colors: [config.colors.primary, config.colors.secondary, config.colors.info, config.colors.success],
-      // stroke: {
-      //   width: 5,
-      //   colors: cardColor
-      // },
       dataLabels: {
         enabled: false,
         formatter: function (val, opt) {
-          return parseInt(val) + '%';
+          return parseInt(val);
         }
       },
       legend: {
@@ -642,7 +532,7 @@
                 color: headingColor,
                 offsetY: -15,
                 formatter: function (val) {
-                  return parseInt(val) + '%';
+                  return parseInt(val);
                 }
               },
               name: {
@@ -653,9 +543,9 @@
                 show: true,
                 fontSize: '0.8125rem',
                 color: axisColor,
-                label: 'Weekly',
+                label: 'Personajes',
                 formatter: function (w) {
-                  return '38%';
+                  return totalPersonajes;
                 }
               }
             }
@@ -671,11 +561,6 @@
   }
 
   cargarDatosEspecies()
-
-
-
-
-  
 
   // Cantidad de planetas que hay en cada film - Area chart
   // --------------------------------------------------------------------
@@ -696,6 +581,7 @@
     }
     console.log(cantidadPlanetas, nombreFilm)
     const $grafica = document.querySelector("#graficaPlanetasYFilms");
+    
     const datosPlanetsFilms = {
       label: "Cantidad de planetas en el film",
       data: cantidadPlanetas,
@@ -703,6 +589,8 @@
       borderColor: 'rgba(54, 162, 235, 1)',
       borderWidth: 1,
     };
+
+
     new Chart($grafica, {
       type: 'line',
       data: {
@@ -715,11 +603,11 @@
         scales: {
           yAxes: [{
             ticks: {
-              beginAtZero: true
-            }
+              beginAtZero: true,
+            },
           }],
-        },
-      }
+        },     
+      },
     });
   }
 

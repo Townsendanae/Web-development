@@ -174,7 +174,7 @@
                     </div>
                   </div>
                 </div>
-                <!-- Total Revenue -->
+                <!-- Naves comparacion -->
                 <div class="col-12 col-lg-8 order-2 order-md-3 order-lg-2 mb-4">
                   <div class="card">
                     <div class="row row-bordered g-0">
@@ -203,10 +203,11 @@
                             </div>
                           </div>
                         </div>
-                        <div id="presentacionNave" class="naveSelection"><img id="imgPresentacionNaves" src="../assets/img/varios/SableCargando.gif" /></div>
+                        <div id="presentacionNave" class="presentacionesSelection">
+                          <img id="imgPresentaciones" src="../assets/img/varios/SableCargando.gif" />
+                        </div>
                         <div class="text-center fw-semibold pt-3 mb-2" id="NombreNave" >
                         </div>
-
                         <div class="d-flex px-xxl-4 px-lg-2 p-4 gap-xxl-3 gap-lg-1 gap-3 justify-content-between" id="contenedorInformacion">
                           <!-- Aqui va la info -->
                         </div>
@@ -214,89 +215,80 @@
                     </div>
                   </div>
                 </div>
-                <!--/ Total Revenue -->
+                <!--/ Planetas comparacion -->
                 <div class="col-12 col-md-8 col-lg-4 order-3 order-md-2">
                   <div class="row">
-                    <div class="col-6 mb-4">
-                      <div class="card">
-                        <div class="card-body">
-                          <div class="card-title d-flex align-items-start justify-content-between">
-                            <div class="avatar flex-shrink-0">
-                              <img src="../assets/img/icons/unicons/paypal.png" alt="Credit Card" class="rounded" />
-                            </div>
-                            <div class="dropdown">
-                              <button
-                                class="btn p-0"
-                                type="button"
-                                id="cardOpt4"
-                                data-bs-toggle="dropdown"
-                                aria-haspopup="true"
-                                aria-expanded="false"
-                              >
-                                <i class="bx bx-dots-vertical-rounded"></i>
-                              </button>
-                              <div class="dropdown-menu dropdown-menu-end" aria-labelledby="cardOpt4">
-                                <a class="dropdown-item" href="javascript:void(0);">View More</a>
-                                <a class="dropdown-item" href="javascript:void(0);">Delete</a>
-                              </div>
-                            </div>
-                          </div>
-                          <span class="d-block mb-1">Payments</span>
-                          <h3 class="card-title text-nowrap mb-2">$2,456</h3>
-                          <small class="text-danger fw-semibold"><i class="bx bx-down-arrow-alt"></i> -14.82%</small>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col-6 mb-4">
-                      <div class="card">
-                        <div class="card-body">
-                          <div class="card-title d-flex align-items-start justify-content-between">
-                            <div class="avatar flex-shrink-0">
-                              <img src="../assets/img/icons/unicons/cc-primary.png" alt="Credit Card" class="rounded" />
-                            </div>
-                            <div class="dropdown">
-                              <button
-                                class="btn p-0"
-                                type="button"
-                                id="cardOpt1"
-                                data-bs-toggle="dropdown"
-                                aria-haspopup="true"
-                                aria-expanded="false"
-                              >
-                                <i class="bx bx-dots-vertical-rounded"></i>
-                              </button>
-                              <div class="dropdown-menu" aria-labelledby="cardOpt1">
-                                <a class="dropdown-item" href="javascript:void(0);">View More</a>
-                                <a class="dropdown-item" href="javascript:void(0);">Delete</a>
-                              </div>
-                            </div>
-                          </div>
-                          <span class="fw-semibold d-block mb-1">Transactions</span>
-                          <h3 class="card-title mb-2">$14,857</h3>
-                          <small class="text-success fw-semibold"><i class="bx bx-up-arrow-alt"></i> +28.14%</small>
-                        </div>
-                      </div>
-                    </div>
-                    <!-- </div>
-    <div class="row"> -->
+                  </div>
+                    <div class="row">
                     <div class="col-12 mb-4">
-                      <div class="card">
-                        <div class="card-body">
-                          <div class="d-flex justify-content-between flex-sm-row flex-column gap-3">
-                            <div class="d-flex flex-sm-column flex-row align-items-start justify-content-between">
-                              <div class="card-title">
-                                <h5 class="text-nowrap mb-2">Profile Report</h5>
-                                <span class="badge bg-label-warning rounded-pill">Year 2021</span>
-                              </div>
-                              <div class="mt-sm-auto">
-                                <small class="text-success text-nowrap fw-semibold"
-                                  ><i class="bx bx-chevron-up"></i> 68.2%</small
-                                >
-                                <h3 class="mb-0">$84,686k</h3>
-                              </div>
-                            </div>
-                            <div id="profileReportChart"></div>
+                      <div class="card h-100">
+                        <div class="card-header d-flex align-items-center justify-content-between">
+                          <h5 class="card-title m-0 me-2">Planetas y características</h5>
+                          <div class="btn-group">
+                            <button
+                              class="btn btn-secondary dropdown-toggle"
+                              type="button"
+                              id="dropdownMenuClickableInside"
+                              data-bs-toggle="dropdown"
+                              data-bs-auto-close="outside"
+                              aria-expanded="false"
+                            >
+                              Seleccione un planeta
+                            </button>
+                            <ul class="dropdown-menu" id="menuPlanetas" aria-labelledby="dropdownMenuClickableInside"></ul>
                           </div>
+                        </div>
+                        <div class="card-body">
+                          <div id="presentacionPlanetas" class="presentacionesSelection">
+                            <img id="imgPresentaciones" src="../assets/img/varios/planetaInicial.gif" />                      
+                          </div>
+                          <div class="text-center fw-semibold pt-3 mb-2">
+                            Datos:
+                          </div> 
+                          <ul class="p-0 m-0">
+                            <li class="d-flex mb-4 pb-1">
+                              <div class="avatar flex-shrink-0 me-3">
+                                <img src="../assets/img/icons/unicons/paypal.png" alt="User" class="rounded" />
+                              </div>
+                              <div class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2" id="SpeciesName">
+                                <div class="me-2">
+                                  <small class="text-muted d-block mb-1">Horas</small>
+                                  <h6 class="mb-0">Periodo rotacional</h6>
+                                </div>
+                                <div class="user-progress d-flex align-items-center gap-1">
+                                  <h6 class="mb-0" id="rotation_period-Text">+82.6</h6>
+                                </div>
+                              </div>
+                            </li>
+                            <li class="d-flex mb-4 pb-1">
+                              <div class="avatar flex-shrink-0 me-3">
+                                <img src="../assets/img/icons/unicons/wallet.png" alt="User" class="rounded" />
+                              </div>
+                              <div class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
+                                <div class="me-2">
+                                  <small class="text-muted d-block mb-1">Días</small>
+                                  <h6 class="mb-0">Periodo de órbita</h6>
+                                </div>
+                                <div class="user-progress d-flex align-items-center gap-1">
+                                  <h6 class="mb-0" id="orbital_period-Text">+270.69</h6>
+                                </div>
+                              </div>
+                            </li>
+                            <li class="d-flex mb-4 pb-1">
+                              <div class="avatar flex-shrink-0 me-3">
+                                <img src="../assets/img/icons/unicons/chart.png" alt="User" class="rounded" />
+                              </div>
+                              <div class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
+                                <div class="me-2">
+                                  <small class="text-muted d-block mb-1">Kilómetros</small>
+                                  <h6 class="mb-0">Diámetro</h6>
+                                </div>
+                                <div class="user-progress d-flex align-items-center gap-1">
+                                  <h6 class="mb-0" id="diameter-Text">+637.91</h6>
+                                </div>
+                              </div>
+                            </li>
+                          </ul>
                         </div>
                       </div>
                     </div>
@@ -309,8 +301,8 @@
                   <div class="card h-100">
                     <div class="card-header d-flex align-items-center justify-content-between pb-0">
                       <div class="card-title mb-0">
-                        <h5 class="m-0 me-2">Order Statistics</h5>
-                        <small class="text-muted">42.82k Total Sales</small>
+                        <h5 class="m-0 me-2">Estadística de especies</h5>
+                        <small class="text-muted">Personajes con especie registrada</small>
                       </div>
                       <div class="dropdown">
                         <button
@@ -333,8 +325,8 @@
                     <div class="card-body">
                       <div class="d-flex justify-content-between align-items-center mb-3">
                         <div class="d-flex flex-column align-items-center gap-1">
-                          <h2 class="mb-2">8,258</h2>
-                          <span>Total Orders</span>
+                          <h2 class="mb-2" id="TotalEspecies">...</h2>
+                          <span>Especies en Total</span>
                         </div>
                         <div id="orderStatisticsChart"></div>
                       </div>
@@ -347,11 +339,8 @@
                           </div>
                           <div class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
                             <div class="me-2">
-                              <h6 class="mb-0">Electronic</h6>
-                              <small class="text-muted">Mobile, Earbuds, TV</small>
-                            </div>
-                            <div class="user-progress">
-                              <small class="fw-semibold">82.5k</small>
+                              <h6 class="mb-0" id="Human-Label">Cargando...</h6>
+                              <small class="text-muted" id="Human-People"></small>
                             </div>
                           </div>
                         </li>
@@ -361,11 +350,8 @@
                           </div>
                           <div class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
                             <div class="me-2">
-                              <h6 class="mb-0">Fashion</h6>
-                              <small class="text-muted">T-shirt, Jeans, Shoes</small>
-                            </div>
-                            <div class="user-progress">
-                              <small class="fw-semibold">23.8k</small>
+                              <h6 class="mb-0" id="Droid-Label">Cargando...</h6>
+                              <small class="text-muted" id="Droid-People"></small>
                             </div>
                           </div>
                         </li>
@@ -375,11 +361,8 @@
                           </div>
                           <div class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
                             <div class="me-2">
-                              <h6 class="mb-0">Decor</h6>
-                              <small class="text-muted">Fine Art, Dining</small>
-                            </div>
-                            <div class="user-progress">
-                              <small class="fw-semibold">849k</small>
+                              <h6 class="mb-0" id="Wookie-Label">Cargando...</h6>
+                              <small class="text-muted" id="Wookie-People"></small>
                             </div>
                           </div>
                         </li>
@@ -391,11 +374,8 @@
                           </div>
                           <div class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
                             <div class="me-2">
-                              <h6 class="mb-0">Sports</h6>
-                              <small class="text-muted">Football, Cricket Kit</small>
-                            </div>
-                            <div class="user-progress">
-                              <small class="fw-semibold">99</small>
+                              <h6 class="mb-0" id="Gungan-Label">Cargando...</h6>
+                              <small class="text-muted" id="Gungan-People"></small>
                             </div>
                           </div>
                         </li>
@@ -494,7 +474,7 @@
                           <div class="avatar flex-shrink-0 me-3">
                             <img src="../assets/img/icons/unicons/paypal.png" alt="User" class="rounded" />
                           </div>
-                          <div class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
+                          <div class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2" id="SpeciesName">
                             <div class="me-2">
                               <small class="text-muted d-block mb-1">Paypal</small>
                               <h6 class="mb-0">Send money</h6>
