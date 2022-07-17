@@ -732,9 +732,9 @@
 
     for (let i = 1; i < 7; i++){
 
-      document.getElementById("especie-"+i+"-nombre").innerHTML = `${nombresEspecies[i-1]}`;
-      document.getElementById("especie-"+i+"-etiqueta-"+1).innerHTML = `${vidas[i-1]}`;
-      document.getElementById("especie-"+i+"-etiqueta-"+2).innerHTML = `${lenguajes[i-1]}`;
+      document.getElementById("especie-"+i+"-nombre").innerHTML = `Nombre: ${nombresEspecies[i-1]}`;
+      document.getElementById("especie-"+i+"-etiqueta-"+1).innerHTML = `Promedio de vida: ${vidas[i-1]}`;
+      document.getElementById("especie-"+i+"-etiqueta-"+2).innerHTML = `Lenguaje: ${lenguajes[i-1]}`;
     }
 
     
