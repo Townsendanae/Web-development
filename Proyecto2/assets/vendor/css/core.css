@@ -84,6 +84,13 @@ body {
   justify-self: center;
 }
 
+#imgUniverso{
+  width: 100%;
+  padding: 5%;
+  justify-items: center;
+  justify-self: center;
+}
+
 .presentacionesSelection{
   margin-left: 25%;
 }

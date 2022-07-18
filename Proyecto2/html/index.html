@@ -109,33 +109,26 @@
                     <div class="col-lg-6 col-md-12 col-6 mb-4">
                       <div class="card">
                         <div class="card-body">
+                          <span class="fw-semibold d-block mb-1">Personajes importantes: </span>
+                          <h3 class="card-title mb-2" id="card-title mb-2People">Cargando...</h3><br>
                           <div class="card-title d-flex align-items-start justify-content-between">
-                            <div class="avatar flex-shrink-0">
-                              <img
-                                src="../assets/img/icons/unicons/chart-success.png"
-                                alt="chart success"
-                                class="rounded"
-                              />
-                            </div>
                             <div class="dropdown">
                               <button
-                                class="btn p-0"
-                                type="button"
-                                id="cardOpt3"
-                                data-bs-toggle="dropdown"
-                                aria-haspopup="true"
-                                aria-expanded="false"
-                              >
-                                <i class="bx bx-dots-vertical-rounded"></i>
-                              </button>
-                              <div class="dropdown-menu dropdown-menu-end" aria-labelledby="cardOpt3">
-                                <a class="dropdown-item" href="javascript:void(0);">View More</a>
-                                <a class="dropdown-item" href="javascript:void(0);">Delete</a>
-                              </div>
+                              id="botonPersonajes"
+                              type="button"
+                              class="btn btn-primary text-nowrap"
+                              data-bs-toggle="popover"
+                              data-bs-offset="0,14"
+                              data-bs-placement="bottom"
+                              data-bs-html="true"
+                              
+                              data-bs-content="<p>Los personajes considerados son aquellos cuyos registros existen</p>"
+                              title="Nota: "
+                            >
+                              Más info
+                            </button>
                             </div>
                           </div>
-                          <span class="fw-semibold d-block mb-1">Personajes importantes: </span>
-                          <h3 class="card-title mb-2" id="card-title mb-2People">Cargando...</h3>
                         </div>
                       </div>
                     </div>
@@ -143,10 +136,9 @@
                       <div class="card">
                         <div class="card-body">
                           <div class="card-title d-flex align-items-start justify-content-between">
-                            <div class="avatar flex-shrink-0">
+                            <div class="avatar flex-shrink-0" id="imgSopresa">
                               <img
-                                src="../assets/img/icons/unicons/wallet-info.png"
-                                alt="Credit Card"
+                                src="../assets/img/icons/starWarsIcons/8.png"
                                 class="rounded"
                               />
                             </div>
@@ -162,8 +154,7 @@
                                 <i class="bx bx-dots-vertical-rounded"></i>
                               </button>
                               <div class="dropdown-menu dropdown-menu-end" aria-labelledby="cardOpt6">
-                                <a class="dropdown-item" href="javascript:void(0);">View More</a>
-                                <a class="dropdown-item" href="javascript:void(0);">Delete</a>
+                                <li class="dropdown-item" id="sorpresa"><a class="dropdown-item"  value="${enlace}">Sorpresa</a></li>
                               </div>
                             </div>
                           </div>
@@ -180,7 +171,8 @@
                     <div class="row row-bordered g-0">
                       <div class="col-md-8">
                         <h5 class="card-header m-0 me-2 pb-3">Transporte Rebelde VS Halcón Milenario</h5>
-                        <div id="ComparacionNaves" class="px-2"></div>
+                        <div id="ComparacionNaves" class="px-2">
+                        </div>
                       </div>
                       <div class="col-md-4">
                         <div class="card-body">
@@ -249,7 +241,7 @@
                           <ul class="p-0 m-0">
                             <li class="d-flex mb-4 pb-1">
                               <div class="avatar flex-shrink-0 me-3">
-                                <img src="../assets/img/icons/unicons/paypal.png" alt="User" class="rounded" />
+                                <img src="../assets/img/icons/starWarsIcons/15.png" alt="User" class="rounded" />
                               </div>
                               <div class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2" id="SpeciesName">
                                 <div class="me-2">
@@ -257,13 +249,13 @@
                                   <h6 class="mb-0">Periodo rotacional</h6>
                                 </div>
                                 <div class="user-progress d-flex align-items-center gap-1">
-                                  <h6 class="mb-0" id="rotation_period-Text">...</h6>
+                                  <h6 class="mb-0" id="rotation_period-Text">-</h6>
                                 </div>
                               </div>
                             </li>
                             <li class="d-flex mb-4 pb-1">
                               <div class="avatar flex-shrink-0 me-3">
-                                <img src="../assets/img/icons/unicons/wallet.png" alt="User" class="rounded" />
+                                <img src="../assets/img/icons/starWarsIcons/14.png" alt="User" class="rounded" />
                               </div>
                               <div class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
                                 <div class="me-2">
@@ -271,13 +263,13 @@
                                   <h6 class="mb-0">Periodo de órbita</h6>
                                 </div>
                                 <div class="user-progress d-flex align-items-center gap-1">
-                                  <h6 class="mb-0" id="orbital_period-Text">...</h6>
+                                  <h6 class="mb-0" id="orbital_period-Text">-</h6>
                                 </div>
                               </div>
                             </li>
                             <li class="d-flex mb-4 pb-1">
                               <div class="avatar flex-shrink-0 me-3">
-                                <img src="../assets/img/icons/unicons/chart.png" alt="User" class="rounded" />
+                                <img src="../assets/img/icons/starWarsIcons/13.png" alt="User" class="rounded" />
                               </div>
                               <div class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
                                 <div class="me-2">
@@ -285,7 +277,7 @@
                                   <h6 class="mb-0">Diámetro</h6>
                                 </div>
                                 <div class="user-progress d-flex align-items-center gap-1">
-                                  <h6 class="mb-0" id="diameter-Text">...</h6>
+                                  <h6 class="mb-0" id="diameter-Text">-</h6>
                                 </div>
                               </div>
                             </li>
@@ -305,23 +297,6 @@
                         <h5 class="m-0 me-2">Estadística de especies</h5>
                         <small class="text-muted">Personajes con especie registrada</small>
                       </div>
-                      <div class="dropdown">
-                        <button
-                          class="btn p-0"
-                          type="button"
-                          id="orederStatistics"
-                          data-bs-toggle="dropdown"
-                          aria-haspopup="true"
-                          aria-expanded="false"
-                        >
-                          <i class="bx bx-dots-vertical-rounded"></i>
-                        </button>
-                        <div class="dropdown-menu dropdown-menu-end" aria-labelledby="orederStatistics">
-                          <a class="dropdown-item" href="javascript:void(0);">Select All</a>
-                          <a class="dropdown-item" href="javascript:void(0);">Refresh</a>
-                          <a class="dropdown-item" href="javascript:void(0);">Share</a>
-                        </div>
-                      </div>
                     </div>
                     <div class="card-body">
                       <div class="d-flex justify-content-between align-items-center mb-3">
@@ -334,9 +309,9 @@
                       <ul class="p-0 m-0">
                         <li class="d-flex mb-4 pb-1">
                           <div class="avatar flex-shrink-0 me-3">
-                            <span class="avatar-initial rounded bg-label-primary"
-                              ><i class="bx bx-mobile-alt"></i
-                            ></span>
+                            <div class="avatar flex-shrink-0 me-3">
+                              <img src="../assets/img/icons/starWarsIcons/17.png" alt="User" class="rounded" />
+                            </div>
                           </div>
                           <div class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
                             <div class="me-2">
@@ -347,7 +322,7 @@
                         </li>
                         <li class="d-flex mb-4 pb-1">
                           <div class="avatar flex-shrink-0 me-3">
-                            <span class="avatar-initial rounded bg-label-success"><i class="bx bx-closet"></i></span>
+                            <img src="../assets/img/icons/starWarsIcons/16.png" alt="User" class="rounded" />
                           </div>
                           <div class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
                             <div class="me-2">
@@ -358,7 +333,7 @@
                         </li>
                         <li class="d-flex mb-4 pb-1">
                           <div class="avatar flex-shrink-0 me-3">
-                            <span class="avatar-initial rounded bg-label-info"><i class="bx bx-home-alt"></i></span>
+                            <img src="../assets/img/icons/starWarsIcons/18.png" alt="User" class="rounded" />
                           </div>
                           <div class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
                             <div class="me-2">
@@ -369,9 +344,9 @@
                         </li>
                         <li class="d-flex">
                           <div class="avatar flex-shrink-0 me-3">
-                            <span class="avatar-initial rounded bg-label-secondary"
-                              ><i class="bx bx-football"></i
-                            ></span>
+                            <div class="avatar flex-shrink-0 me-3">
+                              <img src="../assets/img/icons/starWarsIcons/19.png" alt="User" class="rounded" />
+                            </div>
                           </div>
                           <div class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
                             <div class="me-2">
@@ -393,6 +368,7 @@
                       <ul class="nav nav-pills" role="tablist">
                         <li class="nav-item">
                           <button
+                            id="btnMapaUniverso"
                             type="button"
                             class="nav-link active"
                             role="tab"
@@ -401,14 +377,11 @@
                             aria-controls="navs-tabs-line-card-income"
                             aria-selected="true"
                           >
-                            Income
+                            Ver mapa 
                           </button>
                         </li>
                         <li class="nav-item">
-                          <button type="button" class="nav-link" role="tab">Expenses</button>
-                        </li>
-                        <li class="nav-item">
-                          <button type="button" class="nav-link" role="tab">Profit</button>
+                          <button type="button" id="btnMapaUniversoOcultar" class="nav-link" role="tab">Ocultar</button>
                         </li>
                       </ul>
                     </div>
@@ -417,7 +390,7 @@
                         <div class="tab-pane fade show active" id="navs-tabs-line-card-income" role="tabpanel">
                           <div class="d-flex p-4 pt-3">
                             <div class="avatar flex-shrink-0 me-3">
-                              <img src="../assets/img/icons/unicons/wallet.png" alt="User" />
+                              <img src="../assets/img/icons/starWarsIcons/9.png" alt="User" />
                             </div>
                             <div>
                               <small class="text-muted d-block">Total Planetas</small>
@@ -431,13 +404,9 @@
                           <canvas id="graficaPlanetasYFilms"></canvas>
                           <div id="incomeChart"></div>
                           <div class="d-flex justify-content-center pt-4 gap-2">
-                            <div class="flex-shrink-0">
-                              <div id="expensesOfWeek"></div>
-                            </div>
-                            <div>
-                              <p class="mb-n1 mt-1">Expenses This Week</p>
-                              <small class="text-muted">$39 less than last week</small>
-                            </div>
+                          </div>
+                          <div id="mapaUniverso">
+
                           </div>
                         </div>
                       </div>
@@ -451,29 +420,12 @@
                   <div class="card h-100">
                     <div class="card-header d-flex align-items-center justify-content-between">
                       <h5 class="card-title m-0 me-2">Especies y características</h5>
-                      <div class="dropdown">
-                        <button
-                          class="btn p-0"
-                          type="button"
-                          id="transactionID"
-                          data-bs-toggle="dropdown"
-                          aria-haspopup="true"
-                          aria-expanded="false"
-                        >
-                          <i class="bx bx-dots-vertical-rounded"></i>
-                        </button>
-                        <div class="dropdown-menu dropdown-menu-end" aria-labelledby="transactionID">
-                          <a class="dropdown-item" href="javascript:void(0);">Last 28 Days</a>
-                          <a class="dropdown-item" href="javascript:void(0);">Last Month</a>
-                          <a class="dropdown-item" href="javascript:void(0);">Last Year</a>
-                        </div>
-                      </div>
                     </div>
                     <div class="card-body">
                       <ul class="p-0 m-0">
                         <li class="d-flex mb-4 pb-1">
                           <div class="avatar flex-shrink-0 me-3">
-                            <img src="../assets/img/icons/unicons/paypal.png" alt="User" class="rounded" />
+                            <img src="../assets/img/icons/starWarsIcons/2.png" alt="User" class="rounded" />
                           </div>
                           <div class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2" id="SpeciesName">
                             <div class="me-2">
@@ -487,7 +439,7 @@
                         </li>
                         <li class="d-flex mb-4 pb-1">
                           <div class="avatar flex-shrink-0 me-3">
-                            <img src="../assets/img/icons/unicons/wallet.png" alt="User" class="rounded" />
+                            <img src="../assets/img/icons/starWarsIcons/10.png" alt="User" class="rounded" />
                           </div>
                           <div class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
                             <div class="me-2">
@@ -501,7 +453,7 @@
                         </li>
                         <li class="d-flex mb-4 pb-1">
                           <div class="avatar flex-shrink-0 me-3">
-                            <img src="../assets/img/icons/unicons/chart.png" alt="User" class="rounded" />
+                            <img src="../assets/img/icons/starWarsIcons/6.png" alt="User" class="rounded" />
                           </div>
                           <div class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
                             <div class="me-2">
@@ -515,7 +467,7 @@
                         </li>
                         <li class="d-flex mb-4 pb-1">
                           <div class="avatar flex-shrink-0 me-3">
-                            <img src="../assets/img/icons/unicons/cc-success.png" alt="User" class="rounded" />
+                            <img src="../assets/img/icons/starWarsIcons/11.png" alt="User" class="rounded" />
                           </div>
                           <div class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
                             <div class="me-2">
@@ -529,7 +481,7 @@
                         </li>
                         <li class="d-flex mb-4 pb-1">
                           <div class="avatar flex-shrink-0 me-3">
-                            <img src="../assets/img/icons/unicons/wallet.png" alt="User" class="rounded" />
+                            <img src="../assets/img/icons/starWarsIcons/3.png" alt="User" class="rounded" />
                           </div>
                           <div class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
                             <div class="me-2">
@@ -597,10 +549,10 @@
 
     <div class="buy-now">
       <a
-        href="https://themeselection.com/products/sneat-bootstrap-html-admin-template/"
+        href="https://www.youtube.com/watch?v=7wMiMDBHnJ0&ab_channel=JohnWilliams-Topic"
         target="_blank"
         class="btn btn-danger btn-buy-now"
-        >Upgrade to Pro</a
+        >Best soundtrack ever!</a
       >
     </div>
 
@@ -624,6 +576,7 @@
 
     <!-- Main JS -->
     <script src="../assets/js/main.js"></script>
+    <script src="../assets/js/ui-popover.js"></script>
 
     <!-- Page JS -->
     <script src="../assets/js/dashboards-analytics.js"></script>

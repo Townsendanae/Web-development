@@ -347,6 +347,13 @@
       .then(data => {
         let totalPersonas = data['count']
         document.getElementById('card-title mb-2People').innerHTML = `${totalPersonas}`;
+
+        let personas = ""
+
+        for (let dato of data['results']){
+          personas += dato['name'] + ". "
+        }
+        
       })
       .catch(console.error);
   }
@@ -364,6 +371,15 @@
       .catch(console.error);
   }
   cargarTotalNaves();
+
+  const selecSorpresa = document.getElementById('sorpresa');
+  selecSorpresa.addEventListener('click', (event) => {
+    document.getElementById('imgSopresa').innerHTML = `<img
+    src="../assets/img/varios/sorpresa.png"
+    class="rounded"
+  />`;
+  });
+
 
 
   // Presentación naves
@@ -397,7 +413,9 @@
           `
           <div class="d-flex">
             <div class="me-2">
-              <span class="badge bg-label-primary p-2"><i class="bx bx-dollar text-primary"></i></span>
+            <div class="avatar flex-shrink-0 me-3">
+            <img src="../assets/img/icons/starWarsIcons/1.png" alt="User" class="rounded" />
+          </div>
             </div>
             <div class="d-flex flex-column" class="naveSelection">
             <small>${titulosDatos[i]}</small>
@@ -427,7 +445,7 @@
   let listaItems;
   
   async function cargarDatosPlanetas() {
-    let listaPlanetas = [] // 8 primeros planetas
+    let listaPlanetas = [] 
     let URLPlanetas = []
 
     const response = await fetch("https://swapi.dev/api/planets/?format=json");
@@ -476,16 +494,6 @@
     });
   });
   
-
- 
-
-  
-
-  // selectPlanet.addEventListener('click', (event) => {
-  //   let enlacePlanet = `${event.target.value}`;
-  //   PresentarDatosPlaneta(enlacePlanet);
-  // });
-
 
   // Distribución de especies en personajes con especie registrada
   // --------------------------------------------------------------------
@@ -658,6 +666,20 @@
   })
   .catch(console.error);
   cargarDatos()
+
+
+  //Ver mapa universo 
+  const btnMostrarUniverso = document.getElementById('btnMapaUniverso');
+  btnMostrarUniverso.addEventListener('click', (event) => {
+    document.getElementById("mapaUniverso").innerHTML = `<img id="imgUniverso" src="../assets/img/varios/universo.webp" alt="User" />`;  
+  });
+
+  //Ocultar mapa Universo
+  const btnOcultarUniverso = document.getElementById('btnMapaUniversoOcultar');
+  btnOcultarUniverso.addEventListener('click', (event) => {
+    document.getElementById("mapaUniverso").innerHTML = ``;  
+  });
+
 
   // Expenses Mini Chart - Radial Chart
   // --------------------------------------------------------------------
