@@ -70,7 +70,6 @@
         valoresRebel.push(parseInt(datos['MGLT']))
       }
     }
-    console.log(parametros, valoresMillennium, valoresRebel)
     const totalRevenueChartEl = document.querySelector('#ComparacionNaves');
 
     let totalRevenueChartOptions = {
@@ -468,12 +467,11 @@
     .then(response => response.json())
     .then(data => {
       for (let planeta of data['results']){
-        console.log(nombrePlaneta)
-        console.log(planeta['name'])
         if(planeta['name'] == nombrePlaneta){
           document.getElementById('rotation_period-Text').innerHTML = planeta['rotation_period']
           document.getElementById('orbital_period-Text').innerHTML = planeta['orbital_period']
           document.getElementById('diameter-Text').innerHTML = planeta['diameter']
+          document.getElementById('tituloPlaneta').innerHTML = planeta['name'];
           document.getElementById('presentacionPlanetas').innerHTML = `<img id="imgPresentaciones" src="../assets/img/planetas/${nombrePlaneta}.gif"/>`
         }
       }  
@@ -484,11 +482,9 @@
 
   const botonSeleccion = document.getElementById('dropdownMenuPlanetas');
   botonSeleccion.addEventListener('click', (event) => {
-    console.log(listaItems)
     listaItems.forEach(function(item) {
       item.onclick = function(e) {
         let value = this.innerText; 
-        console.log(value)
         PresentarDatosPlaneta(value);
       }
     });
@@ -626,7 +622,6 @@
       nombreFilm.push("" + titulo)
       cantidadPlanetas.push(arrayPlanets.length);
     }
-    console.log(cantidadPlanetas, nombreFilm)
     const $grafica = document.querySelector("#graficaPlanetasYFilms");
     
     const datosPlanetsFilms = {
