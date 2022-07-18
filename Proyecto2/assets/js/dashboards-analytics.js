@@ -424,8 +424,8 @@
 
   // Planetas y características - tabla 
   // --------------------------------------------------------------------
-
-
+  let listaItems;
+  
   async function cargarDatosPlanetas() {
     let listaPlanetas = [] // 8 primeros planetas
     let URLPlanetas = []
@@ -438,23 +438,48 @@
       let enlace = planeta['url']
       listaPlanetas.push(nombre)
       URLPlanetas.push(enlace)
-      document.getElementById('menuPlanetas').innerHTML += `<li class="selectPlaneta" id="selecPlaneta" value="${enlace}"><a class="dropdown-item">${nombre}</a></li>`;
+      document.getElementById('menuPlanetas').innerHTML += `<li class="selectPlaneta" id="selecPlaneta" value="${enlace}"><a class="dropdown-item"  value="${enlace}">${nombre}</a></li>`;
+      listaItems = document.querySelectorAll('li[class="selectPlaneta"]');
     }
+    listaItems = document.querySelectorAll('li[class="selectPlaneta"]');
   }
 
-  let PresentarDatosPlaneta = (URLPlaneta) => {
-    console.log(URLPlaneta)
+  let PresentarDatosPlaneta = (nombrePlaneta) => {
+
+    fetch('https://swapi.dev/api/planets/?format=json')
+    .then(response => response.json())
+    .then(data => {
+      for (let planeta of data['results']){
+        console.log(nombrePlaneta)
+        console.log(planeta['name'])
+        if(planeta['name'] == nombrePlaneta){
+          document.getElementById('rotation_period-Text').innerHTML = planeta['rotation_period']
+          document.getElementById('orbital_period-Text').innerHTML = planeta['orbital_period']
+          document.getElementById('diameter-Text').innerHTML = planeta['diameter']
+          document.getElementById('presentacionPlanetas').innerHTML = `<img id="imgPresentaciones" src="../assets/img/planetas/${nombrePlaneta}.gif"/>`
+        }
+      }  
+    })
   }
 
   cargarDatosPlanetas();
-  
-  // let listaItems = document.getElementsByClassName('selectPlaneta');
 
-  // listaItems.forEach(function(item) {
-  //   item.onclick = function(e) {
-  //      console.log(this.innerText); // this returns clicked li's value
-  //   }
-  // });
+  const botonSeleccion = document.getElementById('dropdownMenuPlanetas');
+  botonSeleccion.addEventListener('click', (event) => {
+    console.log(listaItems)
+    listaItems.forEach(function(item) {
+      item.onclick = function(e) {
+        let value = this.innerText; 
+        console.log(value)
+        PresentarDatosPlaneta(value);
+      }
+    });
+  });
+  
+
+ 
+
+  
 
   // selectPlanet.addEventListener('click', (event) => {
   //   let enlacePlanet = `${event.target.value}`;
@@ -730,7 +755,7 @@
       lenguajes.push(lenguaje)
     }
 
-    for (let i = 1; i < 7; i++){
+    for (let i = 1; i < 6; i++){
 
       document.getElementById("especie-"+i+"-nombre").innerHTML = `Nombre: ${nombresEspecies[i-1]}`;
       document.getElementById("especie-"+i+"-etiqueta-"+1).innerHTML = `Promedio de vida: ${vidas[i-1]}`;
