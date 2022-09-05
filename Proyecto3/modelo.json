@@ -1,0 +1,29 @@
+{
+	"model": {
+		"type": "Object",
+		"value": {
+			"idPlaneta": {
+				"type": "incrementNumber",
+				"options": {
+					"from": 0
+				}
+			},
+			"diametro": {
+				"type": "randomNumberBetween",
+				"value": [150, 25876552343242342423]
+			},
+			"periodo_orbita": {
+				"type": "randomNumberBetween",
+				"value": [4, 258765342432452343242342423]	
+			},
+            "periodo_rotacion": {
+				"type": "randomNumberBetween",
+				"value": [4, 258765342432452343242342423]	
+			},
+            "gravedad": {
+				"type": "randomNumberBetween",
+				"value": [4, 231312332424]	
+			}
+		}
+	}
+}

@@ -1,0 +1,7002 @@
+[
+	{
+		"idPlaneta": 0,
+		"diametro": 132661356809833470,
+		"periodo_orbita": 2.3933820469078126e+26,
+		"periodo_rotacion": 1.8509040902687117e+26,
+		"gravedad": 71211462355
+	},
+	{
+		"idPlaneta": 1,
+		"diametro": 90903691589438030,
+		"periodo_orbita": 2.119076441095692e+26,
+		"periodo_rotacion": 5.177315881659037e+25,
+		"gravedad": 169533235406
+	},
+	{
+		"idPlaneta": 2,
+		"diametro": 16926101807724902000,
+		"periodo_orbita": 1.1709089526565656e+26,
+		"periodo_rotacion": 5.302660506682545e+25,
+		"gravedad": 33614414877
+	},
+	{
+		"idPlaneta": 3,
+		"diametro": 2347195413519167500,
+		"periodo_orbita": 1.5149404949484752e+26,
+		"periodo_rotacion": 6.594722425689983e+24,
+		"gravedad": 62914485476
+	},
+	{
+		"idPlaneta": 4,
+		"diametro": 25493524290119393000,
+		"periodo_orbita": 1.6515093527139743e+26,
+		"periodo_rotacion": 4.653988132376811e+25,
+		"gravedad": 135963274674
+	},
+	{
+		"idPlaneta": 5,
+		"diametro": 15508281623140405000,
+		"periodo_orbita": 2.5564440307032992e+26,
+		"periodo_rotacion": 1.6874882255354726e+26,
+		"gravedad": 171768638734
+	},
+	{
+		"idPlaneta": 6,
+		"diametro": 11806855715436837000,
+		"periodo_orbita": 7.632523074336593e+25,
+		"periodo_rotacion": 3.492175463339833e+25,
+		"gravedad": 24100414937
+	},
+	{
+		"idPlaneta": 7,
+		"diametro": 15420926821072742000,
+		"periodo_orbita": 9.289630018024473e+24,
+		"periodo_rotacion": 4.946377289340545e+25,
+		"gravedad": 197068232045
+	},
+	{
+		"idPlaneta": 8,
+		"diametro": 18500120524983656000,
+		"periodo_orbita": 3.3402996716941317e+25,
+		"periodo_rotacion": 5.731260607710475e+25,
+		"gravedad": 83132344059
+	},
+	{
+		"idPlaneta": 9,
+		"diametro": 1934404989653590300,
+		"periodo_orbita": 1.5743264075032605e+26,
+		"periodo_rotacion": 1.2248390185905159e+26,
+		"gravedad": 218321095629
+	},
+	{
+		"idPlaneta": 10,
+		"diametro": 3081516038926072000,
+		"periodo_orbita": 1.3780843357903346e+25,
+		"periodo_rotacion": 2.585044341757705e+26,
+		"gravedad": 149027289327
+	},
+	{
+		"idPlaneta": 11,
+		"diametro": 15192565133546942000,
+		"periodo_orbita": 2.078286643717947e+26,
+		"periodo_rotacion": 1.5417844067426738e+26,
+		"gravedad": 228310719926
+	},
+	{
+		"idPlaneta": 12,
+		"diametro": 1116159876983120000,
+		"periodo_orbita": 2.048273903193391e+26,
+		"periodo_rotacion": 1.3418352689711735e+26,
+		"gravedad": 18191593582
+	},
+	{
+		"idPlaneta": 13,
+		"diametro": 16216633481715978000,
+		"periodo_orbita": 1.2405417603720984e+26,
+		"periodo_rotacion": 1.5156341422417592e+26,
+		"gravedad": 12405468986
+	},
+	{
+		"idPlaneta": 14,
+		"diametro": 22242570790842774000,
+		"periodo_orbita": 1.5194487022889423e+26,
+		"periodo_rotacion": 5.276797001161187e+25,
+		"gravedad": 2889006003
+	},
+	{
+		"idPlaneta": 15,
+		"diametro": 6328132317899550000,
+		"periodo_orbita": 1.3778541761752054e+26,
+		"periodo_rotacion": 2.3643806522325257e+26,
+		"gravedad": 97812657770
+	},
+	{
+		"idPlaneta": 16,
+		"diametro": 16824597109170370000,
+		"periodo_orbita": 1.260496131474323e+25,
+		"periodo_rotacion": 8.359630802761905e+25,
+		"gravedad": 7227113697
+	},
+	{
+		"idPlaneta": 17,
+		"diametro": 11313906742399375000,
+		"periodo_orbita": 2.4067253122737823e+26,
+		"periodo_rotacion": 1.4155465157883209e+26,
+		"gravedad": 70553783547
+	},
+	{
+		"idPlaneta": 18,
+		"diametro": 22632057015117545000,
+		"periodo_orbita": 5.88305980341929e+25,
+		"periodo_rotacion": 1.498846502832824e+26,
+		"gravedad": 132604584302
+	},
+	{
+		"idPlaneta": 19,
+		"diametro": 13707466349645510000,
+		"periodo_orbita": 3.523026091294406e+25,
+		"periodo_rotacion": 4.694811671386126e+25,
+		"gravedad": 138316088824
+	},
+	{
+		"idPlaneta": 20,
+		"diametro": 2140042555347262200,
+		"periodo_orbita": 6.20911820420876e+25,
+		"periodo_rotacion": 3.8599503189138e+24,
+		"gravedad": 155296679867
+	},
+	{
+		"idPlaneta": 21,
+		"diametro": 8470325888973341000,
+		"periodo_orbita": 2.4443831556437795e+26,
+		"periodo_rotacion": 1.7275332612667242e+26,
+		"gravedad": 208190682439
+	},
+	{
+		"idPlaneta": 22,
+		"diametro": 9351715473449224000,
+		"periodo_orbita": 1.8478501197144984e+26,
+		"periodo_rotacion": 3.0246512617968546e+25,
+		"gravedad": 89573228211
+	},
+	{
+		"idPlaneta": 23,
+		"diametro": 16970061184495213000,
+		"periodo_orbita": 2.0306363221051467e+26,
+		"periodo_rotacion": 1.2246154199150221e+26,
+		"gravedad": 122223857694
+	},
+	{
+		"idPlaneta": 24,
+		"diametro": 8365558406019095000,
+		"periodo_orbita": 6.149972395101063e+25,
+		"periodo_rotacion": 1.6651644004246862e+26,
+		"gravedad": 164612629913
+	},
+	{
+		"idPlaneta": 25,
+		"diametro": 10563288931314702000,
+		"periodo_orbita": 1.4248519743557738e+26,
+		"periodo_rotacion": 3.439169611452258e+25,
+		"gravedad": 31784542917
+	},
+	{
+		"idPlaneta": 26,
+		"diametro": 11587565758994792000,
+		"periodo_orbita": 2.2621119532632203e+26,
+		"periodo_rotacion": 6.738633297745877e+25,
+		"gravedad": 47747883211
+	},
+	{
+		"idPlaneta": 27,
+		"diametro": 16898233259032383000,
+		"periodo_orbita": 1.570560639642066e+26,
+		"periodo_rotacion": 2.269615328714883e+26,
+		"gravedad": 206031837923
+	},
+	{
+		"idPlaneta": 28,
+		"diametro": 14336000847104586000,
+		"periodo_orbita": 2.7242654831698388e+25,
+		"periodo_rotacion": 1.1935071559193546e+26,
+		"gravedad": 27594251815
+	},
+	{
+		"idPlaneta": 29,
+		"diametro": 6771978430242306000,
+		"periodo_orbita": 2.0095542612394668e+26,
+		"periodo_rotacion": 1.293439265828716e+26,
+		"gravedad": 177473173815
+	},
+	{
+		"idPlaneta": 30,
+		"diametro": 23875837508243513000,
+		"periodo_orbita": 1.978020775533195e+26,
+		"periodo_rotacion": 5.195460927689786e+25,
+		"gravedad": 111919577591
+	},
+	{
+		"idPlaneta": 31,
+		"diametro": 987279499063497300,
+		"periodo_orbita": 1.3110675254650195e+25,
+		"periodo_rotacion": 1.6064244266530574e+26,
+		"gravedad": 112738856649
+	},
+	{
+		"idPlaneta": 32,
+		"diametro": 23511573052095705000,
+		"periodo_orbita": 1.1854060341903346e+26,
+		"periodo_rotacion": 1.4996962186456419e+26,
+		"gravedad": 53848102238
+	},
+	{
+		"idPlaneta": 33,
+		"diametro": 24630861128946164000,
+		"periodo_orbita": 2.1129361375916882e+26,
+		"periodo_rotacion": 1.2748480640243318e+26,
+		"gravedad": 142394055021
+	},
+	{
+		"idPlaneta": 34,
+		"diametro": 17253086091147702000,
+		"periodo_orbita": 2.692723085622859e+24,
+		"periodo_rotacion": 8.06744869591176e+25,
+		"gravedad": 20500882005
+	},
+	{
+		"idPlaneta": 35,
+		"diametro": 12358761570259534000,
+		"periodo_orbita": 8.385592668571798e+25,
+		"periodo_rotacion": 3.7574830626007314e+25,
+		"gravedad": 92481526957
+	},
+	{
+		"idPlaneta": 36,
+		"diametro": 15509992789098398000,
+		"periodo_orbita": 1.5025407698270452e+25,
+		"periodo_rotacion": 1.8557396321472148e+26,
+		"gravedad": 149891801244
+	},
+	{
+		"idPlaneta": 37,
+		"diametro": 4802088435729983000,
+		"periodo_orbita": 9.269740916333012e+25,
+		"periodo_rotacion": 6.506404627855241e+24,
+		"gravedad": 103612753431
+	},
+	{
+		"idPlaneta": 38,
+		"diametro": 17559450419802579000,
+		"periodo_orbita": 2.0618454033268633e+26,
+		"periodo_rotacion": 2.5823111767122603e+26,
+		"gravedad": 214036854532
+	},
+	{
+		"idPlaneta": 39,
+		"diametro": 20216410822951334000,
+		"periodo_orbita": 2.4298663838123215e+26,
+		"periodo_rotacion": 2.055360965955629e+26,
+		"gravedad": 201818808129
+	},
+	{
+		"idPlaneta": 40,
+		"diametro": 2146469181759027500,
+		"periodo_orbita": 2.385346516691332e+26,
+		"periodo_rotacion": 2.4629140181107084e+26,
+		"gravedad": 180938755794
+	},
+	{
+		"idPlaneta": 41,
+		"diametro": 15446924917487456000,
+		"periodo_orbita": 1.2679406952410858e+26,
+		"periodo_rotacion": 2.1954423478789048e+26,
+		"gravedad": 137644169406
+	},
+	{
+		"idPlaneta": 42,
+		"diametro": 7922808951992414000,
+		"periodo_orbita": 2.458919638947516e+26,
+		"periodo_rotacion": 1.7636926020603277e+25,
+		"gravedad": 145682215027
+	},
+	{
+		"idPlaneta": 43,
+		"diametro": 10049911491670202000,
+		"periodo_orbita": 3.7737174959581074e+25,
+		"periodo_rotacion": 1.0837135597856557e+25,
+		"gravedad": 117744325046
+	},
+	{
+		"idPlaneta": 44,
+		"diametro": 14760587292769536000,
+		"periodo_orbita": 1.0464391456819738e+26,
+		"periodo_rotacion": 1.0181581249731099e+26,
+		"gravedad": 217442897013
+	},
+	{
+		"idPlaneta": 45,
+		"diametro": 22348830384599540000,
+		"periodo_orbita": 1.2847941250866166e+26,
+		"periodo_rotacion": 1.100664058483827e+26,
+		"gravedad": 80043054312
+	},
+	{
+		"idPlaneta": 46,
+		"diametro": 4102398278222373400,
+		"periodo_orbita": 1.1372514039620057e+26,
+		"periodo_rotacion": 9.1523276824698e+25,
+		"gravedad": 5358573064
+	},
+	{
+		"idPlaneta": 47,
+		"diametro": 12027613288247626000,
+		"periodo_orbita": 5.123059832054461e+25,
+		"periodo_rotacion": 2.1014950369400037e+26,
+		"gravedad": 217105386910
+	},
+	{
+		"idPlaneta": 48,
+		"diametro": 21112468090451476000,
+		"periodo_orbita": 2.2897202449467837e+26,
+		"periodo_rotacion": 1.5585264014297285e+26,
+		"gravedad": 134521312185
+	},
+	{
+		"idPlaneta": 49,
+		"diametro": 17919591800380375000,
+		"periodo_orbita": 1.7769293993440298e+26,
+		"periodo_rotacion": 1.5968389282408113e+26,
+		"gravedad": 185291932044
+	},
+	{
+		"idPlaneta": 50,
+		"diametro": 18143879535344837000,
+		"periodo_orbita": 2.218724423661508e+26,
+		"periodo_rotacion": 1.743555539875269e+26,
+		"gravedad": 210301127164
+	},
+	{
+		"idPlaneta": 51,
+		"diametro": 24718116682980397000,
+		"periodo_orbita": 8.433236428438296e+25,
+		"periodo_rotacion": 2.3555314870705663e+26,
+		"gravedad": 159887391094
+	},
+	{
+		"idPlaneta": 52,
+		"diametro": 20588674603904610000,
+		"periodo_orbita": 2.265933324342945e+26,
+		"periodo_rotacion": 2.0059499463067954e+25,
+		"gravedad": 87898866470
+	},
+	{
+		"idPlaneta": 53,
+		"diametro": 14469209947000955000,
+		"periodo_orbita": 1.198212197204081e+26,
+		"periodo_rotacion": 1.9182204369743098e+26,
+		"gravedad": 76930003601
+	},
+	{
+		"idPlaneta": 54,
+		"diametro": 23230197410862960000,
+		"periodo_orbita": 6.803348277303058e+24,
+		"periodo_rotacion": 1.4918944612106596e+26,
+		"gravedad": 130359097666
+	},
+	{
+		"idPlaneta": 55,
+		"diametro": 22983184402483446000,
+		"periodo_orbita": 1.621253066653676e+26,
+		"periodo_rotacion": 2.512397154862311e+25,
+		"gravedad": 76816432454
+	},
+	{
+		"idPlaneta": 56,
+		"diametro": 24457047259567985000,
+		"periodo_orbita": 3.883655879608947e+24,
+		"periodo_rotacion": 9.28677119054872e+25,
+		"gravedad": 165358432754
+	},
+	{
+		"idPlaneta": 57,
+		"diametro": 2748160185792087600,
+		"periodo_orbita": 1.6684783938960145e+26,
+		"periodo_rotacion": 1.6746672963786527e+26,
+		"gravedad": 79418822280
+	},
+	{
+		"idPlaneta": 58,
+		"diametro": 9878187150664985000,
+		"periodo_orbita": 2.34786488840242e+26,
+		"periodo_rotacion": 1.3904106319511074e+26,
+		"gravedad": 48568576170
+	},
+	{
+		"idPlaneta": 59,
+		"diametro": 7993482762668954000,
+		"periodo_orbita": 1.1429221851354151e+25,
+		"periodo_rotacion": 1.4479008639570352e+26,
+		"gravedad": 137075384226
+	},
+	{
+		"idPlaneta": 60,
+		"diametro": 24997902043473760000,
+		"periodo_orbita": 2.428625676025289e+25,
+		"periodo_rotacion": 2.373317912946561e+26,
+		"gravedad": 114910454587
+	},
+	{
+		"idPlaneta": 61,
+		"diametro": 11678122342984092000,
+		"periodo_orbita": 1.3918448796345264e+26,
+		"periodo_rotacion": 2.133014003664877e+26,
+		"gravedad": 106861010973
+	},
+	{
+		"idPlaneta": 62,
+		"diametro": 23343148373476150000,
+		"periodo_orbita": 1.1754405531485245e+26,
+		"periodo_rotacion": 2.530245939717178e+25,
+		"gravedad": 48891254679
+	},
+	{
+		"idPlaneta": 63,
+		"diametro": 13953680312485861000,
+		"periodo_orbita": 5.218147364365308e+25,
+		"periodo_rotacion": 1.1245799275305448e+26,
+		"gravedad": 74546248470
+	},
+	{
+		"idPlaneta": 64,
+		"diametro": 2308852155268870700,
+		"periodo_orbita": 1.6727438857121963e+26,
+		"periodo_rotacion": 3.869595886944111e+25,
+		"gravedad": 54766498267
+	},
+	{
+		"idPlaneta": 65,
+		"diametro": 15660328885080730000,
+		"periodo_orbita": 1.7095067632521914e+26,
+		"periodo_rotacion": 7.681980330597686e+25,
+		"gravedad": 67427722104
+	},
+	{
+		"idPlaneta": 66,
+		"diametro": 1046681402584365700,
+		"periodo_orbita": 6.41512239597579e+24,
+		"periodo_rotacion": 2.385216271927834e+26,
+		"gravedad": 144241393195
+	},
+	{
+		"idPlaneta": 67,
+		"diametro": 16634115976739342000,
+		"periodo_orbita": 1.6591475951937915e+26,
+		"periodo_rotacion": 1.7468203909196104e+25,
+		"gravedad": 46042005791
+	},
+	{
+		"idPlaneta": 68,
+		"diametro": 12813719170133019000,
+		"periodo_orbita": 3.572982867597389e+24,
+		"periodo_rotacion": 1.0541135096521302e+26,
+		"gravedad": 31394300113
+	},
+	{
+		"idPlaneta": 69,
+		"diametro": 1672039488022178600,
+		"periodo_orbita": 4.909812152674494e+25,
+		"periodo_rotacion": 1.7484250169904097e+26,
+		"gravedad": 128174889027
+	},
+	{
+		"idPlaneta": 70,
+		"diametro": 19465955811582060000,
+		"periodo_orbita": 1.4734698472811803e+26,
+		"periodo_rotacion": 2.1018291354111608e+26,
+		"gravedad": 152814592266
+	},
+	{
+		"idPlaneta": 71,
+		"diametro": 8473226222269762000,
+		"periodo_orbita": 1.7701497311783087e+26,
+		"periodo_rotacion": 1.071928878639697e+25,
+		"gravedad": 204747955967
+	},
+	{
+		"idPlaneta": 72,
+		"diametro": 11265351005013914000,
+		"periodo_orbita": 1.1095642463692828e+25,
+		"periodo_rotacion": 2.133994190558216e+26,
+		"gravedad": 31774462355
+	},
+	{
+		"idPlaneta": 73,
+		"diametro": 6402390211357342000,
+		"periodo_orbita": 1.1568787046772792e+26,
+		"periodo_rotacion": 1.1684654851750885e+26,
+		"gravedad": 87332120831
+	},
+	{
+		"idPlaneta": 74,
+		"diametro": 13447026321670620000,
+		"periodo_orbita": 1.462001338425412e+26,
+		"periodo_rotacion": 1.7289015549357792e+26,
+		"gravedad": 184773639476
+	},
+	{
+		"idPlaneta": 75,
+		"diametro": 23606557069409430000,
+		"periodo_orbita": 1.2634630478015069e+25,
+		"periodo_rotacion": 1.3109942433733324e+26,
+		"gravedad": 36777088403
+	},
+	{
+		"idPlaneta": 76,
+		"diametro": 11688980434290975000,
+		"periodo_orbita": 2.3845150480405225e+26,
+		"periodo_rotacion": 1.4684886897397606e+26,
+		"gravedad": 213673690270
+	},
+	{
+		"idPlaneta": 77,
+		"diametro": 6329388500354922000,
+		"periodo_orbita": 7.940505255991461e+25,
+		"periodo_rotacion": 1.1211749997149577e+25,
+		"gravedad": 9422628240
+	},
+	{
+		"idPlaneta": 78,
+		"diametro": 13796871042118185000,
+		"periodo_orbita": 4.057198426455602e+24,
+		"periodo_rotacion": 4.302999710678048e+25,
+		"gravedad": 192842071982
+	},
+	{
+		"idPlaneta": 79,
+		"diametro": 17370737651120796000,
+		"periodo_orbita": 7.6034918305667825e+25,
+		"periodo_rotacion": 1.6119290813147765e+26,
+		"gravedad": 158812380729
+	},
+	{
+		"idPlaneta": 80,
+		"diametro": 6788729839160179000,
+		"periodo_orbita": 2.3115070482296445e+26,
+		"periodo_rotacion": 6.309470139452896e+25,
+		"gravedad": 160736009157
+	},
+	{
+		"idPlaneta": 81,
+		"diametro": 22590342887478456000,
+		"periodo_orbita": 1.6413851969993475e+26,
+		"periodo_rotacion": 2.112742285475128e+26,
+		"gravedad": 24083593380
+	},
+	{
+		"idPlaneta": 82,
+		"diametro": 1799452528489408000,
+		"periodo_orbita": 6.819167232583284e+25,
+		"periodo_rotacion": 1.6181591270859945e+26,
+		"gravedad": 14451917395
+	},
+	{
+		"idPlaneta": 83,
+		"diametro": 18569695668537524000,
+		"periodo_orbita": 2.362178452428577e+26,
+		"periodo_rotacion": 2.326495730766773e+26,
+		"gravedad": 209015525497
+	},
+	{
+		"idPlaneta": 84,
+		"diametro": 20582342344161087000,
+		"periodo_orbita": 1.9220702661940782e+26,
+		"periodo_rotacion": 2.5649888930674153e+26,
+		"gravedad": 108985909580
+	},
+	{
+		"idPlaneta": 85,
+		"diametro": 9147370333545122000,
+		"periodo_orbita": 1.8274599568013226e+26,
+		"periodo_rotacion": 7.542515865932736e+24,
+		"gravedad": 17604924440
+	},
+	{
+		"idPlaneta": 86,
+		"diametro": 13706834203944806000,
+		"periodo_orbita": 3.2529292319778933e+25,
+		"periodo_rotacion": 1.5172150274034822e+26,
+		"gravedad": 91507530998
+	},
+	{
+		"idPlaneta": 87,
+		"diametro": 19867486302982545000,
+		"periodo_orbita": 1.197532708325857e+26,
+		"periodo_rotacion": 3.499182251534256e+25,
+		"gravedad": 223916296476
+	},
+	{
+		"idPlaneta": 88,
+		"diametro": 16226311094828188000,
+		"periodo_orbita": 2.216240881820441e+26,
+		"periodo_rotacion": 6.078123025598586e+24,
+		"gravedad": 5725719444
+	},
+	{
+		"idPlaneta": 89,
+		"diametro": 23917424488678580000,
+		"periodo_orbita": 2.570797595837955e+26,
+		"periodo_rotacion": 1.0097386426747904e+26,
+		"gravedad": 66196439224
+	},
+	{
+		"idPlaneta": 90,
+		"diametro": 13147107946130560000,
+		"periodo_orbita": 1.2605347494672548e+26,
+		"periodo_rotacion": 2.005938230681602e+26,
+		"gravedad": 73279882222
+	},
+	{
+		"idPlaneta": 91,
+		"diametro": 7059350394067898000,
+		"periodo_orbita": 5.573339612218029e+25,
+		"periodo_rotacion": 2.7052819644610507e+25,
+		"gravedad": 27944690312
+	},
+	{
+		"idPlaneta": 92,
+		"diametro": 10109864829475891000,
+		"periodo_orbita": 1.8434043401281432e+26,
+		"periodo_rotacion": 1.3854008424228546e+26,
+		"gravedad": 108311354068
+	},
+	{
+		"idPlaneta": 93,
+		"diametro": 19368578351281490000,
+		"periodo_orbita": 2.2268811815981838e+26,
+		"periodo_rotacion": 7.685230758638969e+25,
+		"gravedad": 51962216396
+	},
+	{
+		"idPlaneta": 94,
+		"diametro": 14024355542724938000,
+		"periodo_orbita": 2.160975243567892e+26,
+		"periodo_rotacion": 2.1442259669605957e+25,
+		"gravedad": 163372470762
+	},
+	{
+		"idPlaneta": 95,
+		"diametro": 14418741352457600000,
+		"periodo_orbita": 5.8855347705846174e+25,
+		"periodo_rotacion": 1.4300228664970487e+26,
+		"gravedad": 93746145287
+	},
+	{
+		"idPlaneta": 96,
+		"diametro": 18002804454031750000,
+		"periodo_orbita": 1.567643545475456e+26,
+		"periodo_rotacion": 7.127414849433516e+25,
+		"gravedad": 157553820971
+	},
+	{
+		"idPlaneta": 97,
+		"diametro": 15956002766491498000,
+		"periodo_orbita": 1.5524257461586018e+26,
+		"periodo_rotacion": 9.569245016554805e+24,
+		"gravedad": 210435107818
+	},
+	{
+		"idPlaneta": 98,
+		"diametro": 21173259744588317000,
+		"periodo_orbita": 1.8361986573275523e+26,
+		"periodo_rotacion": 1.5174407533951983e+26,
+		"gravedad": 106999081295
+	},
+	{
+		"idPlaneta": 99,
+		"diametro": 21770644659169040000,
+		"periodo_orbita": 1.6173397559381884e+24,
+		"periodo_rotacion": 8.485131374708601e+25,
+		"gravedad": 114940279885
+	},
+	{
+		"idPlaneta": 100,
+		"diametro": 23453194423509660000,
+		"periodo_orbita": 1.0182563376515792e+26,
+		"periodo_rotacion": 2.025553383458141e+26,
+		"gravedad": 224579539323
+	},
+	{
+		"idPlaneta": 101,
+		"diametro": 21273885629121757000,
+		"periodo_orbita": 4.194548125893446e+25,
+		"periodo_rotacion": 5.284833679331876e+25,
+		"gravedad": 221884250519
+	},
+	{
+		"idPlaneta": 102,
+		"diametro": 3544281292550001000,
+		"periodo_orbita": 9.412535602937654e+24,
+		"periodo_rotacion": 2.372825395879878e+25,
+		"gravedad": 165903271365
+	},
+	{
+		"idPlaneta": 103,
+		"diametro": 19057563551026086000,
+		"periodo_orbita": 1.3349965265955325e+26,
+		"periodo_rotacion": 1.1039753628605862e+26,
+		"gravedad": 14892395090
+	},
+	{
+		"idPlaneta": 104,
+		"diametro": 25348560034515333000,
+		"periodo_orbita": 2.0810159857537457e+25,
+		"periodo_rotacion": 2.4691090831127327e+26,
+		"gravedad": 85663151871
+	},
+	{
+		"idPlaneta": 105,
+		"diametro": 18985087793858777000,
+		"periodo_orbita": 2.2462853719285724e+26,
+		"periodo_rotacion": 2.5859036466634622e+26,
+		"gravedad": 32824172598
+	},
+	{
+		"idPlaneta": 106,
+		"diametro": 5158552106575050000,
+		"periodo_orbita": 3.9672906014582746e+23,
+		"periodo_rotacion": 4.131178947266781e+25,
+		"gravedad": 20698616131
+	},
+	{
+		"idPlaneta": 107,
+		"diametro": 4989861280754059000,
+		"periodo_orbita": 1.893195417759758e+26,
+		"periodo_rotacion": 2.3185657450533806e+26,
+		"gravedad": 208862371144
+	},
+	{
+		"idPlaneta": 108,
+		"diametro": 13169687646242918000,
+		"periodo_orbita": 2.0019140290825658e+26,
+		"periodo_rotacion": 2.397940988557327e+26,
+		"gravedad": 22583723501
+	},
+	{
+		"idPlaneta": 109,
+		"diametro": 24197919123532063000,
+		"periodo_orbita": 1.840420319612163e+26,
+		"periodo_rotacion": 6.922346462718754e+24,
+		"gravedad": 165413115798
+	},
+	{
+		"idPlaneta": 110,
+		"diametro": 14503670197628996000,
+		"periodo_orbita": 1.5475762423529416e+26,
+		"periodo_rotacion": 2.2569583770930978e+26,
+		"gravedad": 227074333053
+	},
+	{
+		"idPlaneta": 111,
+		"diametro": 2267246029274544400,
+		"periodo_orbita": 1.7878144087934816e+26,
+		"periodo_rotacion": 2.1106097516819745e+26,
+		"gravedad": 8617370577
+	},
+	{
+		"idPlaneta": 112,
+		"diametro": 12403137150965264000,
+		"periodo_orbita": 5.661008994787178e+25,
+		"periodo_rotacion": 1.4635219111094675e+26,
+		"gravedad": 36137107604
+	},
+	{
+		"idPlaneta": 113,
+		"diametro": 22344567694119410000,
+		"periodo_orbita": 5.401747778729949e+25,
+		"periodo_rotacion": 2.8255570033492515e+25,
+		"gravedad": 23508850698
+	},
+	{
+		"idPlaneta": 114,
+		"diametro": 3329409323644483600,
+		"periodo_orbita": 1.7578377538400194e+26,
+		"periodo_rotacion": 1.4169370936576165e+26,
+		"gravedad": 92884921234
+	},
+	{
+		"idPlaneta": 115,
+		"diametro": 16436340248605858000,
+		"periodo_orbita": 2.1738964690351747e+25,
+		"periodo_rotacion": 2.200190105838969e+26,
+		"gravedad": 34222504055
+	},
+	{
+		"idPlaneta": 116,
+		"diametro": 9443870309471912000,
+		"periodo_orbita": 1.8496240697263617e+26,
+		"periodo_rotacion": 4.8308980115144994e+25,
+		"gravedad": 71608805291
+	},
+	{
+		"idPlaneta": 117,
+		"diametro": 24688407360012026000,
+		"periodo_orbita": 7.76107108860894e+25,
+		"periodo_rotacion": 2.0015533810390063e+26,
+		"gravedad": 171424544553
+	},
+	{
+		"idPlaneta": 118,
+		"diametro": 18801042861726302000,
+		"periodo_orbita": 2.468638616331822e+26,
+		"periodo_rotacion": 1.726126275635119e+26,
+		"gravedad": 140222490082
+	},
+	{
+		"idPlaneta": 119,
+		"diametro": 13568423010726988000,
+		"periodo_orbita": 7.239726285921862e+25,
+		"periodo_rotacion": 2.0684701455155582e+26,
+		"gravedad": 115835815787
+	},
+	{
+		"idPlaneta": 120,
+		"diametro": 15048863336277076000,
+		"periodo_orbita": 1.2255576001943125e+26,
+		"periodo_rotacion": 2.0656507331430774e+26,
+		"gravedad": 61035722585
+	},
+	{
+		"idPlaneta": 121,
+		"diametro": 18820265185651260000,
+		"periodo_orbita": 2.3465950468087737e+25,
+		"periodo_rotacion": 6.024636007628047e+25,
+		"gravedad": 198619249078
+	},
+	{
+		"idPlaneta": 122,
+		"diametro": 20788637634161725000,
+		"periodo_orbita": 1.5043623170692566e+26,
+		"periodo_rotacion": 1.0305934678142297e+26,
+		"gravedad": 85820353008
+	},
+	{
+		"idPlaneta": 123,
+		"diametro": 6772139794338004000,
+		"periodo_orbita": 6.19832302257856e+25,
+		"periodo_rotacion": 4.030043942444998e+25,
+		"gravedad": 204704682932
+	},
+	{
+		"idPlaneta": 124,
+		"diametro": 23778652737032954000,
+		"periodo_orbita": 2.1229290244664123e+26,
+		"periodo_rotacion": 8.252552152318138e+25,
+		"gravedad": 34373081491
+	},
+	{
+		"idPlaneta": 125,
+		"diametro": 6886449616173079000,
+		"periodo_orbita": 2.5370354590376998e+26,
+		"periodo_rotacion": 1.8780264189476587e+26,
+		"gravedad": 210942320030
+	},
+	{
+		"idPlaneta": 126,
+		"diametro": 19151890807662383000,
+		"periodo_orbita": 2.0329414019619433e+26,
+		"periodo_rotacion": 1.722649784148938e+26,
+		"gravedad": 230043946384
+	},
+	{
+		"idPlaneta": 127,
+		"diametro": 24636371351062950000,
+		"periodo_orbita": 1.731602509457136e+26,
+		"periodo_rotacion": 1.5833417997445905e+26,
+		"gravedad": 81632456725
+	},
+	{
+		"idPlaneta": 128,
+		"diametro": 18004493843876655000,
+		"periodo_orbita": 1.7342180297777243e+26,
+		"periodo_rotacion": 2.4174713899356617e+26,
+		"gravedad": 156238581262
+	},
+	{
+		"idPlaneta": 129,
+		"diametro": 7922367819415177000,
+		"periodo_orbita": 8.173735276513745e+25,
+		"periodo_rotacion": 2.5251917587871337e+26,
+		"gravedad": 183925980837
+	},
+	{
+		"idPlaneta": 130,
+		"diametro": 6712104751212773000,
+		"periodo_orbita": 9.487164579245149e+25,
+		"periodo_rotacion": 2.0443092921387173e+26,
+		"gravedad": 171569999010
+	},
+	{
+		"idPlaneta": 131,
+		"diametro": 18209586890658984000,
+		"periodo_orbita": 1.068371808425261e+26,
+		"periodo_rotacion": 7.011516123772384e+25,
+		"gravedad": 49747217918
+	},
+	{
+		"idPlaneta": 132,
+		"diametro": 12961235619185236000,
+		"periodo_orbita": 1.9673280566790402e+26,
+		"periodo_rotacion": 1.4100590195225157e+26,
+		"gravedad": 104721280236
+	},
+	{
+		"idPlaneta": 133,
+		"diametro": 16019921191711300000,
+		"periodo_orbita": 2.3037864105292372e+26,
+		"periodo_rotacion": 1.584370769404642e+25,
+		"gravedad": 118352089564
+	},
+	{
+		"idPlaneta": 134,
+		"diametro": 25617162219541852000,
+		"periodo_orbita": 9.11692165097949e+25,
+		"periodo_rotacion": 2.5822429259477988e+26,
+		"gravedad": 203509415902
+	},
+	{
+		"idPlaneta": 135,
+		"diametro": 2841167868753100000,
+		"periodo_orbita": 2.4029834014645798e+26,
+		"periodo_rotacion": 8.552317035315593e+25,
+		"gravedad": 25361240317
+	},
+	{
+		"idPlaneta": 136,
+		"diametro": 3727978349832396000,
+		"periodo_orbita": 1.6886406354107187e+26,
+		"periodo_rotacion": 3.1670564156636362e+25,
+		"gravedad": 142905948204
+	},
+	{
+		"idPlaneta": 137,
+		"diametro": 24562824691150115000,
+		"periodo_orbita": 4.7329653125003706e+24,
+		"periodo_rotacion": 2.228716620592147e+26,
+		"gravedad": 216609793567
+	},
+	{
+		"idPlaneta": 138,
+		"diametro": 10462744935389780000,
+		"periodo_orbita": 1.4198725199575077e+26,
+		"periodo_rotacion": 2.4425298739335752e+26,
+		"gravedad": 155582827791
+	},
+	{
+		"idPlaneta": 139,
+		"diametro": 22005171092153516000,
+		"periodo_orbita": 1.9115927598710348e+26,
+		"periodo_rotacion": 6.391452078437731e+25,
+		"gravedad": 42005973799
+	},
+	{
+		"idPlaneta": 140,
+		"diametro": 2670681370664535600,
+		"periodo_orbita": 2.4258584117923872e+26,
+		"periodo_rotacion": 1.0469734513223213e+26,
+		"gravedad": 2383258225
+	},
+	{
+		"idPlaneta": 141,
+		"diametro": 5750802292365387000,
+		"periodo_orbita": 1.832588609111942e+26,
+		"periodo_rotacion": 2.3612203593375597e+26,
+		"gravedad": 98990289118
+	},
+	{
+		"idPlaneta": 142,
+		"diametro": 6822804258128114000,
+		"periodo_orbita": 2.1385343715532594e+26,
+		"periodo_rotacion": 2.3278967330985724e+26,
+		"gravedad": 151994955868
+	},
+	{
+		"idPlaneta": 143,
+		"diametro": 14685282255933448000,
+		"periodo_orbita": 1.6522970356852516e+26,
+		"periodo_rotacion": 3.7669501971132145e+25,
+		"gravedad": 208618492065
+	},
+	{
+		"idPlaneta": 144,
+		"diametro": 17600123892426885000,
+		"periodo_orbita": 2.3033452562552636e+25,
+		"periodo_rotacion": 8.552663308287926e+24,
+		"gravedad": 24904891377
+	},
+	{
+		"idPlaneta": 145,
+		"diametro": 18304568321280526000,
+		"periodo_orbita": 2.7010661293056275e+24,
+		"periodo_rotacion": 9.527408141406308e+25,
+		"gravedad": 228042694035
+	},
+	{
+		"idPlaneta": 146,
+		"diametro": 4160528171465875000,
+		"periodo_orbita": 2.565689935148697e+26,
+		"periodo_rotacion": 2.046768648246995e+25,
+		"gravedad": 150929879249
+	},
+	{
+		"idPlaneta": 147,
+		"diametro": 19802337589455438000,
+		"periodo_orbita": 3.3048468536631706e+25,
+		"periodo_rotacion": 4.553988693791531e+25,
+		"gravedad": 66047272784
+	},
+	{
+		"idPlaneta": 148,
+		"diametro": 3477100258573558300,
+		"periodo_orbita": 1.1617108218693909e+26,
+		"periodo_rotacion": 8.190372143652785e+25,
+		"gravedad": 199567677548
+	},
+	{
+		"idPlaneta": 149,
+		"diametro": 25518528141722380000,
+		"periodo_orbita": 1.4652604200331118e+26,
+		"periodo_rotacion": 8.161401129963965e+25,
+		"gravedad": 13128941042
+	},
+	{
+		"idPlaneta": 150,
+		"diametro": 6514483914408150000,
+		"periodo_orbita": 2.340943014343453e+26,
+		"periodo_rotacion": 1.726732472226005e+26,
+		"gravedad": 110246480998
+	},
+	{
+		"idPlaneta": 151,
+		"diametro": 3176964298943183000,
+		"periodo_orbita": 1.2092032130689665e+26,
+		"periodo_rotacion": 9.003110933524002e+25,
+		"gravedad": 76704053614
+	},
+	{
+		"idPlaneta": 152,
+		"diametro": 17958419200820100000,
+		"periodo_orbita": 2.537580073472132e+26,
+		"periodo_rotacion": 3.583508866338994e+25,
+		"gravedad": 180612446794
+	},
+	{
+		"idPlaneta": 153,
+		"diametro": 7639121021749138000,
+		"periodo_orbita": 1.600429718049875e+26,
+		"periodo_rotacion": 7.957346598661837e+24,
+		"gravedad": 209998794595
+	},
+	{
+		"idPlaneta": 154,
+		"diametro": 24682834885744673000,
+		"periodo_orbita": 1.6509783610871266e+26,
+		"periodo_rotacion": 5.75811236253035e+25,
+		"gravedad": 101201514658
+	},
+	{
+		"idPlaneta": 155,
+		"diametro": 10496972601755482000,
+		"periodo_orbita": 7.434555220782215e+24,
+		"periodo_rotacion": 1.6933797427772403e+26,
+		"gravedad": 86456975882
+	},
+	{
+		"idPlaneta": 156,
+		"diametro": 4246790290285687300,
+		"periodo_orbita": 1.0085552334672171e+26,
+		"periodo_rotacion": 1.3790128123228917e+26,
+		"gravedad": 144797844092
+	},
+	{
+		"idPlaneta": 157,
+		"diametro": 844724685142038400,
+		"periodo_orbita": 3.6235027123714932e+25,
+		"periodo_rotacion": 1.1672007802639817e+26,
+		"gravedad": 66032570908
+	},
+	{
+		"idPlaneta": 158,
+		"diametro": 14919507900295391000,
+		"periodo_orbita": 2.277350386749557e+26,
+		"periodo_rotacion": 2.3044627393990687e+26,
+		"gravedad": 218321064577
+	},
+	{
+		"idPlaneta": 159,
+		"diametro": 14364109095588872000,
+		"periodo_orbita": 9.884339015905081e+25,
+		"periodo_rotacion": 4.622654490042259e+25,
+		"gravedad": 116768932880
+	},
+	{
+		"idPlaneta": 160,
+		"diametro": 3264353365000139000,
+		"periodo_orbita": 1.034999280478438e+26,
+		"periodo_rotacion": 3.831394070255587e+25,
+		"gravedad": 214282732555
+	},
+	{
+		"idPlaneta": 161,
+		"diametro": 16684195301293318000,
+		"periodo_orbita": 1.6599216450859546e+26,
+		"periodo_rotacion": 6.719678679418743e+25,
+		"gravedad": 178314905687
+	},
+	{
+		"idPlaneta": 162,
+		"diametro": 13524284579863763000,
+		"periodo_orbita": 1.4121769920067318e+26,
+		"periodo_rotacion": 1.6813776643443142e+26,
+		"gravedad": 162896041226
+	},
+	{
+		"idPlaneta": 163,
+		"diametro": 1570560542051021000,
+		"periodo_orbita": 4.409107749736594e+25,
+		"periodo_rotacion": 1.9186082896263062e+26,
+		"gravedad": 182394598710
+	},
+	{
+		"idPlaneta": 164,
+		"diametro": 13208572040406272000,
+		"periodo_orbita": 1.1663620043597864e+26,
+		"periodo_rotacion": 1.5237229328588269e+26,
+		"gravedad": 184141635973
+	},
+	{
+		"idPlaneta": 165,
+		"diametro": 9758566632674765000,
+		"periodo_orbita": 1.6678056237221383e+26,
+		"periodo_rotacion": 4.1412160686750265e+25,
+		"gravedad": 221951796279
+	},
+	{
+		"idPlaneta": 166,
+		"diametro": 6023305501837423000,
+		"periodo_orbita": 2.4260288069771768e+26,
+		"periodo_rotacion": 3.642995253467796e+23,
+		"gravedad": 112539812784
+	},
+	{
+		"idPlaneta": 167,
+		"diametro": 16525395008679858000,
+		"periodo_orbita": 1.1231886716719465e+26,
+		"periodo_rotacion": 1.3152820587727821e+25,
+		"gravedad": 175780870563
+	},
+	{
+		"idPlaneta": 168,
+		"diametro": 18975618877935590000,
+		"periodo_orbita": 2.7312737703536387e+25,
+		"periodo_rotacion": 9.206575542122219e+25,
+		"gravedad": 1971699823
+	},
+	{
+		"idPlaneta": 169,
+		"diametro": 9730032867978478000,
+		"periodo_orbita": 6.836401119865094e+25,
+		"periodo_rotacion": 1.1875303375956385e+26,
+		"gravedad": 32107952167
+	},
+	{
+		"idPlaneta": 170,
+		"diametro": 15276660781807628000,
+		"periodo_orbita": 2.279273125786837e+25,
+		"periodo_rotacion": 1.1439805512185622e+25,
+		"gravedad": 127546092041
+	},
+	{
+		"idPlaneta": 171,
+		"diametro": 22484071097424050000,
+		"periodo_orbita": 2.7678089195597545e+25,
+		"periodo_rotacion": 5.481731997983774e+25,
+		"gravedad": 185189792632
+	},
+	{
+		"idPlaneta": 172,
+		"diametro": 19675823065455460000,
+		"periodo_orbita": 9.16459030082434e+24,
+		"periodo_rotacion": 3.613370508395838e+25,
+		"gravedad": 191631824013
+	},
+	{
+		"idPlaneta": 173,
+		"diametro": 23945409678209835000,
+		"periodo_orbita": 1.1320488139963767e+26,
+		"periodo_rotacion": 8.241568729618368e+25,
+		"gravedad": 114306866347
+	},
+	{
+		"idPlaneta": 174,
+		"diametro": 23434235750623380000,
+		"periodo_orbita": 8.554849666192582e+24,
+		"periodo_rotacion": 1.585159838196561e+26,
+		"gravedad": 39448047583
+	},
+	{
+		"idPlaneta": 175,
+		"diametro": 18867038394745430000,
+		"periodo_orbita": 8.095550058618523e+25,
+		"periodo_rotacion": 2.3462528230239408e+25,
+		"gravedad": 220307309937
+	},
+	{
+		"idPlaneta": 176,
+		"diametro": 3311678648988323300,
+		"periodo_orbita": 2.2788455444469152e+26,
+		"periodo_rotacion": 2.470530248577387e+26,
+		"gravedad": 2424662846
+	},
+	{
+		"idPlaneta": 177,
+		"diametro": 25219919365928300000,
+		"periodo_orbita": 5.114131196625728e+25,
+		"periodo_rotacion": 2.0315993627683335e+26,
+		"gravedad": 103205045287
+	},
+	{
+		"idPlaneta": 178,
+		"diametro": 11847044720741833000,
+		"periodo_orbita": 2.412845523350812e+26,
+		"periodo_rotacion": 2.3650303182490045e+26,
+		"gravedad": 230002704706
+	},
+	{
+		"idPlaneta": 179,
+		"diametro": 4555501612054139400,
+		"periodo_orbita": 8.687001851250142e+25,
+		"periodo_rotacion": 1.5621251094178273e+26,
+		"gravedad": 60890475773
+	},
+	{
+		"idPlaneta": 180,
+		"diametro": 21720597591453467000,
+		"periodo_orbita": 8.229559737403285e+25,
+		"periodo_rotacion": 1.0652337599296403e+25,
+		"gravedad": 188174731520
+	},
+	{
+		"idPlaneta": 181,
+		"diametro": 3638887006663015400,
+		"periodo_orbita": 1.8701974728093918e+26,
+		"periodo_rotacion": 1.1579297488172577e+25,
+		"gravedad": 189925988349
+	},
+	{
+		"idPlaneta": 182,
+		"diametro": 7506119663179189000,
+		"periodo_orbita": 3.7995824051555025e+25,
+		"periodo_rotacion": 1.7183619900451444e+26,
+		"gravedad": 183128989799
+	},
+	{
+		"idPlaneta": 183,
+		"diametro": 11977045138475784000,
+		"periodo_orbita": 3.2364503513997765e+25,
+		"periodo_rotacion": 8.434836504358474e+25,
+		"gravedad": 140907225762
+	},
+	{
+		"idPlaneta": 184,
+		"diametro": 476478403389499500,
+		"periodo_orbita": 9.97428607125943e+25,
+		"periodo_rotacion": 1.68013269894728e+26,
+		"gravedad": 152882576362
+	},
+	{
+		"idPlaneta": 185,
+		"diametro": 6497580209725400000,
+		"periodo_orbita": 7.875059865578752e+25,
+		"periodo_rotacion": 1.6800268681301154e+26,
+		"gravedad": 186416317210
+	},
+	{
+		"idPlaneta": 186,
+		"diametro": 11687562246467332000,
+		"periodo_orbita": 2.9771053732735777e+25,
+		"periodo_rotacion": 1.5348854431239284e+25,
+		"gravedad": 33095263588
+	},
+	{
+		"idPlaneta": 187,
+		"diametro": 17272023897204212000,
+		"periodo_orbita": 1.592957903484541e+26,
+		"periodo_rotacion": 1.2239834278903504e+26,
+		"gravedad": 203522369196
+	},
+	{
+		"idPlaneta": 188,
+		"diametro": 10947187568522252000,
+		"periodo_orbita": 7.88843868268899e+25,
+		"periodo_rotacion": 2.4749465321218745e+26,
+		"gravedad": 100269243195
+	},
+	{
+		"idPlaneta": 189,
+		"diametro": 9285399106112301000,
+		"periodo_orbita": 1.5831264540295e+26,
+		"periodo_rotacion": 2.154090347766554e+26,
+		"gravedad": 150212929949
+	},
+	{
+		"idPlaneta": 190,
+		"diametro": 14542354947181707000,
+		"periodo_orbita": 2.141636673968382e+26,
+		"periodo_rotacion": 2.524028121973975e+26,
+		"gravedad": 178303318780
+	},
+	{
+		"idPlaneta": 191,
+		"diametro": 21321399792561310000,
+		"periodo_orbita": 2.1642596577096448e+26,
+		"periodo_rotacion": 2.3279634933780108e+26,
+		"gravedad": 156988712091
+	},
+	{
+		"idPlaneta": 192,
+		"diametro": 25440018967247684000,
+		"periodo_orbita": 1.0100497668006188e+25,
+		"periodo_rotacion": 3.2735818083416047e+25,
+		"gravedad": 138584226964
+	},
+	{
+		"idPlaneta": 193,
+		"diametro": 11974777025129722000,
+		"periodo_orbita": 7.875294285489732e+25,
+		"periodo_rotacion": 9.730692776589141e+25,
+		"gravedad": 41548879052
+	},
+	{
+		"idPlaneta": 194,
+		"diametro": 14013074025681210000,
+		"periodo_orbita": 2.417941908766155e+26,
+		"periodo_rotacion": 2.586865155207366e+26,
+		"gravedad": 168622207626
+	},
+	{
+		"idPlaneta": 195,
+		"diametro": 10689413167171520000,
+		"periodo_orbita": 1.550615515062519e+26,
+		"periodo_rotacion": 8.632717268717895e+25,
+		"gravedad": 174188450290
+	},
+	{
+		"idPlaneta": 196,
+		"diametro": 9631027273297156000,
+		"periodo_orbita": 2.2764774907551674e+26,
+		"periodo_rotacion": 1.8168514291863912e+26,
+		"gravedad": 154035842973
+	},
+	{
+		"idPlaneta": 197,
+		"diametro": 21562276343224984000,
+		"periodo_orbita": 2.7258385320830015e+25,
+		"periodo_rotacion": 1.474019393037591e+26,
+		"gravedad": 231183847490
+	},
+	{
+		"idPlaneta": 198,
+		"diametro": 295397703136197200,
+		"periodo_orbita": 1.6894277725384105e+26,
+		"periodo_rotacion": 2.222248055033954e+26,
+		"gravedad": 62185534400
+	},
+	{
+		"idPlaneta": 199,
+		"diametro": 3227960029424724500,
+		"periodo_orbita": 5.824338130377761e+25,
+		"periodo_rotacion": 1.113107361650801e+26,
+		"gravedad": 229209355
+	},
+	{
+		"idPlaneta": 200,
+		"diametro": 8976428243238011000,
+		"periodo_orbita": 7.213934206617971e+25,
+		"periodo_rotacion": 9.643255971665243e+25,
+		"gravedad": 116073523870
+	},
+	{
+		"idPlaneta": 201,
+		"diametro": 6619313682455427000,
+		"periodo_orbita": 1.4343519900542012e+26,
+		"periodo_rotacion": 2.0846322320818755e+26,
+		"gravedad": 44184635119
+	},
+	{
+		"idPlaneta": 202,
+		"diametro": 7948562185168929000,
+		"periodo_orbita": 2.4552557289690655e+26,
+		"periodo_rotacion": 1.907731371189979e+26,
+		"gravedad": 197929322544
+	},
+	{
+		"idPlaneta": 203,
+		"diametro": 11447283665412628000,
+		"periodo_orbita": 1.9374422166514246e+26,
+		"periodo_rotacion": 1.8792058440843052e+26,
+		"gravedad": 222943335838
+	},
+	{
+		"idPlaneta": 204,
+		"diametro": 4463194783284049400,
+		"periodo_orbita": 8.021664245050338e+25,
+		"periodo_rotacion": 1.8217856867809864e+26,
+		"gravedad": 156025579648
+	},
+	{
+		"idPlaneta": 205,
+		"diametro": 16677184667620550000,
+		"periodo_orbita": 4.528474461340594e+22,
+		"periodo_rotacion": 4.221457826052381e+25,
+		"gravedad": 167702813223
+	},
+	{
+		"idPlaneta": 206,
+		"diametro": 161888146368090750,
+		"periodo_orbita": 2.3054070537276936e+25,
+		"periodo_rotacion": 1.7907292511471884e+26,
+		"gravedad": 77215326832
+	},
+	{
+		"idPlaneta": 207,
+		"diametro": 22460191881261486000,
+		"periodo_orbita": 5.542540501850137e+25,
+		"periodo_rotacion": 2.347168708196615e+26,
+		"gravedad": 221215794640
+	},
+	{
+		"idPlaneta": 208,
+		"diametro": 2339508808415906300,
+		"periodo_orbita": 2.1554203367416858e+26,
+		"periodo_rotacion": 1.0452997039019658e+26,
+		"gravedad": 212964741283
+	},
+	{
+		"idPlaneta": 209,
+		"diametro": 16428387511895173000,
+		"periodo_orbita": 2.1630537949621218e+26,
+		"periodo_rotacion": 7.0395581148393974e+25,
+		"gravedad": 44014394590
+	},
+	{
+		"idPlaneta": 210,
+		"diametro": 13061057354652380000,
+		"periodo_orbita": 2.0469450791048382e+26,
+		"periodo_rotacion": 8.996911981037491e+24,
+		"gravedad": 156832965919
+	},
+	{
+		"idPlaneta": 211,
+		"diametro": 5576596142096051000,
+		"periodo_orbita": 1.4445089901330572e+26,
+		"periodo_rotacion": 1.9561952936556154e+26,
+		"gravedad": 14163661812
+	},
+	{
+		"idPlaneta": 212,
+		"diametro": 20200642265121000000,
+		"periodo_orbita": 1.3463115207595563e+26,
+		"periodo_rotacion": 1.330533609531399e+26,
+		"gravedad": 108754317944
+	},
+	{
+		"idPlaneta": 213,
+		"diametro": 23130295709974110000,
+		"periodo_orbita": 1.4364649551868323e+26,
+		"periodo_rotacion": 4.885690514393648e+24,
+		"gravedad": 167905724508
+	},
+	{
+		"idPlaneta": 214,
+		"diametro": 19925405881998123000,
+		"periodo_orbita": 1.615944585450458e+26,
+		"periodo_rotacion": 2.0997018990753157e+26,
+		"gravedad": 87321196069
+	},
+	{
+		"idPlaneta": 215,
+		"diametro": 15947256772473385000,
+		"periodo_orbita": 1.0993446485477515e+26,
+		"periodo_rotacion": 5.9605453549649065e+25,
+		"gravedad": 169853668015
+	},
+	{
+		"idPlaneta": 216,
+		"diametro": 13822738016561375000,
+		"periodo_orbita": 2.2372695587999727e+26,
+		"periodo_rotacion": 1.2901183087099401e+26,
+		"gravedad": 79957509255
+	},
+	{
+		"idPlaneta": 217,
+		"diametro": 2782996815649412600,
+		"periodo_orbita": 1.4579515194082864e+26,
+		"periodo_rotacion": 8.706288591312958e+25,
+		"gravedad": 12629730554
+	},
+	{
+		"idPlaneta": 218,
+		"diametro": 23967205136666640000,
+		"periodo_orbita": 2.3617195556630946e+25,
+		"periodo_rotacion": 3.1326040091490207e+25,
+		"gravedad": 209954714918
+	},
+	{
+		"idPlaneta": 219,
+		"diametro": 14943216274496180000,
+		"periodo_orbita": 1.9648165573278495e+26,
+		"periodo_rotacion": 1.9513631041320638e+26,
+		"gravedad": 57761497018
+	},
+	{
+		"idPlaneta": 220,
+		"diametro": 21148473962954965000,
+		"periodo_orbita": 6.184231850695559e+23,
+		"periodo_rotacion": 2.132095018872136e+26,
+		"gravedad": 200472759722
+	},
+	{
+		"idPlaneta": 221,
+		"diametro": 14459133721600997000,
+		"periodo_orbita": 1.8322770454695656e+25,
+		"periodo_rotacion": 6.392403022758505e+25,
+		"gravedad": 210051691633
+	},
+	{
+		"idPlaneta": 222,
+		"diametro": 23919813019142650000,
+		"periodo_orbita": 1.6863116717953914e+26,
+		"periodo_rotacion": 3.252582845952545e+25,
+		"gravedad": 112970925723
+	},
+	{
+		"idPlaneta": 223,
+		"diametro": 1528118438988701200,
+		"periodo_orbita": 1.0939492737087786e+24,
+		"periodo_rotacion": 1.0979709645783967e+26,
+		"gravedad": 210330849765
+	},
+	{
+		"idPlaneta": 224,
+		"diametro": 12836620430226403000,
+		"periodo_orbita": 8.150313813346764e+25,
+		"periodo_rotacion": 4.620616277196897e+25,
+		"gravedad": 197230171035
+	},
+	{
+		"idPlaneta": 225,
+		"diametro": 7542276240787275000,
+		"periodo_orbita": 2.244147065524685e+26,
+		"periodo_rotacion": 3.2433912646614014e+25,
+		"gravedad": 164669160589
+	},
+	{
+		"idPlaneta": 226,
+		"diametro": 10590738418983062000,
+		"periodo_orbita": 1.2068725778941621e+26,
+		"periodo_rotacion": 2.5305425180044305e+26,
+		"gravedad": 57219751971
+	},
+	{
+		"idPlaneta": 227,
+		"diametro": 19581744486529917000,
+		"periodo_orbita": 1.3305397071119045e+25,
+		"periodo_rotacion": 3.9251435154805515e+25,
+		"gravedad": 41958362111
+	},
+	{
+		"idPlaneta": 228,
+		"diametro": 3921429988331728400,
+		"periodo_orbita": 1.7565998716839012e+26,
+		"periodo_rotacion": 5.880937579227439e+25,
+		"gravedad": 86760957225
+	},
+	{
+		"idPlaneta": 229,
+		"diametro": 5477171894903425000,
+		"periodo_orbita": 9.040469601025798e+25,
+		"periodo_rotacion": 2.321631376142845e+26,
+		"gravedad": 59019607971
+	},
+	{
+		"idPlaneta": 230,
+		"diametro": 25596411001158197000,
+		"periodo_orbita": 1.9999886134498125e+25,
+		"periodo_rotacion": 1.5462870841744845e+26,
+		"gravedad": 159150851743
+	},
+	{
+		"idPlaneta": 231,
+		"diametro": 7431712403062902000,
+		"periodo_orbita": 2.376719452970937e+26,
+		"periodo_rotacion": 1.057071052183637e+26,
+		"gravedad": 212616338105
+	},
+	{
+		"idPlaneta": 232,
+		"diametro": 18998892407796940000,
+		"periodo_orbita": 1.477576816564756e+26,
+		"periodo_rotacion": 1.0271305764304598e+26,
+		"gravedad": 192931086839
+	},
+	{
+		"idPlaneta": 233,
+		"diametro": 7960639829618081000,
+		"periodo_orbita": 1.66269059282566e+26,
+		"periodo_rotacion": 1.3987555415169366e+26,
+		"gravedad": 20694148472
+	},
+	{
+		"idPlaneta": 234,
+		"diametro": 5574181106544446000,
+		"periodo_orbita": 2.5227029858410385e+26,
+		"periodo_rotacion": 4.240096809215897e+25,
+		"gravedad": 31637278026
+	},
+	{
+		"idPlaneta": 235,
+		"diametro": 14239063312327623000,
+		"periodo_orbita": 2.521733301080083e+26,
+		"periodo_rotacion": 6.244264276578712e+25,
+		"gravedad": 123860328714
+	},
+	{
+		"idPlaneta": 236,
+		"diametro": 21687468644421550000,
+		"periodo_orbita": 1.9022417623590134e+26,
+		"periodo_rotacion": 1.993074460799704e+26,
+		"gravedad": 33634212733
+	},
+	{
+		"idPlaneta": 237,
+		"diametro": 133984678456085860,
+		"periodo_orbita": 1.13517980459697e+26,
+		"periodo_rotacion": 2.059845160233682e+26,
+		"gravedad": 116304533661
+	},
+	{
+		"idPlaneta": 238,
+		"diametro": 19830991970737627000,
+		"periodo_orbita": 6.3985504147439365e+25,
+		"periodo_rotacion": 4.5314579875213756e+25,
+		"gravedad": 70864223534
+	},
+	{
+		"idPlaneta": 239,
+		"diametro": 5280538898601701000,
+		"periodo_orbita": 1.8194311011645325e+26,
+		"periodo_rotacion": 1.2602547379740277e+26,
+		"gravedad": 80420172318
+	},
+	{
+		"idPlaneta": 240,
+		"diametro": 22786773537613250000,
+		"periodo_orbita": 3.4968244573536327e+25,
+		"periodo_rotacion": 1.598441275745288e+25,
+		"gravedad": 159011883581
+	},
+	{
+		"idPlaneta": 241,
+		"diametro": 515888385179531460,
+		"periodo_orbita": 1.9481382881965674e+26,
+		"periodo_rotacion": 8.315271315335507e+25,
+		"gravedad": 174242448790
+	},
+	{
+		"idPlaneta": 242,
+		"diametro": 24947014732973220000,
+		"periodo_orbita": 9.803875146294347e+24,
+		"periodo_rotacion": 5.280348443588361e+25,
+		"gravedad": 155597352680
+	},
+	{
+		"idPlaneta": 243,
+		"diametro": 205577211968376260,
+		"periodo_orbita": 1.9072014369428822e+26,
+		"periodo_rotacion": 1.2509931652184492e+25,
+		"gravedad": 167166252580
+	},
+	{
+		"idPlaneta": 244,
+		"diametro": 20469520692675850000,
+		"periodo_orbita": 2.2457944219904877e+26,
+		"periodo_rotacion": 8.448104244066489e+24,
+		"gravedad": 217953583776
+	},
+	{
+		"idPlaneta": 245,
+		"diametro": 12844677968779403000,
+		"periodo_orbita": 1.3511519893201226e+26,
+		"periodo_rotacion": 8.904160540000137e+25,
+		"gravedad": 52779533595
+	},
+	{
+		"idPlaneta": 246,
+		"diametro": 12554496592838496000,
+		"periodo_orbita": 2.4651808756085985e+26,
+		"periodo_rotacion": 1.4098703052869948e+26,
+		"gravedad": 114054855988
+	},
+	{
+		"idPlaneta": 247,
+		"diametro": 1946331868875858700,
+		"periodo_orbita": 8.866186344944671e+25,
+		"periodo_rotacion": 9.953396815143947e+25,
+		"gravedad": 162217980244
+	},
+	{
+		"idPlaneta": 248,
+		"diametro": 17574166520822157000,
+		"periodo_orbita": 6.100549642684712e+25,
+		"periodo_rotacion": 1.1916430614939541e+26,
+		"gravedad": 94345432369
+	},
+	{
+		"idPlaneta": 249,
+		"diametro": 3806190933206878000,
+		"periodo_orbita": 2.1953159806377113e+26,
+		"periodo_rotacion": 1.3224148457388366e+26,
+		"gravedad": 185931981870
+	},
+	{
+		"idPlaneta": 250,
+		"diametro": 20846634560616580000,
+		"periodo_orbita": 1.730478747617308e+26,
+		"periodo_rotacion": 1.272712119904131e+26,
+		"gravedad": 86280072271
+	},
+	{
+		"idPlaneta": 251,
+		"diametro": 10028387609041013000,
+		"periodo_orbita": 1.1401341694263055e+26,
+		"periodo_rotacion": 8.184626093131762e+25,
+		"gravedad": 217044247495
+	},
+	{
+		"idPlaneta": 252,
+		"diametro": 15063159078622347000,
+		"periodo_orbita": 8.4659095230579e+25,
+		"periodo_rotacion": 1.3019735506986937e+26,
+		"gravedad": 117139384138
+	},
+	{
+		"idPlaneta": 253,
+		"diametro": 12269469045302807000,
+		"periodo_orbita": 8.244748582419662e+25,
+		"periodo_rotacion": 8.761685989024484e+25,
+		"gravedad": 178059885545
+	},
+	{
+		"idPlaneta": 254,
+		"diametro": 9357291875622468000,
+		"periodo_orbita": 9.583864328961039e+25,
+		"periodo_rotacion": 1.3760856518046588e+26,
+		"gravedad": 121936588476
+	},
+	{
+		"idPlaneta": 255,
+		"diametro": 9643707119252926000,
+		"periodo_orbita": 1.6766351578851225e+26,
+		"periodo_rotacion": 2.2071170666978998e+26,
+		"gravedad": 193621982515
+	},
+	{
+		"idPlaneta": 256,
+		"diametro": 1543604001203975000,
+		"periodo_orbita": 1.0778337245158184e+26,
+		"periodo_rotacion": 8.00854054405943e+25,
+		"gravedad": 34581583029
+	},
+	{
+		"idPlaneta": 257,
+		"diametro": 329983612583987200,
+		"periodo_orbita": 3.836707857541965e+25,
+		"periodo_rotacion": 3.2882270312042623e+24,
+		"gravedad": 175445626161
+	},
+	{
+		"idPlaneta": 258,
+		"diametro": 1461085776088598000,
+		"periodo_orbita": 1.9476878060395956e+26,
+		"periodo_rotacion": 2.569688671891239e+26,
+		"gravedad": 8950824556
+	},
+	{
+		"idPlaneta": 259,
+		"diametro": 4799795263821815000,
+		"periodo_orbita": 1.8822579141039152e+26,
+		"periodo_rotacion": 1.6961971500642937e+26,
+		"gravedad": 156018364753
+	},
+	{
+		"idPlaneta": 260,
+		"diametro": 15133285407267490000,
+		"periodo_orbita": 2.1272377848722545e+26,
+		"periodo_rotacion": 6.2243036343287094e+25,
+		"gravedad": 164291859569
+	},
+	{
+		"idPlaneta": 261,
+		"diametro": 16329580616837394000,
+		"periodo_orbita": 3.2254238018464955e+25,
+		"periodo_rotacion": 2.1590516162050596e+26,
+		"gravedad": 213441086573
+	},
+	{
+		"idPlaneta": 262,
+		"diametro": 19567462057260960000,
+		"periodo_orbita": 1.8008823008984225e+26,
+		"periodo_rotacion": 2.2000584597514005e+26,
+		"gravedad": 83054691748
+	},
+	{
+		"idPlaneta": 263,
+		"diametro": 13624282143019995000,
+		"periodo_orbita": 2.2717041115287705e+26,
+		"periodo_rotacion": 1.561826231706364e+26,
+		"gravedad": 19297005576
+	},
+	{
+		"idPlaneta": 264,
+		"diametro": 5868402340115826000,
+		"periodo_orbita": 4.864133915701594e+25,
+		"periodo_rotacion": 2.6848816340473313e+25,
+		"gravedad": 3454354659
+	},
+	{
+		"idPlaneta": 265,
+		"diametro": 8584976866073743000,
+		"periodo_orbita": 1.3481217967724765e+26,
+		"periodo_rotacion": 6.053334196821238e+25,
+		"gravedad": 115819883229
+	},
+	{
+		"idPlaneta": 266,
+		"diametro": 24302985461827170000,
+		"periodo_orbita": 1.4746920207818305e+26,
+		"periodo_rotacion": 7.824820620292355e+25,
+		"gravedad": 46274829176
+	},
+	{
+		"idPlaneta": 267,
+		"diametro": 9696942731847442000,
+		"periodo_orbita": 2.5068727217054603e+26,
+		"periodo_rotacion": 1.0076766054026624e+26,
+		"gravedad": 163714525907
+	},
+	{
+		"idPlaneta": 268,
+		"diametro": 21174965104528073000,
+		"periodo_orbita": 1.9379094827460387e+26,
+		"periodo_rotacion": 2.5676099924001535e+26,
+		"gravedad": 93885819777
+	},
+	{
+		"idPlaneta": 269,
+		"diametro": 14484402520073153000,
+		"periodo_orbita": 4.346972787240416e+25,
+		"periodo_rotacion": 2.49305709219619e+26,
+		"gravedad": 171525664948
+	},
+	{
+		"idPlaneta": 270,
+		"diametro": 14736093799112614000,
+		"periodo_orbita": 6.681030696887295e+25,
+		"periodo_rotacion": 2.151158304633108e+26,
+		"gravedad": 204539166155
+	},
+	{
+		"idPlaneta": 271,
+		"diametro": 22931138765598917000,
+		"periodo_orbita": 1.1379237617410049e+24,
+		"periodo_rotacion": 2.1905802055298007e+26,
+		"gravedad": 220517909991
+	},
+	{
+		"idPlaneta": 272,
+		"diametro": 23875077918561948000,
+		"periodo_orbita": 1.5290168783780698e+26,
+		"periodo_rotacion": 9.598993896926255e+24,
+		"gravedad": 73058455231
+	},
+	{
+		"idPlaneta": 273,
+		"diametro": 8781735324738871000,
+		"periodo_orbita": 9.04056002126269e+25,
+		"periodo_rotacion": 1.926201363988322e+26,
+		"gravedad": 218291260254
+	},
+	{
+		"idPlaneta": 274,
+		"diametro": 14398717075001473000,
+		"periodo_orbita": 7.236998979744201e+25,
+		"periodo_rotacion": 1.3438884704329347e+26,
+		"gravedad": 80808808830
+	},
+	{
+		"idPlaneta": 275,
+		"diametro": 1321964676645353700,
+		"periodo_orbita": 2.1392582144822682e+26,
+		"periodo_rotacion": 1.660195431642398e+26,
+		"gravedad": 109305025433
+	},
+	{
+		"idPlaneta": 276,
+		"diametro": 14789427013090736000,
+		"periodo_orbita": 1.883408733150282e+26,
+		"periodo_rotacion": 1.4075137677700172e+26,
+		"gravedad": 1895702689
+	},
+	{
+		"idPlaneta": 277,
+		"diametro": 15064716556496912000,
+		"periodo_orbita": 1.1510416283465745e+26,
+		"periodo_rotacion": 1.51715803850185e+26,
+		"gravedad": 24656305620
+	},
+	{
+		"idPlaneta": 278,
+		"diametro": 19972712660802834000,
+		"periodo_orbita": 4.761156050439692e+25,
+		"periodo_rotacion": 1.7882126422207557e+26,
+		"gravedad": 62949340129
+	},
+	{
+		"idPlaneta": 279,
+		"diametro": 14765332520791970000,
+		"periodo_orbita": 1.4661733707998877e+26,
+		"periodo_rotacion": 1.424696578505048e+26,
+		"gravedad": 101053150339
+	},
+	{
+		"idPlaneta": 280,
+		"diametro": 3180783726193358300,
+		"periodo_orbita": 2.0453299950875258e+26,
+		"periodo_rotacion": 3.303574998077025e+25,
+		"gravedad": 2210458435
+	},
+	{
+		"idPlaneta": 281,
+		"diametro": 17947008307137606000,
+		"periodo_orbita": 1.5482831179657343e+26,
+		"periodo_rotacion": 2.1004844241454525e+25,
+		"gravedad": 48900888613
+	},
+	{
+		"idPlaneta": 282,
+		"diametro": 4444805646698110000,
+		"periodo_orbita": 4.240378444613254e+25,
+		"periodo_rotacion": 2.881264538959392e+25,
+		"gravedad": 23105902556
+	},
+	{
+		"idPlaneta": 283,
+		"diametro": 4411602115162077700,
+		"periodo_orbita": 7.445965919556025e+23,
+		"periodo_rotacion": 2.010154956934655e+26,
+		"gravedad": 146300468590
+	},
+	{
+		"idPlaneta": 284,
+		"diametro": 10898773098365490000,
+		"periodo_orbita": 1.4420896998194815e+26,
+		"periodo_rotacion": 1.1669463641696294e+26,
+		"gravedad": 206113775120
+	},
+	{
+		"idPlaneta": 285,
+		"diametro": 4256738280059760600,
+		"periodo_orbita": 6.8407025239067865e+25,
+		"periodo_rotacion": 1.3003826469120203e+26,
+		"gravedad": 90455363017
+	},
+	{
+		"idPlaneta": 286,
+		"diametro": 15281410316192877000,
+		"periodo_orbita": 6.749429084578178e+25,
+		"periodo_rotacion": 1.9892115794033317e+26,
+		"gravedad": 134990442710
+	},
+	{
+		"idPlaneta": 287,
+		"diametro": 3039433358455175000,
+		"periodo_orbita": 6.156076463038412e+25,
+		"periodo_rotacion": 2.1515944642156256e+26,
+		"gravedad": 171413214644
+	},
+	{
+		"idPlaneta": 288,
+		"diametro": 5861661543893917000,
+		"periodo_orbita": 1.9420665180877825e+26,
+		"periodo_rotacion": 2.01827188648067e+26,
+		"gravedad": 84970991530
+	},
+	{
+		"idPlaneta": 289,
+		"diametro": 2422507536826738000,
+		"periodo_orbita": 2.0695758960661483e+25,
+		"periodo_rotacion": 1.9088053721399092e+25,
+		"gravedad": 6721414094
+	},
+	{
+		"idPlaneta": 290,
+		"diametro": 21216786998065220000,
+		"periodo_orbita": 1.6374789088211896e+26,
+		"periodo_rotacion": 1.5465583699943072e+26,
+		"gravedad": 228188264105
+	},
+	{
+		"idPlaneta": 291,
+		"diametro": 1322765452959831300,
+		"periodo_orbita": 1.322538529806517e+26,
+		"periodo_rotacion": 1.7721923707523757e+26,
+		"gravedad": 6556467364
+	},
+	{
+		"idPlaneta": 292,
+		"diametro": 11562904619522007000,
+		"periodo_orbita": 4.797467587872435e+25,
+		"periodo_rotacion": 1.781195690575669e+26,
+		"gravedad": 139319429481
+	},
+	{
+		"idPlaneta": 293,
+		"diametro": 22248770146996482000,
+		"periodo_orbita": 6.1325763056376785e+25,
+		"periodo_rotacion": 1.316462530206539e+26,
+		"gravedad": 50629505639
+	},
+	{
+		"idPlaneta": 294,
+		"diametro": 2437629099673671000,
+		"periodo_orbita": 9.742226226708263e+25,
+		"periodo_rotacion": 9.199805054489047e+25,
+		"gravedad": 364349271
+	},
+	{
+		"idPlaneta": 295,
+		"diametro": 5405217615023587000,
+		"periodo_orbita": 1.2951160364100383e+26,
+		"periodo_rotacion": 1.499906697882966e+24,
+		"gravedad": 78739067459
+	},
+	{
+		"idPlaneta": 296,
+		"diametro": 285066664475782700,
+		"periodo_orbita": 2.484625402773564e+26,
+		"periodo_rotacion": 2.3790913084154527e+26,
+		"gravedad": 207461451775
+	},
+	{
+		"idPlaneta": 297,
+		"diametro": 3168087252303618600,
+		"periodo_orbita": 1.4412726142070602e+26,
+		"periodo_rotacion": 1.4790492332770636e+26,
+		"gravedad": 48703190643
+	},
+	{
+		"idPlaneta": 298,
+		"diametro": 3707897060722909700,
+		"periodo_orbita": 1.7687068252118533e+26,
+		"periodo_rotacion": 5.191760775345372e+24,
+		"gravedad": 158192739580
+	},
+	{
+		"idPlaneta": 299,
+		"diametro": 23914507421239144000,
+		"periodo_orbita": 7.576851628895289e+25,
+		"periodo_rotacion": 7.2745636924276215e+25,
+		"gravedad": 193320211403
+	},
+	{
+		"idPlaneta": 300,
+		"diametro": 9343003418312534000,
+		"periodo_orbita": 7.90264628569399e+24,
+		"periodo_rotacion": 2.5088503554914e+26,
+		"gravedad": 24847918788
+	},
+	{
+		"idPlaneta": 301,
+		"diametro": 11218262746789829000,
+		"periodo_orbita": 9.613493300052273e+24,
+		"periodo_rotacion": 1.5299968077508878e+26,
+		"gravedad": 30041752199
+	},
+	{
+		"idPlaneta": 302,
+		"diametro": 23731055980674680000,
+		"periodo_orbita": 1.0092214008566323e+26,
+		"periodo_rotacion": 6.838892526992263e+25,
+		"gravedad": 162616599783
+	},
+	{
+		"idPlaneta": 303,
+		"diametro": 21668817667916214000,
+		"periodo_orbita": 1.8371364953751205e+26,
+		"periodo_rotacion": 1.8436526715125644e+26,
+		"gravedad": 61393703676
+	},
+	{
+		"idPlaneta": 304,
+		"diametro": 17057432425840298000,
+		"periodo_orbita": 7.865343518235029e+24,
+		"periodo_rotacion": 1.083571594051516e+26,
+		"gravedad": 40372140794
+	},
+	{
+		"idPlaneta": 305,
+		"diametro": 23017211278699766000,
+		"periodo_orbita": 9.394221092633834e+25,
+		"periodo_rotacion": 1.2444624308610753e+26,
+		"gravedad": 132653238828
+	},
+	{
+		"idPlaneta": 306,
+		"diametro": 9552804570167030000,
+		"periodo_orbita": 2.5832463426989352e+26,
+		"periodo_rotacion": 1.688835686847559e+25,
+		"gravedad": 200832142838
+	},
+	{
+		"idPlaneta": 307,
+		"diametro": 7616256538593188000,
+		"periodo_orbita": 2.2480137620527913e+26,
+		"periodo_rotacion": 2.336350411742952e+26,
+		"gravedad": 100795573250
+	},
+	{
+		"idPlaneta": 308,
+		"diametro": 10906700341202820000,
+		"periodo_orbita": 2.3982121703730024e+25,
+		"periodo_rotacion": 1.6763095234981012e+26,
+		"gravedad": 130102191366
+	},
+	{
+		"idPlaneta": 309,
+		"diametro": 24135295079981175000,
+		"periodo_orbita": 2.1449085565282003e+26,
+		"periodo_rotacion": 1.0737463029055906e+26,
+		"gravedad": 127828611102
+	},
+	{
+		"idPlaneta": 310,
+		"diametro": 15192576363191863000,
+		"periodo_orbita": 4.962265262791412e+25,
+		"periodo_rotacion": 2.3047643315459687e+26,
+		"gravedad": 63479315884
+	},
+	{
+		"idPlaneta": 311,
+		"diametro": 9704431295306535000,
+		"periodo_orbita": 2.1291919684511508e+26,
+		"periodo_rotacion": 1.8952466479338685e+25,
+		"gravedad": 35264326503
+	},
+	{
+		"idPlaneta": 312,
+		"diametro": 3548862734635751000,
+		"periodo_orbita": 3.4515775225557548e+25,
+		"periodo_rotacion": 1.2990514642706365e+26,
+		"gravedad": 85223206232
+	},
+	{
+		"idPlaneta": 313,
+		"diametro": 13229682039144606000,
+		"periodo_orbita": 7.834760807290327e+25,
+		"periodo_rotacion": 5.118040168183558e+25,
+		"gravedad": 11559717121
+	},
+	{
+		"idPlaneta": 314,
+		"diametro": 10575534865976592000,
+		"periodo_orbita": 1.918572824687732e+25,
+		"periodo_rotacion": 2.205313191001754e+25,
+		"gravedad": 65286491315
+	},
+	{
+		"idPlaneta": 315,
+		"diametro": 236932744277894100,
+		"periodo_orbita": 2.429456083979186e+26,
+		"periodo_rotacion": 1.464141497491444e+26,
+		"gravedad": 102843805482
+	},
+	{
+		"idPlaneta": 316,
+		"diametro": 9443503555342279000,
+		"periodo_orbita": 9.48884456275642e+25,
+		"periodo_rotacion": 1.3196052844742462e+26,
+		"gravedad": 143194987816
+	},
+	{
+		"idPlaneta": 317,
+		"diametro": 9135726741745396000,
+		"periodo_orbita": 1.906850210075851e+26,
+		"periodo_rotacion": 1.3272612245488494e+26,
+		"gravedad": 183039666981
+	},
+	{
+		"idPlaneta": 318,
+		"diametro": 19842081537616480000,
+		"periodo_orbita": 2.5120209338514768e+26,
+		"periodo_rotacion": 1.2469889773354055e+26,
+		"gravedad": 120786251850
+	},
+	{
+		"idPlaneta": 319,
+		"diametro": 15135746397379213000,
+		"periodo_orbita": 4.520625656448666e+25,
+		"periodo_rotacion": 1.7954625688008063e+26,
+		"gravedad": 222722807544
+	},
+	{
+		"idPlaneta": 320,
+		"diametro": 4662960480932379000,
+		"periodo_orbita": 2.1438109324162206e+26,
+		"periodo_rotacion": 1.035770057314612e+26,
+		"gravedad": 101146612162
+	},
+	{
+		"idPlaneta": 321,
+		"diametro": 18621215515299684000,
+		"periodo_orbita": 6.8122460361660454e+25,
+		"periodo_rotacion": 1.7033889140430326e+26,
+		"gravedad": 5359724104
+	},
+	{
+		"idPlaneta": 322,
+		"diametro": 16841842099493063000,
+		"periodo_orbita": 1.6684580314062377e+26,
+		"periodo_rotacion": 1.853442926257221e+26,
+		"gravedad": 159306797073
+	},
+	{
+		"idPlaneta": 323,
+		"diametro": 8903172671432161000,
+		"periodo_orbita": 1.7801260376417606e+26,
+		"periodo_rotacion": 1.4493792513544211e+26,
+		"gravedad": 33654555675
+	},
+	{
+		"idPlaneta": 324,
+		"diametro": 24904229493710930000,
+		"periodo_orbita": 1.3150463129561246e+26,
+		"periodo_rotacion": 1.2702656077180168e+26,
+		"gravedad": 227837191366
+	},
+	{
+		"idPlaneta": 325,
+		"diametro": 8430405965183208000,
+		"periodo_orbita": 1.3708819146383152e+26,
+		"periodo_rotacion": 6.467754436671301e+25,
+		"gravedad": 80874223472
+	},
+	{
+		"idPlaneta": 326,
+		"diametro": 14494772818094092000,
+		"periodo_orbita": 1.8309783314148514e+26,
+		"periodo_rotacion": 1.8002662537434233e+26,
+		"gravedad": 46236066681
+	},
+	{
+		"idPlaneta": 327,
+		"diametro": 22882475860314580000,
+		"periodo_orbita": 1.2311891415969496e+26,
+		"periodo_rotacion": 1.8054799383524313e+26,
+		"gravedad": 109454083594
+	},
+	{
+		"idPlaneta": 328,
+		"diametro": 10511814722891547000,
+		"periodo_orbita": 1.9157900978816765e+26,
+		"periodo_rotacion": 1.2779236191254106e+26,
+		"gravedad": 193079519512
+	},
+	{
+		"idPlaneta": 329,
+		"diametro": 16638395244736310000,
+		"periodo_orbita": 1.4437340830174589e+26,
+		"periodo_rotacion": 2.0823405545977016e+26,
+		"gravedad": 15372119567
+	},
+	{
+		"idPlaneta": 330,
+		"diametro": 23966342899589910000,
+		"periodo_orbita": 1.7315144995340294e+26,
+		"periodo_rotacion": 1.893890830118053e+26,
+		"gravedad": 67257082208
+	},
+	{
+		"idPlaneta": 331,
+		"diametro": 10763009878815087000,
+		"periodo_orbita": 1.0268026621908232e+26,
+		"periodo_rotacion": 1.2521386679456483e+26,
+		"gravedad": 128971394426
+	},
+	{
+		"idPlaneta": 332,
+		"diametro": 16509781554798508000,
+		"periodo_orbita": 3.0430184306342347e+25,
+		"periodo_rotacion": 1.4662779110398329e+26,
+		"gravedad": 194364943162
+	},
+	{
+		"idPlaneta": 333,
+		"diametro": 6478595926425312000,
+		"periodo_orbita": 1.2147892954442074e+26,
+		"periodo_rotacion": 1.0683875225418311e+26,
+		"gravedad": 182050508613
+	},
+	{
+		"idPlaneta": 334,
+		"diametro": 1551418495021296600,
+		"periodo_orbita": 8.064751516704177e+25,
+		"periodo_rotacion": 1.962681553871205e+26,
+		"gravedad": 174330962636
+	},
+	{
+		"idPlaneta": 335,
+		"diametro": 4648293102813824000,
+		"periodo_orbita": 5.704683098880142e+25,
+		"periodo_rotacion": 2.286892279191742e+26,
+		"gravedad": 208808201340
+	},
+	{
+		"idPlaneta": 336,
+		"diametro": 14084031636587348000,
+		"periodo_orbita": 1.9619676368376624e+26,
+		"periodo_rotacion": 2.0770134302115235e+26,
+		"gravedad": 163543909612
+	},
+	{
+		"idPlaneta": 337,
+		"diametro": 12704068444222155000,
+		"periodo_orbita": 2.061030089054327e+26,
+		"periodo_rotacion": 1.717349691728648e+26,
+		"gravedad": 168422572643
+	},
+	{
+		"idPlaneta": 338,
+		"diametro": 9708745877796219000,
+		"periodo_orbita": 1.8258105078113484e+26,
+		"periodo_rotacion": 3.738354340853606e+25,
+		"gravedad": 36859538449
+	},
+	{
+		"idPlaneta": 339,
+		"diametro": 23195277886492926000,
+		"periodo_orbita": 1.7877003119052288e+26,
+		"periodo_rotacion": 9.355095875596683e+25,
+		"gravedad": 25041301388
+	},
+	{
+		"idPlaneta": 340,
+		"diametro": 23161070508503130000,
+		"periodo_orbita": 1.5797939421032e+26,
+		"periodo_rotacion": 2.1145903386622717e+26,
+		"gravedad": 184103868347
+	},
+	{
+		"idPlaneta": 341,
+		"diametro": 1821669281658660600,
+		"periodo_orbita": 2.2343187394923004e+26,
+		"periodo_rotacion": 1.7737564024248135e+26,
+		"gravedad": 219461261068
+	},
+	{
+		"idPlaneta": 342,
+		"diametro": 1181651381507680300,
+		"periodo_orbita": 4.171884044427357e+25,
+		"periodo_rotacion": 4.29816095492266e+25,
+		"gravedad": 59680164357
+	},
+	{
+		"idPlaneta": 343,
+		"diametro": 11872695153014833000,
+		"periodo_orbita": 2.1352848938215943e+26,
+		"periodo_rotacion": 1.0779490794449638e+26,
+		"gravedad": 134101634168
+	},
+	{
+		"idPlaneta": 344,
+		"diametro": 3472962366112789500,
+		"periodo_orbita": 8.541832801535398e+25,
+		"periodo_rotacion": 1.1453068202279384e+25,
+		"gravedad": 221229485505
+	},
+	{
+		"idPlaneta": 345,
+		"diametro": 148541855661937340,
+		"periodo_orbita": 1.0464012353493041e+26,
+		"periodo_rotacion": 1.2958798736085174e+26,
+		"gravedad": 85203538345
+	},
+	{
+		"idPlaneta": 346,
+		"diametro": 14192409297371697000,
+		"periodo_orbita": 1.5478907799680135e+26,
+		"periodo_rotacion": 6.967641247515544e+25,
+		"gravedad": 99911542226
+	},
+	{
+		"idPlaneta": 347,
+		"diametro": 13720416565230062000,
+		"periodo_orbita": 2.1708864123728028e+26,
+		"periodo_rotacion": 2.746367033493985e+25,
+		"gravedad": 97583887872
+	},
+	{
+		"idPlaneta": 348,
+		"diametro": 23583236673118085000,
+		"periodo_orbita": 2.465907553892496e+26,
+		"periodo_rotacion": 3.487070571882047e+25,
+		"gravedad": 146817327834
+	},
+	{
+		"idPlaneta": 349,
+		"diametro": 13356324379891034000,
+		"periodo_orbita": 1.6375757847508272e+26,
+		"periodo_rotacion": 2.196538893317666e+26,
+		"gravedad": 199509099696
+	},
+	{
+		"idPlaneta": 350,
+		"diametro": 23564494881949880000,
+		"periodo_orbita": 1.7632372589111696e+26,
+		"periodo_rotacion": 2.3123670564503737e+26,
+		"gravedad": 183013017308
+	},
+	{
+		"idPlaneta": 351,
+		"diametro": 21083795934844387000,
+		"periodo_orbita": 1.981535184066414e+26,
+		"periodo_rotacion": 1.6233802541875937e+26,
+		"gravedad": 123593506609
+	},
+	{
+		"idPlaneta": 352,
+		"diametro": 4025111033415943700,
+		"periodo_orbita": 2.566992859937661e+26,
+		"periodo_rotacion": 2.381493408295971e+26,
+		"gravedad": 109311432988
+	},
+	{
+		"idPlaneta": 353,
+		"diametro": 10322324007456640000,
+		"periodo_orbita": 9.034273068737077e+25,
+		"periodo_rotacion": 1.4929849830089991e+26,
+		"gravedad": 41720527860
+	},
+	{
+		"idPlaneta": 354,
+		"diametro": 17194787267274215000,
+		"periodo_orbita": 2.1381869323474467e+25,
+		"periodo_rotacion": 6.4634314593977395e+25,
+		"gravedad": 40786415194
+	},
+	{
+		"idPlaneta": 355,
+		"diametro": 17740514208763976000,
+		"periodo_orbita": 1.8453572350893757e+25,
+		"periodo_rotacion": 4.122210034234899e+25,
+		"gravedad": 44554426651
+	},
+	{
+		"idPlaneta": 356,
+		"diametro": 17623741862313329000,
+		"periodo_orbita": 1.778769328925428e+26,
+		"periodo_rotacion": 1.7071711961802916e+26,
+		"gravedad": 41995012586
+	},
+	{
+		"idPlaneta": 357,
+		"diametro": 3765742226655870500,
+		"periodo_orbita": 2.088064530157632e+26,
+		"periodo_rotacion": 1.5161977778554279e+26,
+		"gravedad": 18495023045
+	},
+	{
+		"idPlaneta": 358,
+		"diametro": 10367012250394837000,
+		"periodo_orbita": 5.038748193197513e+25,
+		"periodo_rotacion": 1.7094388786905734e+26,
+		"gravedad": 218836198187
+	},
+	{
+		"idPlaneta": 359,
+		"diametro": 19194722135864795000,
+		"periodo_orbita": 2.403250096849845e+26,
+		"periodo_rotacion": 2.370798837761362e+26,
+		"gravedad": 171502842900
+	},
+	{
+		"idPlaneta": 360,
+		"diametro": 8442267334889759000,
+		"periodo_orbita": 1.210832417738287e+26,
+		"periodo_rotacion": 2.238244960072894e+25,
+		"gravedad": 197741874637
+	},
+	{
+		"idPlaneta": 361,
+		"diametro": 7643534786292797000,
+		"periodo_orbita": 1.668980947406203e+26,
+		"periodo_rotacion": 6.89766228921123e+25,
+		"gravedad": 152928649467
+	},
+	{
+		"idPlaneta": 362,
+		"diametro": 12436325294681745000,
+		"periodo_orbita": 5.78868654261915e+25,
+		"periodo_rotacion": 2.181740422898321e+26,
+		"gravedad": 3867994192
+	},
+	{
+		"idPlaneta": 363,
+		"diametro": 21040538888740897000,
+		"periodo_orbita": 7.840051213789852e+25,
+		"periodo_rotacion": 6.743750652421407e+25,
+		"gravedad": 15705490671
+	},
+	{
+		"idPlaneta": 364,
+		"diametro": 23185517205855924000,
+		"periodo_orbita": 1.1088986631654872e+26,
+		"periodo_rotacion": 3.978952720404142e+25,
+		"gravedad": 64521427526
+	},
+	{
+		"idPlaneta": 365,
+		"diametro": 1965387919963854000,
+		"periodo_orbita": 3.931367049748e+25,
+		"periodo_rotacion": 1.11027252004142e+26,
+		"gravedad": 174283155077
+	},
+	{
+		"idPlaneta": 366,
+		"diametro": 8328076903779996000,
+		"periodo_orbita": 2.201147869733873e+26,
+		"periodo_rotacion": 1.8354104165369102e+26,
+		"gravedad": 106747236268
+	},
+	{
+		"idPlaneta": 367,
+		"diametro": 17554174245945880000,
+		"periodo_orbita": 2.524483577240412e+26,
+		"periodo_rotacion": 7.70985581938115e+25,
+		"gravedad": 98453071705
+	},
+	{
+		"idPlaneta": 368,
+		"diametro": 14303706000146412000,
+		"periodo_orbita": 1.6576903636832768e+26,
+		"periodo_rotacion": 1.3870052985199444e+26,
+		"gravedad": 80877658382
+	},
+	{
+		"idPlaneta": 369,
+		"diametro": 20040289140404380000,
+		"periodo_orbita": 2.0279718288053863e+26,
+		"periodo_rotacion": 1.3333804376814934e+26,
+		"gravedad": 226030964882
+	},
+	{
+		"idPlaneta": 370,
+		"diametro": 11969860746235707000,
+		"periodo_orbita": 1.804164946125614e+26,
+		"periodo_rotacion": 2.267178508273734e+25,
+		"gravedad": 161315645273
+	},
+	{
+		"idPlaneta": 371,
+		"diametro": 11592727695167610000,
+		"periodo_orbita": 1.9161339991337216e+26,
+		"periodo_rotacion": 4.826363808946066e+25,
+		"gravedad": 81618624065
+	},
+	{
+		"idPlaneta": 372,
+		"diametro": 10035256774894143000,
+		"periodo_orbita": 1.3977854954455836e+26,
+		"periodo_rotacion": 2.2588546881680467e+26,
+		"gravedad": 132166494337
+	},
+	{
+		"idPlaneta": 373,
+		"diametro": 20730883311656940000,
+		"periodo_orbita": 1.3668244811816645e+26,
+		"periodo_rotacion": 1.1954904344155254e+26,
+		"gravedad": 87087980659
+	},
+	{
+		"idPlaneta": 374,
+		"diametro": 3428876569340424000,
+		"periodo_orbita": 2.7842599632164473e+25,
+		"periodo_rotacion": 2.12292871396739e+25,
+		"gravedad": 54718420521
+	},
+	{
+		"idPlaneta": 375,
+		"diametro": 8350350112511445000,
+		"periodo_orbita": 8.89800212382131e+25,
+		"periodo_rotacion": 1.1236007000450518e+26,
+		"gravedad": 43419484061
+	},
+	{
+		"idPlaneta": 376,
+		"diametro": 2030771277142246700,
+		"periodo_orbita": 1.256924891066781e+26,
+		"periodo_rotacion": 1.9676038951815784e+26,
+		"gravedad": 31113958324
+	},
+	{
+		"idPlaneta": 377,
+		"diametro": 23067268284272767000,
+		"periodo_orbita": 8.50080218255468e+22,
+		"periodo_rotacion": 3.6757832376387032e+25,
+		"gravedad": 189933422092
+	},
+	{
+		"idPlaneta": 378,
+		"diametro": 15091718013113983000,
+		"periodo_orbita": 7.985585134590248e+24,
+		"periodo_rotacion": 2.136664186270656e+26,
+		"gravedad": 79777463010
+	},
+	{
+		"idPlaneta": 379,
+		"diametro": 22959072734239224000,
+		"periodo_orbita": 2.1714562159588845e+26,
+		"periodo_rotacion": 2.034280287073153e+26,
+		"gravedad": 21574020481
+	},
+	{
+		"idPlaneta": 380,
+		"diametro": 10301014022902966000,
+		"periodo_orbita": 1.4725928690243184e+26,
+		"periodo_rotacion": 7.817224636002165e+25,
+		"gravedad": 87460242114
+	},
+	{
+		"idPlaneta": 381,
+		"diametro": 19011932619160764000,
+		"periodo_orbita": 1.4998529987764236e+26,
+		"periodo_rotacion": 9.108723381629237e+25,
+		"gravedad": 761328811
+	},
+	{
+		"idPlaneta": 382,
+		"diametro": 5292572702517159000,
+		"periodo_orbita": 7.282237265976449e+25,
+		"periodo_rotacion": 1.5085993082476614e+26,
+		"gravedad": 31082037593
+	},
+	{
+		"idPlaneta": 383,
+		"diametro": 11659045986112274000,
+		"periodo_orbita": 1.1910806119064998e+25,
+		"periodo_rotacion": 6.82498794840765e+25,
+		"gravedad": 42260314193
+	},
+	{
+		"idPlaneta": 384,
+		"diametro": 21385822869551310000,
+		"periodo_orbita": 1.761722074467399e+26,
+		"periodo_rotacion": 1.1200551941571062e+25,
+		"gravedad": 182473794314
+	},
+	{
+		"idPlaneta": 385,
+		"diametro": 22774904549053223000,
+		"periodo_orbita": 1.6107640492659468e+26,
+		"periodo_rotacion": 8.708892996094141e+25,
+		"gravedad": 147403231445
+	},
+	{
+		"idPlaneta": 386,
+		"diametro": 19669332793591620000,
+		"periodo_orbita": 1.1794047891245064e+26,
+		"periodo_rotacion": 6.211931013684133e+25,
+		"gravedad": 223412677319
+	},
+	{
+		"idPlaneta": 387,
+		"diametro": 3098328536739017000,
+		"periodo_orbita": 2.291337389037377e+26,
+		"periodo_rotacion": 4.085471743403726e+25,
+		"gravedad": 228245190305
+	},
+	{
+		"idPlaneta": 388,
+		"diametro": 2310551136961200600,
+		"periodo_orbita": 2.0453075984564796e+26,
+		"periodo_rotacion": 1.3687220529172026e+26,
+		"gravedad": 38163724522
+	},
+	{
+		"idPlaneta": 389,
+		"diametro": 10415075011738425000,
+		"periodo_orbita": 6.516863644168814e+25,
+		"periodo_rotacion": 1.2953371943117641e+26,
+		"gravedad": 64154974500
+	},
+	{
+		"idPlaneta": 390,
+		"diametro": 5741272443930493000,
+		"periodo_orbita": 2.1191023706765775e+26,
+		"periodo_rotacion": 2.010296008017872e+26,
+		"gravedad": 206086196399
+	},
+	{
+		"idPlaneta": 391,
+		"diametro": 7212339121994725000,
+		"periodo_orbita": 8.435844170703333e+24,
+		"periodo_rotacion": 1.3575928116580253e+26,
+		"gravedad": 210336113231
+	},
+	{
+		"idPlaneta": 392,
+		"diametro": 13676620357179250000,
+		"periodo_orbita": 1.4088078883029155e+26,
+		"periodo_rotacion": 7.319552485655511e+25,
+		"gravedad": 108801421850
+	},
+	{
+		"idPlaneta": 393,
+		"diametro": 3029546406488009000,
+		"periodo_orbita": 1.9875194738195286e+26,
+		"periodo_rotacion": 1.9339265034845941e+25,
+		"gravedad": 59143434353
+	},
+	{
+		"idPlaneta": 394,
+		"diametro": 7405380339964993000,
+		"periodo_orbita": 1.7560634384641142e+26,
+		"periodo_rotacion": 1.0664473896267659e+24,
+		"gravedad": 172936096401
+	},
+	{
+		"idPlaneta": 395,
+		"diametro": 5264930814201572000,
+		"periodo_orbita": 1.1336715763816823e+26,
+		"periodo_rotacion": 2.1733333152150324e+26,
+		"gravedad": 148148561378
+	},
+	{
+		"idPlaneta": 396,
+		"diametro": 6563509718333798000,
+		"periodo_orbita": 1.4708955180812279e+26,
+		"periodo_rotacion": 4.6718700104197215e+24,
+		"gravedad": 21806709079
+	},
+	{
+		"idPlaneta": 397,
+		"diametro": 17239779899652649000,
+		"periodo_orbita": 9.222008194422797e+25,
+		"periodo_rotacion": 2.0840162863093505e+26,
+		"gravedad": 70590559314
+	},
+	{
+		"idPlaneta": 398,
+		"diametro": 1003589314440831500,
+		"periodo_orbita": 1.919167974514791e+26,
+		"periodo_rotacion": 1.383799217361335e+26,
+		"gravedad": 1903203371
+	},
+	{
+		"idPlaneta": 399,
+		"diametro": 11527763795058917000,
+		"periodo_orbita": 2.3408236140193123e+26,
+		"periodo_rotacion": 1.2285459236366571e+26,
+		"gravedad": 164683413220
+	},
+	{
+		"idPlaneta": 400,
+		"diametro": 1177525544628673000,
+		"periodo_orbita": 5.879129809020473e+25,
+		"periodo_rotacion": 4.684470385311369e+25,
+		"gravedad": 21683435883
+	},
+	{
+		"idPlaneta": 401,
+		"diametro": 18941770361381446000,
+		"periodo_orbita": 1.0899828865899201e+26,
+		"periodo_rotacion": 2.0554665125293512e+26,
+		"gravedad": 50178166699
+	},
+	{
+		"idPlaneta": 402,
+		"diametro": 11140213087026727000,
+		"periodo_orbita": 2.438666738364541e+26,
+		"periodo_rotacion": 2.4437246888811927e+26,
+		"gravedad": 107132959344
+	},
+	{
+		"idPlaneta": 403,
+		"diametro": 2174464819667631400,
+		"periodo_orbita": 1.8377468415577358e+25,
+		"periodo_rotacion": 2.9410248365368105e+25,
+		"gravedad": 126534241393
+	},
+	{
+		"idPlaneta": 404,
+		"diametro": 8558696451968197000,
+		"periodo_orbita": 1.0569806384647462e+26,
+		"periodo_rotacion": 2.580851228072507e+26,
+		"gravedad": 225854893956
+	},
+	{
+		"idPlaneta": 405,
+		"diametro": 4142419716564876000,
+		"periodo_orbita": 1.3638836596097153e+26,
+		"periodo_rotacion": 1.3113763771808956e+26,
+		"gravedad": 130514440966
+	},
+	{
+		"idPlaneta": 406,
+		"diametro": 17618667580997528000,
+		"periodo_orbita": 1.742503280360726e+26,
+		"periodo_rotacion": 2.5779951523491735e+26,
+		"gravedad": 13613441651
+	},
+	{
+		"idPlaneta": 407,
+		"diametro": 15005290191540320000,
+		"periodo_orbita": 2.0816657548388975e+26,
+		"periodo_rotacion": 2.1001084665709596e+26,
+		"gravedad": 122052903772
+	},
+	{
+		"idPlaneta": 408,
+		"diametro": 23332127930842970000,
+		"periodo_orbita": 2.2307030493224103e+26,
+		"periodo_rotacion": 1.6495689055470065e+26,
+		"gravedad": 112885941673
+	},
+	{
+		"idPlaneta": 409,
+		"diametro": 19608819427928110000,
+		"periodo_orbita": 1.2360004215928441e+26,
+		"periodo_rotacion": 2.9565550181863036e+25,
+		"gravedad": 116318946180
+	},
+	{
+		"idPlaneta": 410,
+		"diametro": 623045462206451700,
+		"periodo_orbita": 1.4569512242747228e+26,
+		"periodo_rotacion": 6.915390671395825e+25,
+		"gravedad": 193629354429
+	},
+	{
+		"idPlaneta": 411,
+		"diametro": 12070502487528886000,
+		"periodo_orbita": 2.1127209286194118e+26,
+		"periodo_rotacion": 5.219803293791671e+24,
+		"gravedad": 213821700452
+	},
+	{
+		"idPlaneta": 412,
+		"diametro": 5864013133916416000,
+		"periodo_orbita": 2.1669983510818658e+26,
+		"periodo_rotacion": 5.986673098541445e+25,
+		"gravedad": 13719259742
+	},
+	{
+		"idPlaneta": 413,
+		"diametro": 13553708800569008000,
+		"periodo_orbita": 1.2362811845810246e+26,
+		"periodo_rotacion": 2.4158732293929913e+26,
+		"gravedad": 179822881765
+	},
+	{
+		"idPlaneta": 414,
+		"diametro": 15443553476078220000,
+		"periodo_orbita": 2.377827681296907e+26,
+		"periodo_rotacion": 2.4994908587331326e+25,
+		"gravedad": 158766134787
+	},
+	{
+		"idPlaneta": 415,
+		"diametro": 17987472044389827000,
+		"periodo_orbita": 2.3174566467094607e+26,
+		"periodo_rotacion": 1.0039948189290637e+26,
+		"gravedad": 180724459739
+	},
+	{
+		"idPlaneta": 416,
+		"diametro": 23549428554377015000,
+		"periodo_orbita": 1.620563387681106e+26,
+		"periodo_rotacion": 1.5396430083068763e+26,
+		"gravedad": 64358501589
+	},
+	{
+		"idPlaneta": 417,
+		"diametro": 4176844575800550400,
+		"periodo_orbita": 2.1592528365256946e+26,
+		"periodo_rotacion": 2.4694770694249125e+26,
+		"gravedad": 18497557168
+	},
+	{
+		"idPlaneta": 418,
+		"diametro": 16824108715820184000,
+		"periodo_orbita": 4.91177557862582e+25,
+		"periodo_rotacion": 1.1599166824433161e+26,
+		"gravedad": 135263231606
+	},
+	{
+		"idPlaneta": 419,
+		"diametro": 5537661501291615000,
+		"periodo_orbita": 1.5645880576397313e+26,
+		"periodo_rotacion": 2.4510783411191734e+26,
+		"gravedad": 217127268622
+	},
+	{
+		"idPlaneta": 420,
+		"diametro": 21020462845631398000,
+		"periodo_orbita": 3.655650346388964e+25,
+		"periodo_rotacion": 2.3998937307079662e+26,
+		"gravedad": 184196532276
+	},
+	{
+		"idPlaneta": 421,
+		"diametro": 7396046979314708000,
+		"periodo_orbita": 1.9233703731890657e+26,
+		"periodo_rotacion": 5.117919189158319e+25,
+		"gravedad": 28388954741
+	},
+	{
+		"idPlaneta": 422,
+		"diametro": 11692248746252410000,
+		"periodo_orbita": 1.0538321608263338e+25,
+		"periodo_rotacion": 2.5546424959605994e+25,
+		"gravedad": 83990328171
+	},
+	{
+		"idPlaneta": 423,
+		"diametro": 3696150016882401000,
+		"periodo_orbita": 1.0077541373697704e+26,
+		"periodo_rotacion": 1.3500232012583362e+26,
+		"gravedad": 59272374881
+	},
+	{
+		"idPlaneta": 424,
+		"diametro": 4273069405247640600,
+		"periodo_orbita": 5.625450523679308e+25,
+		"periodo_rotacion": 1.5628718113487953e+26,
+		"gravedad": 11113262021
+	},
+	{
+		"idPlaneta": 425,
+		"diametro": 17407957643988564000,
+		"periodo_orbita": 2.4472622154153132e+26,
+		"periodo_rotacion": 1.1968103632144713e+26,
+		"gravedad": 152640767870
+	},
+	{
+		"idPlaneta": 426,
+		"diametro": 4281200819896248300,
+		"periodo_orbita": 4.082380350088613e+25,
+		"periodo_rotacion": 6.991492200473028e+25,
+		"gravedad": 113192820520
+	},
+	{
+		"idPlaneta": 427,
+		"diametro": 24077157470191698000,
+		"periodo_orbita": 1.1475999979935171e+26,
+		"periodo_rotacion": 1.6549846417548854e+26,
+		"gravedad": 115112110871
+	},
+	{
+		"idPlaneta": 428,
+		"diametro": 15718759068929913000,
+		"periodo_orbita": 8.353593198387406e+25,
+		"periodo_rotacion": 2.475885954722335e+26,
+		"gravedad": 214823897
+	},
+	{
+		"idPlaneta": 429,
+		"diametro": 14610198558068034000,
+		"periodo_orbita": 1.0866875392745077e+26,
+		"periodo_rotacion": 3.3492439965060337e+25,
+		"gravedad": 177290438940
+	},
+	{
+		"idPlaneta": 430,
+		"diametro": 6174160735479130000,
+		"periodo_orbita": 1.4073637910181312e+26,
+		"periodo_rotacion": 2.116914907673124e+26,
+		"gravedad": 63863251571
+	},
+	{
+		"idPlaneta": 431,
+		"diametro": 12249392000263887000,
+		"periodo_orbita": 1.1661445564152947e+26,
+		"periodo_rotacion": 7.471021643959741e+25,
+		"gravedad": 136021169352
+	},
+	{
+		"idPlaneta": 432,
+		"diametro": 23765390893119226000,
+		"periodo_orbita": 2.344071482601757e+26,
+		"periodo_rotacion": 1.953805044532973e+26,
+		"gravedad": 216570432752
+	},
+	{
+		"idPlaneta": 433,
+		"diametro": 19219158294225187000,
+		"periodo_orbita": 1.8375137809716208e+26,
+		"periodo_rotacion": 1.7824613834926612e+25,
+		"gravedad": 200788527715
+	},
+	{
+		"idPlaneta": 434,
+		"diametro": 7384738653021455000,
+		"periodo_orbita": 2.4803520610760016e+26,
+		"periodo_rotacion": 7.2174534328155165e+25,
+		"gravedad": 57997417107
+	},
+	{
+		"idPlaneta": 435,
+		"diametro": 12090656680095551000,
+		"periodo_orbita": 1.7943244572004023e+26,
+		"periodo_rotacion": 4.69154915782741e+25,
+		"gravedad": 30170001421
+	},
+	{
+		"idPlaneta": 436,
+		"diametro": 9857627005098607000,
+		"periodo_orbita": 5.473790421155853e+25,
+		"periodo_rotacion": 4.608235623498083e+25,
+		"gravedad": 142638292105
+	},
+	{
+		"idPlaneta": 437,
+		"diametro": 18396025402484740000,
+		"periodo_orbita": 2.0394161535707356e+25,
+		"periodo_rotacion": 1.3307197354399564e+26,
+		"gravedad": 87042300650
+	},
+	{
+		"idPlaneta": 438,
+		"diametro": 8567842487444954000,
+		"periodo_orbita": 2.8768997800412135e+25,
+		"periodo_rotacion": 2.3728109730565598e+26,
+		"gravedad": 19747559079
+	},
+	{
+		"idPlaneta": 439,
+		"diametro": 19535535991656090000,
+		"periodo_orbita": 5.9549809301903995e+25,
+		"periodo_rotacion": 4.605565362103856e+25,
+		"gravedad": 7693779704
+	},
+	{
+		"idPlaneta": 440,
+		"diametro": 15252701552507600000,
+		"periodo_orbita": 2.495789522546689e+25,
+		"periodo_rotacion": 1.2621086459314772e+26,
+		"gravedad": 199256104810
+	},
+	{
+		"idPlaneta": 441,
+		"diametro": 11418758367497580000,
+		"periodo_orbita": 1.4838044054610776e+26,
+		"periodo_rotacion": 2.2611284462295413e+26,
+		"gravedad": 6532756618
+	},
+	{
+		"idPlaneta": 442,
+		"diametro": 12943946963654680000,
+		"periodo_orbita": 1.256788125900994e+26,
+		"periodo_rotacion": 2.0097941368305086e+26,
+		"gravedad": 95427698534
+	},
+	{
+		"idPlaneta": 443,
+		"diametro": 766118270789284000,
+		"periodo_orbita": 4.8915948828871055e+25,
+		"periodo_rotacion": 1.7121153777175462e+26,
+		"gravedad": 11955167637
+	},
+	{
+		"idPlaneta": 444,
+		"diametro": 24294758600090096000,
+		"periodo_orbita": 1.926243801614476e+26,
+		"periodo_rotacion": 3.3617728576779966e+25,
+		"gravedad": 182095606560
+	},
+	{
+		"idPlaneta": 445,
+		"diametro": 10327816667350223000,
+		"periodo_orbita": 1.2228808043331655e+26,
+		"periodo_rotacion": 6.653804748602995e+25,
+		"gravedad": 114915575719
+	},
+	{
+		"idPlaneta": 446,
+		"diametro": 1422645106461197800,
+		"periodo_orbita": 1.3087857502129626e+26,
+		"periodo_rotacion": 2.12541978603193e+26,
+		"gravedad": 213303561042
+	},
+	{
+		"idPlaneta": 447,
+		"diametro": 6248703649660742000,
+		"periodo_orbita": 2.490645403397769e+26,
+		"periodo_rotacion": 1.0691557161208686e+26,
+		"gravedad": 59617917820
+	},
+	{
+		"idPlaneta": 448,
+		"diametro": 4620034458024477000,
+		"periodo_orbita": 2.2952874511797788e+24,
+		"periodo_rotacion": 1.4164190560663687e+26,
+		"gravedad": 124781091169
+	},
+	{
+		"idPlaneta": 449,
+		"diametro": 24878421377770390000,
+		"periodo_orbita": 9.519069113675933e+24,
+		"periodo_rotacion": 4.460941162619369e+25,
+		"gravedad": 208105780933
+	},
+	{
+		"idPlaneta": 450,
+		"diametro": 5079780746929296000,
+		"periodo_orbita": 2.4467013593568086e+26,
+		"periodo_rotacion": 1.3989526279722533e+26,
+		"gravedad": 37936287083
+	},
+	{
+		"idPlaneta": 451,
+		"diametro": 19334861862824866000,
+		"periodo_orbita": 8.95204213818594e+25,
+		"periodo_rotacion": 2.4622807326706204e+26,
+		"gravedad": 3654229614
+	},
+	{
+		"idPlaneta": 452,
+		"diametro": 19602705795689740000,
+		"periodo_orbita": 8.194260671160724e+25,
+		"periodo_rotacion": 1.995540588605471e+26,
+		"gravedad": 68758393712
+	},
+	{
+		"idPlaneta": 453,
+		"diametro": 12605940070411012000,
+		"periodo_orbita": 1.4573403739499394e+26,
+		"periodo_rotacion": 2.963737160789172e+25,
+		"gravedad": 153034366498
+	},
+	{
+		"idPlaneta": 454,
+		"diametro": 9652407897302618000,
+		"periodo_orbita": 1.7640623416873117e+26,
+		"periodo_rotacion": 1.6103242314260228e+25,
+		"gravedad": 220774247545
+	},
+	{
+		"idPlaneta": 455,
+		"diametro": 23802034598188397000,
+		"periodo_orbita": 8.41883381989172e+25,
+		"periodo_rotacion": 1.3832143394495464e+26,
+		"gravedad": 116623133724
+	},
+	{
+		"idPlaneta": 456,
+		"diametro": 3607275333495788000,
+		"periodo_orbita": 1.7553201473404833e+26,
+		"periodo_rotacion": 2.2300137934294404e+26,
+		"gravedad": 21864418775
+	},
+	{
+		"idPlaneta": 457,
+		"diametro": 8628512418170053000,
+		"periodo_orbita": 2.018095223802519e+26,
+		"periodo_rotacion": 2.1479977736638268e+26,
+		"gravedad": 166188750455
+	},
+	{
+		"idPlaneta": 458,
+		"diametro": 13876214435309750000,
+		"periodo_orbita": 1.9045265001039426e+26,
+		"periodo_rotacion": 1.9575940569139806e+26,
+		"gravedad": 192971718638
+	},
+	{
+		"idPlaneta": 459,
+		"diametro": 21930277919093113000,
+		"periodo_orbita": 1.738440724192894e+26,
+		"periodo_rotacion": 4.104404319055522e+25,
+		"gravedad": 91304832313
+	},
+	{
+		"idPlaneta": 460,
+		"diametro": 24713190492496900000,
+		"periodo_orbita": 1.3392582332896037e+26,
+		"periodo_rotacion": 9.914831358148464e+25,
+		"gravedad": 871657281
+	},
+	{
+		"idPlaneta": 461,
+		"diametro": 13890799033703188000,
+		"periodo_orbita": 2.2259308574364826e+26,
+		"periodo_rotacion": 3.6646032439980838e+25,
+		"gravedad": 15658856335
+	},
+	{
+		"idPlaneta": 462,
+		"diametro": 12797499468039008000,
+		"periodo_orbita": 1.896410999959834e+26,
+		"periodo_rotacion": 1.3642997648192176e+26,
+		"gravedad": 43084978102
+	},
+	{
+		"idPlaneta": 463,
+		"diametro": 15707157161521934000,
+		"periodo_orbita": 7.543897397522645e+25,
+		"periodo_rotacion": 1.0213055109845196e+26,
+		"gravedad": 106434299258
+	},
+	{
+		"idPlaneta": 464,
+		"diametro": 24474726049829323000,
+		"periodo_orbita": 2.0991223435673404e+26,
+		"periodo_rotacion": 1.2894822675737086e+26,
+		"gravedad": 121344366494
+	},
+	{
+		"idPlaneta": 465,
+		"diametro": 10453155420755685000,
+		"periodo_orbita": 1.2263269814166768e+26,
+		"periodo_rotacion": 1.4355100958222679e+25,
+		"gravedad": 136420399852
+	},
+	{
+		"idPlaneta": 466,
+		"diametro": 17870764940712937000,
+		"periodo_orbita": 5.313439130334966e+25,
+		"periodo_rotacion": 1.130132145922819e+26,
+		"gravedad": 6654417571
+	},
+	{
+		"idPlaneta": 467,
+		"diametro": 3645483153480464400,
+		"periodo_orbita": 1.8074971647099006e+26,
+		"periodo_rotacion": 9.517333036611122e+25,
+		"gravedad": 85074681567
+	},
+	{
+		"idPlaneta": 468,
+		"diametro": 8449474203458044000,
+		"periodo_orbita": 2.902749473621525e+25,
+		"periodo_rotacion": 6.287635976041449e+25,
+		"gravedad": 13256676546
+	},
+	{
+		"idPlaneta": 469,
+		"diametro": 6182480887097187000,
+		"periodo_orbita": 2.514379152849675e+26,
+		"periodo_rotacion": 9.188183305953289e+25,
+		"gravedad": 219517894110
+	},
+	{
+		"idPlaneta": 470,
+		"diametro": 1168998770019265800,
+		"periodo_orbita": 1.1949723008473141e+26,
+		"periodo_rotacion": 1.58208295895854e+26,
+		"gravedad": 220773331732
+	},
+	{
+		"idPlaneta": 471,
+		"diametro": 17536268470063650000,
+		"periodo_orbita": 2.428778041486045e+26,
+		"periodo_rotacion": 1.7585121824663513e+26,
+		"gravedad": 128365064212
+	},
+	{
+		"idPlaneta": 472,
+		"diametro": 13084561979832713000,
+		"periodo_orbita": 1.4847978005852753e+26,
+		"periodo_rotacion": 1.2179679446435747e+26,
+		"gravedad": 120727777432
+	},
+	{
+		"idPlaneta": 473,
+		"diametro": 9465741002146736000,
+		"periodo_orbita": 9.116793205846668e+25,
+		"periodo_rotacion": 1.1490793002244126e+26,
+		"gravedad": 161311771314
+	},
+	{
+		"idPlaneta": 474,
+		"diametro": 5085910015386107000,
+		"periodo_orbita": 2.132976891540941e+25,
+		"periodo_rotacion": 1.6632132275216012e+26,
+		"gravedad": 70729649451
+	},
+	{
+		"idPlaneta": 475,
+		"diametro": 23657447155760062000,
+		"periodo_orbita": 1.8094891316227015e+26,
+		"periodo_rotacion": 2.285139157971293e+26,
+		"gravedad": 220409775137
+	},
+	{
+		"idPlaneta": 476,
+		"diametro": 349724798475361540,
+		"periodo_orbita": 8.317908885441912e+25,
+		"periodo_rotacion": 2.354736690796233e+25,
+		"gravedad": 146878776447
+	},
+	{
+		"idPlaneta": 477,
+		"diametro": 17249979269313212000,
+		"periodo_orbita": 1.040678414213421e+26,
+		"periodo_rotacion": 1.814933534718503e+25,
+		"gravedad": 74059725251
+	},
+	{
+		"idPlaneta": 478,
+		"diametro": 14040562059466992000,
+		"periodo_orbita": 2.1578845526400452e+26,
+		"periodo_rotacion": 2.0725273344828177e+26,
+		"gravedad": 76533803256
+	},
+	{
+		"idPlaneta": 479,
+		"diametro": 20184778535579410000,
+		"periodo_orbita": 8.909784478130294e+25,
+		"periodo_rotacion": 1.1218579997468285e+26,
+		"gravedad": 23086793638
+	},
+	{
+		"idPlaneta": 480,
+		"diametro": 8230243404961258000,
+		"periodo_orbita": 3.8690563477033956e+25,
+		"periodo_rotacion": 9.272811309464921e+25,
+		"gravedad": 98212103476
+	},
+	{
+		"idPlaneta": 481,
+		"diametro": 10509820890082433000,
+		"periodo_orbita": 1.4038216220491659e+26,
+		"periodo_rotacion": 3.7374963243946003e+25,
+		"gravedad": 83111185758
+	},
+	{
+		"idPlaneta": 482,
+		"diametro": 8666413195933297000,
+		"periodo_orbita": 4.575092306121558e+25,
+		"periodo_rotacion": 4.631395279568947e+25,
+		"gravedad": 46487464094
+	},
+	{
+		"idPlaneta": 483,
+		"diametro": 24245960141467345000,
+		"periodo_orbita": 2.2629113462594494e+26,
+		"periodo_rotacion": 8.965641460736167e+25,
+		"gravedad": 127683757390
+	},
+	{
+		"idPlaneta": 484,
+		"diametro": 25051043215502380000,
+		"periodo_orbita": 2.276682351247806e+26,
+		"periodo_rotacion": 1.6458058840842193e+26,
+		"gravedad": 173853018329
+	},
+	{
+		"idPlaneta": 485,
+		"diametro": 24937912283065740000,
+		"periodo_orbita": 8.235373316967804e+25,
+		"periodo_rotacion": 2.437594081185232e+26,
+		"gravedad": 148918802060
+	},
+	{
+		"idPlaneta": 486,
+		"diametro": 4383862142804165600,
+		"periodo_orbita": 1.8718857177805297e+26,
+		"periodo_rotacion": 6.306539870671361e+25,
+		"gravedad": 61090425149
+	},
+	{
+		"idPlaneta": 487,
+		"diametro": 15334876207800695000,
+		"periodo_orbita": 1.3184197723407546e+26,
+		"periodo_rotacion": 8.73846040017723e+25,
+		"gravedad": 94253818682
+	},
+	{
+		"idPlaneta": 488,
+		"diametro": 6601745797627006000,
+		"periodo_orbita": 1.840893320310283e+26,
+		"periodo_rotacion": 1.805208825619427e+26,
+		"gravedad": 136565020123
+	},
+	{
+		"idPlaneta": 489,
+		"diametro": 20993857429290540000,
+		"periodo_orbita": 4.291931096793884e+25,
+		"periodo_rotacion": 1.6011982497720868e+26,
+		"gravedad": 134181075094
+	},
+	{
+		"idPlaneta": 490,
+		"diametro": 22500915197324540000,
+		"periodo_orbita": 2.0728530673579523e+26,
+		"periodo_rotacion": 6.563064389132e+25,
+		"gravedad": 151802058771
+	},
+	{
+		"idPlaneta": 491,
+		"diametro": 22013717866081080000,
+		"periodo_orbita": 2.2297834739261223e+26,
+		"periodo_rotacion": 1.054160195114076e+26,
+		"gravedad": 228402257014
+	},
+	{
+		"idPlaneta": 492,
+		"diametro": 21403503918481834000,
+		"periodo_orbita": 2.189438468221565e+26,
+		"periodo_rotacion": 1.5537046441013335e+26,
+		"gravedad": 151097080206
+	},
+	{
+		"idPlaneta": 493,
+		"diametro": 9321637312190986000,
+		"periodo_orbita": 1.8801500122331367e+26,
+		"periodo_rotacion": 2.133966889013525e+26,
+		"gravedad": 110062113223
+	},
+	{
+		"idPlaneta": 494,
+		"diametro": 9386492354967423000,
+		"periodo_orbita": 1.2087555452694923e+25,
+		"periodo_rotacion": 2.154318134920077e+26,
+		"gravedad": 151982239785
+	},
+	{
+		"idPlaneta": 495,
+		"diametro": 13563969478452953000,
+		"periodo_orbita": 1.9589141465419195e+25,
+		"periodo_rotacion": 2.042531115162384e+26,
+		"gravedad": 223269025807
+	},
+	{
+		"idPlaneta": 496,
+		"diametro": 18884093438791650000,
+		"periodo_orbita": 2.454679549103729e+25,
+		"periodo_rotacion": 2.491982232112244e+24,
+		"gravedad": 73600116084
+	},
+	{
+		"idPlaneta": 497,
+		"diametro": 14310873700696195000,
+		"periodo_orbita": 1.9565085920910078e+26,
+		"periodo_rotacion": 7.786751522521785e+25,
+		"gravedad": 46752305359
+	},
+	{
+		"idPlaneta": 498,
+		"diametro": 21070376414225826000,
+		"periodo_orbita": 1.943430915169432e+26,
+		"periodo_rotacion": 1.676152159664395e+26,
+		"gravedad": 79514392995
+	},
+	{
+		"idPlaneta": 499,
+		"diametro": 14195549927924863000,
+		"periodo_orbita": 4.788625624603581e+25,
+		"periodo_rotacion": 6.989910347851941e+24,
+		"gravedad": 29245268464
+	},
+	{
+		"idPlaneta": 500,
+		"diametro": 831685720584019100,
+		"periodo_orbita": 3.481048629644199e+25,
+		"periodo_rotacion": 1.8269773871645618e+25,
+		"gravedad": 194970248208
+	},
+	{
+		"idPlaneta": 501,
+		"diametro": 7804430997579023000,
+		"periodo_orbita": 4.880117546860459e+25,
+		"periodo_rotacion": 8.554722890044298e+24,
+		"gravedad": 122468045367
+	},
+	{
+		"idPlaneta": 502,
+		"diametro": 25548342031913100000,
+		"periodo_orbita": 5.754410165269177e+25,
+		"periodo_rotacion": 1.8856383909308047e+25,
+		"gravedad": 149704223797
+	},
+	{
+		"idPlaneta": 503,
+		"diametro": 23595877164462547000,
+		"periodo_orbita": 6.182335872714137e+25,
+		"periodo_rotacion": 1.5058885586746468e+26,
+		"gravedad": 118673408783
+	},
+	{
+		"idPlaneta": 504,
+		"diametro": 11580202347147717000,
+		"periodo_orbita": 1.4940941594654558e+26,
+		"periodo_rotacion": 1.8846858208929957e+26,
+		"gravedad": 107271298533
+	},
+	{
+		"idPlaneta": 505,
+		"diametro": 13239133469046215000,
+		"periodo_orbita": 1.6207605916048748e+26,
+		"periodo_rotacion": 4.251763635372105e+25,
+		"gravedad": 108103792174
+	},
+	{
+		"idPlaneta": 506,
+		"diametro": 3642423650778046000,
+		"periodo_orbita": 5.304250766090135e+25,
+		"periodo_rotacion": 1.4688497471011882e+26,
+		"gravedad": 93711261950
+	},
+	{
+		"idPlaneta": 507,
+		"diametro": 12034496374856108000,
+		"periodo_orbita": 8.682321542062863e+25,
+		"periodo_rotacion": 8.049114709571748e+25,
+		"gravedad": 183758008416
+	},
+	{
+		"idPlaneta": 508,
+		"diametro": 6712463619972011000,
+		"periodo_orbita": 9.997991952174451e+25,
+		"periodo_rotacion": 2.0653326346790342e+26,
+		"gravedad": 218124745284
+	},
+	{
+		"idPlaneta": 509,
+		"diametro": 8146104111114386000,
+		"periodo_orbita": 2.5544523517716983e+26,
+		"periodo_rotacion": 2.4041966826099776e+26,
+		"gravedad": 163263997720
+	},
+	{
+		"idPlaneta": 510,
+		"diametro": 17454995788899084000,
+		"periodo_orbita": 2.4595985164417532e+26,
+		"periodo_rotacion": 2.397748204581715e+26,
+		"gravedad": 16816551314
+	},
+	{
+		"idPlaneta": 511,
+		"diametro": 16735494049062226000,
+		"periodo_orbita": 1.2783743421950601e+26,
+		"periodo_rotacion": 3.5909215784516756e+24,
+		"gravedad": 197509749697
+	},
+	{
+		"idPlaneta": 512,
+		"diametro": 13454808683392928000,
+		"periodo_orbita": 1.119950567801566e+26,
+		"periodo_rotacion": 5.60409961353619e+25,
+		"gravedad": 52867785540
+	},
+	{
+		"idPlaneta": 513,
+		"diametro": 10629206172807840000,
+		"periodo_orbita": 2.4917539836457405e+25,
+		"periodo_rotacion": 1.572053917352684e+26,
+		"gravedad": 143950665193
+	},
+	{
+		"idPlaneta": 514,
+		"diametro": 14642462276735891000,
+		"periodo_orbita": 1.2186968782554769e+26,
+		"periodo_rotacion": 3.9718428126651285e+25,
+		"gravedad": 155128237005
+	},
+	{
+		"idPlaneta": 515,
+		"diametro": 24234655992366227000,
+		"periodo_orbita": 2.4733606304104927e+26,
+		"periodo_rotacion": 2.560828948161e+26,
+		"gravedad": 50716632170
+	},
+	{
+		"idPlaneta": 516,
+		"diametro": 19402779391857020000,
+		"periodo_orbita": 1.4128149910199938e+26,
+		"periodo_rotacion": 4.442637334647907e+25,
+		"gravedad": 92521998340
+	},
+	{
+		"idPlaneta": 517,
+		"diametro": 12260266500002247000,
+		"periodo_orbita": 1.0853445968380451e+26,
+		"periodo_rotacion": 1.139047139730854e+26,
+		"gravedad": 215003898202
+	},
+	{
+		"idPlaneta": 518,
+		"diametro": 7344582653689332000,
+		"periodo_orbita": 3.49817035795798e+25,
+		"periodo_rotacion": 3.420693727207143e+25,
+		"gravedad": 220208957880
+	},
+	{
+		"idPlaneta": 519,
+		"diametro": 6834587265520377000,
+		"periodo_orbita": 1.6592362676894558e+26,
+		"periodo_rotacion": 2.3768465364481595e+26,
+		"gravedad": 123496660738
+	},
+	{
+		"idPlaneta": 520,
+		"diametro": 3125143004177485300,
+		"periodo_orbita": 1.404642952131736e+25,
+		"periodo_rotacion": 1.8585370189669014e+26,
+		"gravedad": 125723650230
+	},
+	{
+		"idPlaneta": 521,
+		"diametro": 15513983790885070000,
+		"periodo_orbita": 2.297996349509346e+26,
+		"periodo_rotacion": 2.351908468912004e+25,
+		"gravedad": 203687652912
+	},
+	{
+		"idPlaneta": 522,
+		"diametro": 7911999030735347000,
+		"periodo_orbita": 1.0823648503311795e+26,
+		"periodo_rotacion": 7.780543234955491e+25,
+		"gravedad": 3411089597
+	},
+	{
+		"idPlaneta": 523,
+		"diametro": 11416350535955319000,
+		"periodo_orbita": 7.288257858624605e+25,
+		"periodo_rotacion": 9.651233531133044e+25,
+		"gravedad": 9192568073
+	},
+	{
+		"idPlaneta": 524,
+		"diametro": 7305111364077039000,
+		"periodo_orbita": 4.937958517890671e+25,
+		"periodo_rotacion": 5.43748581390936e+25,
+		"gravedad": 136075102566
+	},
+	{
+		"idPlaneta": 525,
+		"diametro": 3617684235519313400,
+		"periodo_orbita": 2.197421255261225e+26,
+		"periodo_rotacion": 1.8386891206780463e+25,
+		"gravedad": 34324971714
+	},
+	{
+		"idPlaneta": 526,
+		"diametro": 4332009817496595500,
+		"periodo_orbita": 1.2662596036120714e+26,
+		"periodo_rotacion": 1.3078288385760567e+26,
+		"gravedad": 224822435239
+	},
+	{
+		"idPlaneta": 527,
+		"diametro": 1077190588713966500,
+		"periodo_orbita": 9.73474058856013e+25,
+		"periodo_rotacion": 1.0292197859158647e+26,
+		"gravedad": 46480184733
+	},
+	{
+		"idPlaneta": 528,
+		"diametro": 16724107919855196000,
+		"periodo_orbita": 1.384365127159805e+26,
+		"periodo_rotacion": 2.360192337714494e+26,
+		"gravedad": 31028798464
+	},
+	{
+		"idPlaneta": 529,
+		"diametro": 3472410355260150000,
+		"periodo_orbita": 1.4291256211631786e+26,
+		"periodo_rotacion": 6.7862428725760135e+25,
+		"gravedad": 206284821987
+	},
+	{
+		"idPlaneta": 530,
+		"diametro": 3939769682767144000,
+		"periodo_orbita": 1.0321365718575238e+26,
+		"periodo_rotacion": 9.186074837131124e+25,
+		"gravedad": 15487818623
+	},
+	{
+		"idPlaneta": 531,
+		"diametro": 20547613609077550000,
+		"periodo_orbita": 8.523474595209096e+25,
+		"periodo_rotacion": 1.1932313911765052e+26,
+		"gravedad": 168230095194
+	},
+	{
+		"idPlaneta": 532,
+		"diametro": 6554355324033144000,
+		"periodo_orbita": 7.169454380154006e+25,
+		"periodo_rotacion": 1.1641947513108795e+26,
+		"gravedad": 171517121099
+	},
+	{
+		"idPlaneta": 533,
+		"diametro": 15715689937598670000,
+		"periodo_orbita": 6.668074779105312e+25,
+		"periodo_rotacion": 1.757916684578758e+26,
+		"gravedad": 69696364644
+	},
+	{
+		"idPlaneta": 534,
+		"diametro": 22565581591812346000,
+		"periodo_orbita": 1.0699319401254741e+26,
+		"periodo_rotacion": 1.0273102699944035e+26,
+		"gravedad": 146562820756
+	},
+	{
+		"idPlaneta": 535,
+		"diametro": 15065500732612782000,
+		"periodo_orbita": 2.1471660127980092e+26,
+		"periodo_rotacion": 1.1956597794168716e+26,
+		"gravedad": 119754635178
+	},
+	{
+		"idPlaneta": 536,
+		"diametro": 18921854689439916000,
+		"periodo_orbita": 1.5074776271829605e+26,
+		"periodo_rotacion": 2.0682902549773652e+26,
+		"gravedad": 62989220046
+	},
+	{
+		"idPlaneta": 537,
+		"diametro": 20393358063340896000,
+		"periodo_orbita": 1.66239998391204e+26,
+		"periodo_rotacion": 2.1622974540490985e+26,
+		"gravedad": 49805294573
+	},
+	{
+		"idPlaneta": 538,
+		"diametro": 16047693231494838000,
+		"periodo_orbita": 1.0914098733458406e+26,
+		"periodo_rotacion": 1.958344030256348e+26,
+		"gravedad": 205868835286
+	},
+	{
+		"idPlaneta": 539,
+		"diametro": 9347648046612883000,
+		"periodo_orbita": 1.6680897399010943e+26,
+		"periodo_rotacion": 1.8221411890488814e+26,
+		"gravedad": 186333999543
+	},
+	{
+		"idPlaneta": 540,
+		"diametro": 2399859090151508500,
+		"periodo_orbita": 8.21047074479922e+25,
+		"periodo_rotacion": 1.1402411825555328e+26,
+		"gravedad": 14559576014
+	},
+	{
+		"idPlaneta": 541,
+		"diametro": 10914193619851127000,
+		"periodo_orbita": 1.1918747744130486e+26,
+		"periodo_rotacion": 7.447744564986847e+25,
+		"gravedad": 164899084542
+	},
+	{
+		"idPlaneta": 542,
+		"diametro": 1086625245035766400,
+		"periodo_orbita": 2.4369453527395416e+26,
+		"periodo_rotacion": 7.917281093582546e+24,
+		"gravedad": 154865986517
+	},
+	{
+		"idPlaneta": 543,
+		"diametro": 15470444629570402000,
+		"periodo_orbita": 7.56422719773631e+25,
+		"periodo_rotacion": 1.099283625807208e+26,
+		"gravedad": 141993273241
+	},
+	{
+		"idPlaneta": 544,
+		"diametro": 22595347531133608000,
+		"periodo_orbita": 2.6198167018885204e+25,
+		"periodo_rotacion": 1.4608201615667863e+26,
+		"gravedad": 66731301149
+	},
+	{
+		"idPlaneta": 545,
+		"diametro": 3596290052478660600,
+		"periodo_orbita": 1.5957739132007403e+26,
+		"periodo_rotacion": 1.4059780600960954e+26,
+		"gravedad": 68726807290
+	},
+	{
+		"idPlaneta": 546,
+		"diametro": 18319966634647100000,
+		"periodo_orbita": 2.5253454086945896e+26,
+		"periodo_rotacion": 3.8528607459463734e+25,
+		"gravedad": 132034729906
+	},
+	{
+		"idPlaneta": 547,
+		"diametro": 6500941465448706000,
+		"periodo_orbita": 5.396945148699122e+25,
+		"periodo_rotacion": 1.0100550264338033e+26,
+		"gravedad": 51150524663
+	},
+	{
+		"idPlaneta": 548,
+		"diametro": 24181362169064673000,
+		"periodo_orbita": 7.611794066396002e+25,
+		"periodo_rotacion": 1.3744807003139068e+25,
+		"gravedad": 134610099517
+	},
+	{
+		"idPlaneta": 549,
+		"diametro": 5649155392387614000,
+		"periodo_orbita": 1.6427570368502006e+26,
+		"periodo_rotacion": 1.0152080110846083e+26,
+		"gravedad": 198630751744
+	},
+	{
+		"idPlaneta": 550,
+		"diametro": 17285805141940580000,
+		"periodo_orbita": 2.4806797013193275e+26,
+		"periodo_rotacion": 8.290542493226647e+25,
+		"gravedad": 215573542895
+	},
+	{
+		"idPlaneta": 551,
+		"diametro": 8817489948156855000,
+		"periodo_orbita": 9.309703745612745e+25,
+		"periodo_rotacion": 8.724227797647625e+25,
+		"gravedad": 177006206548
+	},
+	{
+		"idPlaneta": 552,
+		"diametro": 1711795944783746300,
+		"periodo_orbita": 2.2989695122536124e+25,
+		"periodo_rotacion": 2.5348038542914355e+25,
+		"gravedad": 14626911165
+	},
+	{
+		"idPlaneta": 553,
+		"diametro": 1294295332991816400,
+		"periodo_orbita": 1.9178472973284097e+26,
+		"periodo_rotacion": 3.155251391108552e+25,
+		"gravedad": 161111041270
+	},
+	{
+		"idPlaneta": 554,
+		"diametro": 7117392880756188000,
+		"periodo_orbita": 1.7352889768196024e+26,
+		"periodo_rotacion": 3.7090520860575736e+25,
+		"gravedad": 14477691276
+	},
+	{
+		"idPlaneta": 555,
+		"diametro": 11507093970905920000,
+		"periodo_orbita": 6.8749910562401735e+25,
+		"periodo_rotacion": 1.4906624874826822e+26,
+		"gravedad": 26010956691
+	},
+	{
+		"idPlaneta": 556,
+		"diametro": 7665088497973745000,
+		"periodo_orbita": 1.9019916004003924e+26,
+		"periodo_rotacion": 1.853733058671624e+26,
+		"gravedad": 170116861471
+	},
+	{
+		"idPlaneta": 557,
+		"diametro": 11771443298803225000,
+		"periodo_orbita": 1.0074671228630536e+26,
+		"periodo_rotacion": 6.4861931402836426e+25,
+		"gravedad": 105315184620
+	},
+	{
+		"idPlaneta": 558,
+		"diametro": 7299581602131432000,
+		"periodo_orbita": 1.1492677271908527e+26,
+		"periodo_rotacion": 1.624624907740042e+26,
+		"gravedad": 140769473748
+	},
+	{
+		"idPlaneta": 559,
+		"diametro": 14252855701283332000,
+		"periodo_orbita": 1.2800082031689114e+26,
+		"periodo_rotacion": 1.2498322444188973e+26,
+		"gravedad": 208457470623
+	},
+	{
+		"idPlaneta": 560,
+		"diametro": 9754607340753826000,
+		"periodo_orbita": 2.1978443667013638e+26,
+		"periodo_rotacion": 1.9070956149054577e+26,
+		"gravedad": 185364278449
+	},
+	{
+		"idPlaneta": 561,
+		"diametro": 6967235512295028000,
+		"periodo_orbita": 1.4030857629578086e+26,
+		"periodo_rotacion": 1.984350664436363e+26,
+		"gravedad": 57609401335
+	},
+	{
+		"idPlaneta": 562,
+		"diametro": 18396291565124610000,
+		"periodo_orbita": 1.2987135431384104e+26,
+		"periodo_rotacion": 1.2599269255103507e+26,
+		"gravedad": 128640441069
+	},
+	{
+		"idPlaneta": 563,
+		"diametro": 25478055354723185000,
+		"periodo_orbita": 2.4126640490273096e+26,
+		"periodo_rotacion": 1.437132655579839e+26,
+		"gravedad": 209728924629
+	},
+	{
+		"idPlaneta": 564,
+		"diametro": 8053441224528316000,
+		"periodo_orbita": 6.7655504677199815e+25,
+		"periodo_rotacion": 2.3012405504135483e+26,
+		"gravedad": 113251603923
+	},
+	{
+		"idPlaneta": 565,
+		"diametro": 22502838281906442000,
+		"periodo_orbita": 1.2257276993215336e+26,
+		"periodo_rotacion": 1.7318626746687833e+26,
+		"gravedad": 175471440655
+	},
+	{
+		"idPlaneta": 566,
+		"diametro": 2546938829266081000,
+		"periodo_orbita": 1.062058095192679e+26,
+		"periodo_rotacion": 6.7069755868106225e+25,
+		"gravedad": 228609633164
+	},
+	{
+		"idPlaneta": 567,
+		"diametro": 17925376606723439000,
+		"periodo_orbita": 1.0959087471492683e+26,
+		"periodo_rotacion": 1.2460050649539188e+26,
+		"gravedad": 59149135332
+	},
+	{
+		"idPlaneta": 568,
+		"diametro": 4977651884861942000,
+		"periodo_orbita": 1.6323423358473864e+26,
+		"periodo_rotacion": 4.632386733856331e+25,
+		"gravedad": 48785295696
+	},
+	{
+		"idPlaneta": 569,
+		"diametro": 2918517390253764600,
+		"periodo_orbita": 9.857119928146466e+25,
+		"periodo_rotacion": 1.576372525863006e+26,
+		"gravedad": 63929061722
+	},
+	{
+		"idPlaneta": 570,
+		"diametro": 15649136822394722000,
+		"periodo_orbita": 2.051108101092544e+26,
+		"periodo_rotacion": 1.7504178834020202e+26,
+		"gravedad": 153036618402
+	},
+	{
+		"idPlaneta": 571,
+		"diametro": 3520683960645288400,
+		"periodo_orbita": 2.2703521320985026e+26,
+		"periodo_rotacion": 1.7727156321368275e+26,
+		"gravedad": 120981280347
+	},
+	{
+		"idPlaneta": 572,
+		"diametro": 14179725927101264000,
+		"periodo_orbita": 6.8103357022655765e+25,
+		"periodo_rotacion": 2.2006579522376355e+26,
+		"gravedad": 26763045958
+	},
+	{
+		"idPlaneta": 573,
+		"diametro": 5978632800500211000,
+		"periodo_orbita": 1.5658719484431223e+24,
+		"periodo_rotacion": 1.2475923086682518e+25,
+		"gravedad": 55527844563
+	},
+	{
+		"idPlaneta": 574,
+		"diametro": 14264022477099147000,
+		"periodo_orbita": 1.1735841276074042e+26,
+		"periodo_rotacion": 6.877855501709117e+25,
+		"gravedad": 171438092959
+	},
+	{
+		"idPlaneta": 575,
+		"diametro": 461752513908380000,
+		"periodo_orbita": 3.528484174622338e+25,
+		"periodo_rotacion": 1.9525594641618335e+26,
+		"gravedad": 152476316411
+	},
+	{
+		"idPlaneta": 576,
+		"diametro": 8941127717029619000,
+		"periodo_orbita": 1.9117015767866002e+26,
+		"periodo_rotacion": 1.4574149723997962e+26,
+		"gravedad": 208090119451
+	},
+	{
+		"idPlaneta": 577,
+		"diametro": 10302245891664749000,
+		"periodo_orbita": 1.932551743353222e+26,
+		"periodo_rotacion": 2.087339093909978e+25,
+		"gravedad": 45539047449
+	},
+	{
+		"idPlaneta": 578,
+		"diametro": 17523321177682502000,
+		"periodo_orbita": 1.8177765752025143e+26,
+		"periodo_rotacion": 6.168799162923828e+25,
+		"gravedad": 56194032622
+	},
+	{
+		"idPlaneta": 579,
+		"diametro": 19397786019887616000,
+		"periodo_orbita": 8.059489804300059e+25,
+		"periodo_rotacion": 1.6484633882448429e+25,
+		"gravedad": 132250845641
+	},
+	{
+		"idPlaneta": 580,
+		"diametro": 6176196353412139000,
+		"periodo_orbita": 1.2352122918112487e+26,
+		"periodo_rotacion": 8.372062590031683e+25,
+		"gravedad": 152691072899
+	},
+	{
+		"idPlaneta": 581,
+		"diametro": 20495878720002847000,
+		"periodo_orbita": 2.308303206860891e+26,
+		"periodo_rotacion": 8.47977620421107e+25,
+		"gravedad": 108840304206
+	},
+	{
+		"idPlaneta": 582,
+		"diametro": 4213444987814102500,
+		"periodo_orbita": 1.731945632047967e+26,
+		"periodo_rotacion": 1.4454152718399305e+26,
+		"gravedad": 183105045616
+	},
+	{
+		"idPlaneta": 583,
+		"diametro": 5140054719018919000,
+		"periodo_orbita": 6.366874291843786e+25,
+		"periodo_rotacion": 2.4220651370202245e+26,
+		"gravedad": 102473080643
+	},
+	{
+		"idPlaneta": 584,
+		"diametro": 937289477623441800,
+		"periodo_orbita": 1.3406484885276103e+26,
+		"periodo_rotacion": 1.8669291827469402e+26,
+		"gravedad": 162633998955
+	},
+	{
+		"idPlaneta": 585,
+		"diametro": 19626722153208828000,
+		"periodo_orbita": 1.8663873753344454e+26,
+		"periodo_rotacion": 5.661985673660111e+25,
+		"gravedad": 216973205093
+	},
+	{
+		"idPlaneta": 586,
+		"diametro": 14402364822438593000,
+		"periodo_orbita": 6.665291880418384e+25,
+		"periodo_rotacion": 2.085565051454529e+26,
+		"gravedad": 206802927796
+	},
+	{
+		"idPlaneta": 587,
+		"diametro": 10732288005988692000,
+		"periodo_orbita": 1.957525068559601e+26,
+		"periodo_rotacion": 3.259431474124956e+24,
+		"gravedad": 28168559127
+	},
+	{
+		"idPlaneta": 588,
+		"diametro": 21720470297431800000,
+		"periodo_orbita": 3.72028090706599e+25,
+		"periodo_rotacion": 8.249338582586266e+25,
+		"gravedad": 1265658113
+	},
+	{
+		"idPlaneta": 589,
+		"diametro": 24322025408450355000,
+		"periodo_orbita": 1.110129470714136e+26,
+		"periodo_rotacion": 1.3176041050098833e+26,
+		"gravedad": 152434733489
+	},
+	{
+		"idPlaneta": 590,
+		"diametro": 1759358437579252700,
+		"periodo_orbita": 2.447924189298929e+26,
+		"periodo_rotacion": 1.2745143748437568e+26,
+		"gravedad": 210094559692
+	},
+	{
+		"idPlaneta": 591,
+		"diametro": 5518939704007474000,
+		"periodo_orbita": 9.376968029860596e+25,
+		"periodo_rotacion": 1.1088913926224986e+26,
+		"gravedad": 165494777751
+	},
+	{
+		"idPlaneta": 592,
+		"diametro": 1535647054057980700,
+		"periodo_orbita": 5.084292664327552e+25,
+		"periodo_rotacion": 7.457868975774195e+25,
+		"gravedad": 12649878370
+	},
+	{
+		"idPlaneta": 593,
+		"diametro": 4630778739027884000,
+		"periodo_orbita": 1.4448071604863102e+26,
+		"periodo_rotacion": 1.4671169628223105e+26,
+		"gravedad": 201701639921
+	},
+	{
+		"idPlaneta": 594,
+		"diametro": 23710469389654640000,
+		"periodo_orbita": 2.3266385864011658e+26,
+		"periodo_rotacion": 1.582307737722236e+26,
+		"gravedad": 227313039729
+	},
+	{
+		"idPlaneta": 595,
+		"diametro": 13091216552025412000,
+		"periodo_orbita": 9.354022746777036e+25,
+		"periodo_rotacion": 1.559085544571449e+26,
+		"gravedad": 14827894434
+	},
+	{
+		"idPlaneta": 596,
+		"diametro": 25587009115803840000,
+		"periodo_orbita": 7.413810444155755e+25,
+		"periodo_rotacion": 8.287378511955297e+24,
+		"gravedad": 135603033095
+	},
+	{
+		"idPlaneta": 597,
+		"diametro": 18741885221384212000,
+		"periodo_orbita": 7.190133356014237e+25,
+		"periodo_rotacion": 9.349175051179262e+25,
+		"gravedad": 63303301530
+	},
+	{
+		"idPlaneta": 598,
+		"diametro": 18848627430024570000,
+		"periodo_orbita": 2.0010952160241718e+26,
+		"periodo_rotacion": 2.069270682646894e+25,
+		"gravedad": 132618096550
+	},
+	{
+		"idPlaneta": 599,
+		"diametro": 4840741339518774000,
+		"periodo_orbita": 1.2490210377380017e+26,
+		"periodo_rotacion": 2.0111922394286927e+26,
+		"gravedad": 84754573218
+	},
+	{
+		"idPlaneta": 600,
+		"diametro": 51393401819823550,
+		"periodo_orbita": 1.7325635041817333e+25,
+		"periodo_rotacion": 2.3952728039748363e+26,
+		"gravedad": 134423077401
+	},
+	{
+		"idPlaneta": 601,
+		"diametro": 24324384936539644000,
+		"periodo_orbita": 1.220977613651786e+26,
+		"periodo_rotacion": 6.365118892518284e+25,
+		"gravedad": 202850945539
+	},
+	{
+		"idPlaneta": 602,
+		"diametro": 13791234634441705000,
+		"periodo_orbita": 8.300448099998567e+25,
+		"periodo_rotacion": 7.885896303655398e+25,
+		"gravedad": 46932103751
+	},
+	{
+		"idPlaneta": 603,
+		"diametro": 17716978011454878000,
+		"periodo_orbita": 5.058834122255486e+25,
+		"periodo_rotacion": 1.372398347346448e+26,
+		"gravedad": 133256527696
+	},
+	{
+		"idPlaneta": 604,
+		"diametro": 24431432192173896000,
+		"periodo_orbita": 2.3983731270158697e+26,
+		"periodo_rotacion": 2.370849499295178e+26,
+		"gravedad": 68599190561
+	},
+	{
+		"idPlaneta": 605,
+		"diametro": 16314384755771806000,
+		"periodo_orbita": 1.2327175966062957e+26,
+		"periodo_rotacion": 2.3161296791174338e+26,
+		"gravedad": 114948020426
+	},
+	{
+		"idPlaneta": 606,
+		"diametro": 22177177662543254000,
+		"periodo_orbita": 1.8319113774155118e+25,
+		"periodo_rotacion": 1.5279810738661511e+26,
+		"gravedad": 130508167557
+	},
+	{
+		"idPlaneta": 607,
+		"diametro": 6574473051973863000,
+		"periodo_orbita": 7.920994415132327e+25,
+		"periodo_rotacion": 1.8700930303580135e+26,
+		"gravedad": 99421511583
+	},
+	{
+		"idPlaneta": 608,
+		"diametro": 22207091525578228000,
+		"periodo_orbita": 1.5161756062738674e+26,
+		"periodo_rotacion": 2.1063263527703716e+26,
+		"gravedad": 90066161528
+	},
+	{
+		"idPlaneta": 609,
+		"diametro": 5815720874371716000,
+		"periodo_orbita": 9.994467040042306e+25,
+		"periodo_rotacion": 7.911380754093194e+25,
+		"gravedad": 40388265002
+	},
+	{
+		"idPlaneta": 610,
+		"diametro": 12805636403958548000,
+		"periodo_orbita": 1.4799079393095894e+26,
+		"periodo_rotacion": 1.910086961323944e+26,
+		"gravedad": 85724745093
+	},
+	{
+		"idPlaneta": 611,
+		"diametro": 21943503467743703000,
+		"periodo_orbita": 1.2078520631995008e+26,
+		"periodo_rotacion": 2.2940251871277677e+26,
+		"gravedad": 224458848147
+	},
+	{
+		"idPlaneta": 612,
+		"diametro": 6228637938681224000,
+		"periodo_orbita": 1.5369202929823005e+26,
+		"periodo_rotacion": 4.674949144009814e+25,
+		"gravedad": 64090544073
+	},
+	{
+		"idPlaneta": 613,
+		"diametro": 7623677208091083000,
+		"periodo_orbita": 9.660191308585339e+25,
+		"periodo_rotacion": 1.2601000160771731e+26,
+		"gravedad": 177449250501
+	},
+	{
+		"idPlaneta": 614,
+		"diametro": 15892561350517015000,
+		"periodo_orbita": 2.1098703668789068e+26,
+		"periodo_rotacion": 2.452987592848752e+26,
+		"gravedad": 225854023383
+	},
+	{
+		"idPlaneta": 615,
+		"diametro": 8160882816750398000,
+		"periodo_orbita": 1.7197159488878074e+26,
+		"periodo_rotacion": 1.675676082573111e+26,
+		"gravedad": 161896356228
+	},
+	{
+		"idPlaneta": 616,
+		"diametro": 1185420231023741700,
+		"periodo_orbita": 2.1316756208149415e+26,
+		"periodo_rotacion": 2.4467849615872444e+26,
+		"gravedad": 166497694735
+	},
+	{
+		"idPlaneta": 617,
+		"diametro": 4854372174250234000,
+		"periodo_orbita": 2.1048567066483803e+26,
+		"periodo_rotacion": 8.702540177184697e+25,
+		"gravedad": 17577100459
+	},
+	{
+		"idPlaneta": 618,
+		"diametro": 10690461973369295000,
+		"periodo_orbita": 1.1730514854196922e+26,
+		"periodo_rotacion": 2.3187414311346283e+26,
+		"gravedad": 610627178
+	},
+	{
+		"idPlaneta": 619,
+		"diametro": 18319287594869985000,
+		"periodo_orbita": 5.259352929479667e+25,
+		"periodo_rotacion": 4.7918914208089566e+25,
+		"gravedad": 45179573115
+	},
+	{
+		"idPlaneta": 620,
+		"diametro": 18521353610479813000,
+		"periodo_orbita": 2.3522660359285638e+26,
+		"periodo_rotacion": 1.0283912810411072e+26,
+		"gravedad": 188279537507
+	},
+	{
+		"idPlaneta": 621,
+		"diametro": 23466861601174467000,
+		"periodo_orbita": 1.9874921302114975e+26,
+		"periodo_rotacion": 3.03427322336109e+25,
+		"gravedad": 92688023786
+	},
+	{
+		"idPlaneta": 622,
+		"diametro": 13207319683785861000,
+		"periodo_orbita": 7.394537201980434e+25,
+		"periodo_rotacion": 1.9512074723806054e+26,
+		"gravedad": 202213964280
+	},
+	{
+		"idPlaneta": 623,
+		"diametro": 9412738136437127000,
+		"periodo_orbita": 1.5562423020236488e+26,
+		"periodo_rotacion": 2.194490075785466e+25,
+		"gravedad": 220584179759
+	},
+	{
+		"idPlaneta": 624,
+		"diametro": 19323320191477522000,
+		"periodo_orbita": 1.809239969916181e+26,
+		"periodo_rotacion": 1.5167311622704408e+26,
+		"gravedad": 134672855790
+	},
+	{
+		"idPlaneta": 625,
+		"diametro": 11953349435703687000,
+		"periodo_orbita": 1.6016905734985695e+26,
+		"periodo_rotacion": 2.2212170506962173e+26,
+		"gravedad": 72376295368
+	},
+	{
+		"idPlaneta": 626,
+		"diametro": 6790235740841515000,
+		"periodo_orbita": 1.746822873194992e+26,
+		"periodo_rotacion": 2.3737139909825517e+26,
+		"gravedad": 12719278588
+	},
+	{
+		"idPlaneta": 627,
+		"diametro": 19273158842570080000,
+		"periodo_orbita": 1.4823375850818375e+26,
+		"periodo_rotacion": 2.2270353747746584e+26,
+		"gravedad": 185844485696
+	},
+	{
+		"idPlaneta": 628,
+		"diametro": 19964197417421050000,
+		"periodo_orbita": 1.2313001259273184e+26,
+		"periodo_rotacion": 1.858117003392353e+26,
+		"gravedad": 222143984438
+	},
+	{
+		"idPlaneta": 629,
+		"diametro": 19418307990232410000,
+		"periodo_orbita": 1.5450207926942096e+24,
+		"periodo_rotacion": 8.04504635420768e+25,
+		"gravedad": 166344141958
+	},
+	{
+		"idPlaneta": 630,
+		"diametro": 12919504175905729000,
+		"periodo_orbita": 4.326694314679885e+25,
+		"periodo_rotacion": 1.9373375928242886e+26,
+		"gravedad": 19754442130
+	},
+	{
+		"idPlaneta": 631,
+		"diametro": 4859733813566010000,
+		"periodo_orbita": 1.2182366064284205e+26,
+		"periodo_rotacion": 1.8635285012240226e+26,
+		"gravedad": 65871740297
+	},
+	{
+		"idPlaneta": 632,
+		"diametro": 9458991778402413000,
+		"periodo_orbita": 1.3005707147176927e+26,
+		"periodo_rotacion": 1.7409213940861627e+26,
+		"gravedad": 153561051429
+	},
+	{
+		"idPlaneta": 633,
+		"diametro": 24895532390813070000,
+		"periodo_orbita": 1.915572392210557e+26,
+		"periodo_rotacion": 2.1901243895923975e+26,
+		"gravedad": 12192607604
+	},
+	{
+		"idPlaneta": 634,
+		"diametro": 25805619595726696000,
+		"periodo_orbita": 7.196627221447892e+24,
+		"periodo_rotacion": 1.7666454153814424e+25,
+		"gravedad": 41877408605
+	},
+	{
+		"idPlaneta": 635,
+		"diametro": 16864171053156198000,
+		"periodo_orbita": 1.5001901061961564e+26,
+		"periodo_rotacion": 9.677493494129456e+24,
+		"gravedad": 22644727214
+	},
+	{
+		"idPlaneta": 636,
+		"diametro": 13939795823136570000,
+		"periodo_orbita": 2.514515069715037e+26,
+		"periodo_rotacion": 1.171536188186408e+25,
+		"gravedad": 71697895910
+	},
+	{
+		"idPlaneta": 637,
+		"diametro": 5330801727110690000,
+		"periodo_orbita": 6.865786461491015e+25,
+		"periodo_rotacion": 5.662923583687559e+25,
+		"gravedad": 21461609664
+	},
+	{
+		"idPlaneta": 638,
+		"diametro": 3838286947968058400,
+		"periodo_orbita": 2.1091215029353578e+26,
+		"periodo_rotacion": 1.9931952286865894e+26,
+		"gravedad": 55964900746
+	},
+	{
+		"idPlaneta": 639,
+		"diametro": 19725203391964190000,
+		"periodo_orbita": 2.3300340242225786e+26,
+		"periodo_rotacion": 1.620720858728773e+26,
+		"gravedad": 188266914511
+	},
+	{
+		"idPlaneta": 640,
+		"diametro": 493892964896409150,
+		"periodo_orbita": 2.4090964062218782e+26,
+		"periodo_rotacion": 2.779588436134918e+25,
+		"gravedad": 49080427506
+	},
+	{
+		"idPlaneta": 641,
+		"diametro": 22210414676838640000,
+		"periodo_orbita": 1.5097849400765551e+26,
+		"periodo_rotacion": 1.8787281743884833e+26,
+		"gravedad": 22323722843
+	},
+	{
+		"idPlaneta": 642,
+		"diametro": 25285171478912086000,
+		"periodo_orbita": 1.8475260022974494e+26,
+		"periodo_rotacion": 1.9875086472369002e+26,
+		"gravedad": 202963557973
+	},
+	{
+		"idPlaneta": 643,
+		"diametro": 15255052100727917000,
+		"periodo_orbita": 9.577322807343873e+25,
+		"periodo_rotacion": 1.690893349899676e+26,
+		"gravedad": 91133613863
+	},
+	{
+		"idPlaneta": 644,
+		"diametro": 5834714877231217000,
+		"periodo_orbita": 2.1782716377286456e+26,
+		"periodo_rotacion": 1.3942682021684555e+26,
+		"gravedad": 32751636479
+	},
+	{
+		"idPlaneta": 645,
+		"diametro": 12644008221054468000,
+		"periodo_orbita": 9.311767805114458e+25,
+		"periodo_rotacion": 2.370741173716353e+26,
+		"gravedad": 210331700378
+	},
+	{
+		"idPlaneta": 646,
+		"diametro": 22891000461871444000,
+		"periodo_orbita": 2.4651177202010634e+26,
+		"periodo_rotacion": 1.0375094880455086e+26,
+		"gravedad": 39799374671
+	},
+	{
+		"idPlaneta": 647,
+		"diametro": 21936141293668400000,
+		"periodo_orbita": 9.679693998069218e+25,
+		"periodo_rotacion": 2.091107766901159e+26,
+		"gravedad": 150354643416
+	},
+	{
+		"idPlaneta": 648,
+		"diametro": 4333564968110063600,
+		"periodo_orbita": 2.8016461989386055e+25,
+		"periodo_rotacion": 1.0915584322240078e+26,
+		"gravedad": 87868630810
+	},
+	{
+		"idPlaneta": 649,
+		"diametro": 15898383596232010000,
+		"periodo_orbita": 2.0534139707031312e+26,
+		"periodo_rotacion": 2.1044514545961423e+25,
+		"gravedad": 56556781430
+	},
+	{
+		"idPlaneta": 650,
+		"diametro": 14080764781566677000,
+		"periodo_orbita": 1.8695761353958884e+26,
+		"periodo_rotacion": 8.572311467241555e+25,
+		"gravedad": 132102789151
+	},
+	{
+		"idPlaneta": 651,
+		"diametro": 10267439583977548000,
+		"periodo_orbita": 1.5300658344477064e+25,
+		"periodo_rotacion": 1.2825968016128211e+26,
+		"gravedad": 96723297840
+	},
+	{
+		"idPlaneta": 652,
+		"diametro": 6168726424502216000,
+		"periodo_orbita": 5.067276111526716e+25,
+		"periodo_rotacion": 7.45768950958907e+25,
+		"gravedad": 155329830830
+	},
+	{
+		"idPlaneta": 653,
+		"diametro": 4244982564597529600,
+		"periodo_orbita": 4.339751128276007e+25,
+		"periodo_rotacion": 9.090079031959712e+25,
+		"gravedad": 66138846834
+	},
+	{
+		"idPlaneta": 654,
+		"diametro": 6095963965063654000,
+		"periodo_orbita": 2.287111486786798e+26,
+		"periodo_rotacion": 1.5273792187444452e+26,
+		"gravedad": 78111423155
+	},
+	{
+		"idPlaneta": 655,
+		"diametro": 4246583917885750000,
+		"periodo_orbita": 1.3055656233435456e+26,
+		"periodo_rotacion": 9.763558766427286e+25,
+		"gravedad": 73308525828
+	},
+	{
+		"idPlaneta": 656,
+		"diametro": 15445239800744876000,
+		"periodo_orbita": 1.8844690806137954e+26,
+		"periodo_rotacion": 6.769124058889259e+25,
+		"gravedad": 169444966797
+	},
+	{
+		"idPlaneta": 657,
+		"diametro": 9291463298131007000,
+		"periodo_orbita": 2.3428883544110182e+26,
+		"periodo_rotacion": 2.1433346380950814e+26,
+		"gravedad": 20757319706
+	},
+	{
+		"idPlaneta": 658,
+		"diametro": 20032820802009215000,
+		"periodo_orbita": 7.586379018623086e+25,
+		"periodo_rotacion": 2.2080107765757583e+26,
+		"gravedad": 16235291639
+	},
+	{
+		"idPlaneta": 659,
+		"diametro": 9391247861347710000,
+		"periodo_orbita": 3.654960304007183e+25,
+		"periodo_rotacion": 2.2167724079180764e+26,
+		"gravedad": 42084041482
+	},
+	{
+		"idPlaneta": 660,
+		"diametro": 20339785588530426000,
+		"periodo_orbita": 1.1522053974723466e+26,
+		"periodo_rotacion": 4.397799189218495e+25,
+		"gravedad": 101276496700
+	},
+	{
+		"idPlaneta": 661,
+		"diametro": 17004823274550130000,
+		"periodo_orbita": 7.69798112721383e+25,
+		"periodo_rotacion": 1.1387942526717136e+26,
+		"gravedad": 83703912774
+	},
+	{
+		"idPlaneta": 662,
+		"diametro": 7024757014645407000,
+		"periodo_orbita": 2.3392403498897036e+26,
+		"periodo_rotacion": 2.633473654468615e+25,
+		"gravedad": 209070790255
+	},
+	{
+		"idPlaneta": 663,
+		"diametro": 11038540506449586000,
+		"periodo_orbita": 1.5111519999691177e+25,
+		"periodo_rotacion": 6.237014247207217e+24,
+		"gravedad": 215023998251
+	},
+	{
+		"idPlaneta": 664,
+		"diametro": 2980554131110957600,
+		"periodo_orbita": 1.3505493615711303e+26,
+		"periodo_rotacion": 9.741978581840952e+25,
+		"gravedad": 165917214698
+	},
+	{
+		"idPlaneta": 665,
+		"diametro": 1237313779638245600,
+		"periodo_orbita": 1.3260171016219645e+26,
+		"periodo_rotacion": 2.2592255033516753e+26,
+		"gravedad": 142267310125
+	},
+	{
+		"idPlaneta": 666,
+		"diametro": 18706104969450004000,
+		"periodo_orbita": 1.4712086986118756e+26,
+		"periodo_rotacion": 2.0864982859013796e+25,
+		"gravedad": 103503359067
+	},
+	{
+		"idPlaneta": 667,
+		"diametro": 25707002247790875000,
+		"periodo_orbita": 1.903126245222132e+26,
+		"periodo_rotacion": 9.00725652645598e+25,
+		"gravedad": 196263477513
+	},
+	{
+		"idPlaneta": 668,
+		"diametro": 17942657667669555000,
+		"periodo_orbita": 8.31134642276363e+25,
+		"periodo_rotacion": 6.64183374545547e+25,
+		"gravedad": 221186696251
+	},
+	{
+		"idPlaneta": 669,
+		"diametro": 16357796345604182000,
+		"periodo_orbita": 2.10923552579462e+26,
+		"periodo_rotacion": 1.4715079685584581e+26,
+		"gravedad": 53436017349
+	},
+	{
+		"idPlaneta": 670,
+		"diametro": 25153512206257254000,
+		"periodo_orbita": 1.398259798555451e+26,
+		"periodo_rotacion": 2.459568159087519e+26,
+		"gravedad": 55619973371
+	},
+	{
+		"idPlaneta": 671,
+		"diametro": 1797863950860597200,
+		"periodo_orbita": 1.915170972133462e+26,
+		"periodo_rotacion": 2.0962410882258364e+26,
+		"gravedad": 229033336504
+	},
+	{
+		"idPlaneta": 672,
+		"diametro": 7923259045238050000,
+		"periodo_orbita": 2.1742421975115337e+26,
+		"periodo_rotacion": 2.0158679997438166e+26,
+		"gravedad": 92393106129
+	},
+	{
+		"idPlaneta": 673,
+		"diametro": 1160537450281539600,
+		"periodo_orbita": 1.55454411584504e+26,
+		"periodo_rotacion": 4.7663655193181704e+25,
+		"gravedad": 101060468702
+	},
+	{
+		"idPlaneta": 674,
+		"diametro": 15299167201463376000,
+		"periodo_orbita": 2.178468024855731e+26,
+		"periodo_rotacion": 1.74461981732615e+26,
+		"gravedad": 153059864188
+	},
+	{
+		"idPlaneta": 675,
+		"diametro": 7934081267550765000,
+		"periodo_orbita": 2.4774060270160597e+25,
+		"periodo_rotacion": 2.458787150404724e+26,
+		"gravedad": 22629931495
+	},
+	{
+		"idPlaneta": 676,
+		"diametro": 11932632889699197000,
+		"periodo_orbita": 1.872805465991636e+26,
+		"periodo_rotacion": 2.2302046622770204e+26,
+		"gravedad": 59342124416
+	},
+	{
+		"idPlaneta": 677,
+		"diametro": 13543055399414938000,
+		"periodo_orbita": 1.090263259300035e+26,
+		"periodo_rotacion": 1.624969073278992e+26,
+		"gravedad": 185765250487
+	},
+	{
+		"idPlaneta": 678,
+		"diametro": 20336927295368770000,
+		"periodo_orbita": 8.303508477714963e+25,
+		"periodo_rotacion": 1.5420710549888946e+26,
+		"gravedad": 166136023623
+	},
+	{
+		"idPlaneta": 679,
+		"diametro": 10125636781428400000,
+		"periodo_orbita": 1.2041450598092487e+26,
+		"periodo_rotacion": 1.9512552175046132e+26,
+		"gravedad": 40167933162
+	},
+	{
+		"idPlaneta": 680,
+		"diametro": 8450354643328738000,
+		"periodo_orbita": 6.744578494155227e+25,
+		"periodo_rotacion": 2.0465253643502598e+26,
+		"gravedad": 17243834801
+	},
+	{
+		"idPlaneta": 681,
+		"diametro": 925028375674448400,
+		"periodo_orbita": 2.2686914896341108e+26,
+		"periodo_rotacion": 2.1831629925160208e+26,
+		"gravedad": 13042754443
+	},
+	{
+		"idPlaneta": 682,
+		"diametro": 24000811655087170000,
+		"periodo_orbita": 1.1126762000092374e+26,
+		"periodo_rotacion": 1.1060353532340637e+25,
+		"gravedad": 193394189903
+	},
+	{
+		"idPlaneta": 683,
+		"diametro": 17268667581831242000,
+		"periodo_orbita": 2.0791650791708938e+26,
+		"periodo_rotacion": 1.2912297135856951e+26,
+		"gravedad": 20496533062
+	},
+	{
+		"idPlaneta": 684,
+		"diametro": 16215561835304292000,
+		"periodo_orbita": 1.1840293083583466e+26,
+		"periodo_rotacion": 2.2049447834837625e+26,
+		"gravedad": 197362054871
+	},
+	{
+		"idPlaneta": 685,
+		"diametro": 1728563115252588300,
+		"periodo_orbita": 2.58613117687095e+26,
+		"periodo_rotacion": 3.5616733173120868e+25,
+		"gravedad": 189766874263
+	},
+	{
+		"idPlaneta": 686,
+		"diametro": 24154696013265050000,
+		"periodo_orbita": 2.119189435691783e+26,
+		"periodo_rotacion": 1.9872259173242242e+26,
+		"gravedad": 43635865047
+	},
+	{
+		"idPlaneta": 687,
+		"diametro": 21055497118626963000,
+		"periodo_orbita": 2.559005017600243e+26,
+		"periodo_rotacion": 9.403909780852156e+25,
+		"gravedad": 139052209874
+	},
+	{
+		"idPlaneta": 688,
+		"diametro": 8183925932245613000,
+		"periodo_orbita": 1.917505527934192e+26,
+		"periodo_rotacion": 5.272337588019767e+25,
+		"gravedad": 211252553655
+	},
+	{
+		"idPlaneta": 689,
+		"diametro": 16888058793414533000,
+		"periodo_orbita": 9.253448221297055e+25,
+		"periodo_rotacion": 2.0257381391866303e+26,
+		"gravedad": 159759034079
+	},
+	{
+		"idPlaneta": 690,
+		"diametro": 17518537664560456000,
+		"periodo_orbita": 2.1690008886789866e+26,
+		"periodo_rotacion": 3.2073237154513954e+25,
+		"gravedad": 53274388281
+	},
+	{
+		"idPlaneta": 691,
+		"diametro": 24166663718286830000,
+		"periodo_orbita": 2.5173535606998823e+26,
+		"periodo_rotacion": 1.2866422101318e+26,
+		"gravedad": 28274603558
+	},
+	{
+		"idPlaneta": 692,
+		"diametro": 12096229704529800000,
+		"periodo_orbita": 2.438925467805804e+25,
+		"periodo_rotacion": 1.7353618975092894e+26,
+		"gravedad": 206401936159
+	},
+	{
+		"idPlaneta": 693,
+		"diametro": 14604070696165454000,
+		"periodo_orbita": 6.051459907717591e+25,
+		"periodo_rotacion": 1.98940109507666e+26,
+		"gravedad": 146515383740
+	},
+	{
+		"idPlaneta": 694,
+		"diametro": 11674285512136258000,
+		"periodo_orbita": 1.3274684944701956e+26,
+		"periodo_rotacion": 9.275049268025559e+25,
+		"gravedad": 94875100363
+	},
+	{
+		"idPlaneta": 695,
+		"diametro": 23370058195764810000,
+		"periodo_orbita": 7.62876978501162e+25,
+		"periodo_rotacion": 6.141019458422086e+25,
+		"gravedad": 110086157997
+	},
+	{
+		"idPlaneta": 696,
+		"diametro": 19680022331605447000,
+		"periodo_orbita": 1.8692719700581253e+26,
+		"periodo_rotacion": 2.112076291998271e+26,
+		"gravedad": 68648682597
+	},
+	{
+		"idPlaneta": 697,
+		"diametro": 19795220838646985000,
+		"periodo_orbita": 1.4144733282285936e+26,
+		"periodo_rotacion": 1.914997422777733e+26,
+		"gravedad": 32595084377
+	},
+	{
+		"idPlaneta": 698,
+		"diametro": 19207067985360683000,
+		"periodo_orbita": 1.5463881243748793e+26,
+		"periodo_rotacion": 2.8433844783631386e+25,
+		"gravedad": 175536301929
+	},
+	{
+		"idPlaneta": 699,
+		"diametro": 21549327421934244000,
+		"periodo_orbita": 1.3678074953979365e+26,
+		"periodo_rotacion": 2.369423664935113e+26,
+		"gravedad": 30093000909
+	},
+	{
+		"idPlaneta": 700,
+		"diametro": 10154548031017998000,
+		"periodo_orbita": 5.666860352557257e+24,
+		"periodo_rotacion": 2.1739870112015725e+26,
+		"gravedad": 7085641907
+	},
+	{
+		"idPlaneta": 701,
+		"diametro": 25664900621840703000,
+		"periodo_orbita": 2.264305977055771e+26,
+		"periodo_rotacion": 1.515100553630073e+26,
+		"gravedad": 82657424599
+	},
+	{
+		"idPlaneta": 702,
+		"diametro": 6097055261887356000,
+		"periodo_orbita": 6.774891766576251e+25,
+		"periodo_rotacion": 9.907471343927528e+25,
+		"gravedad": 84798929967
+	},
+	{
+		"idPlaneta": 703,
+		"diametro": 20329034475394863000,
+		"periodo_orbita": 2.4792492714852368e+26,
+		"periodo_rotacion": 2.1647110018729115e+26,
+		"gravedad": 87061059479
+	},
+	{
+		"idPlaneta": 704,
+		"diametro": 1050206688646573800,
+		"periodo_orbita": 1.1038475394320402e+26,
+		"periodo_rotacion": 6.7384612066851e+25,
+		"gravedad": 65808453089
+	},
+	{
+		"idPlaneta": 705,
+		"diametro": 591076765440638200,
+		"periodo_orbita": 2.394889571136328e+26,
+		"periodo_rotacion": 8.403463965631073e+25,
+		"gravedad": 106030619512
+	},
+	{
+		"idPlaneta": 706,
+		"diametro": 9155799704846669000,
+		"periodo_orbita": 2.195565652942146e+26,
+		"periodo_rotacion": 1.4597373428192455e+26,
+		"gravedad": 223972910051
+	},
+	{
+		"idPlaneta": 707,
+		"diametro": 346415880469140500,
+		"periodo_orbita": 2.5536659532696886e+26,
+		"periodo_rotacion": 1.2209178975736401e+25,
+		"gravedad": 15137254668
+	},
+	{
+		"idPlaneta": 708,
+		"diametro": 19890879707289470000,
+		"periodo_orbita": 1.4573125001335879e+26,
+		"periodo_rotacion": 1.4944993055188404e+26,
+		"gravedad": 76217992781
+	},
+	{
+		"idPlaneta": 709,
+		"diametro": 2946970387756619300,
+		"periodo_orbita": 1.740893463189629e+26,
+		"periodo_rotacion": 1.5419258103003675e+26,
+		"gravedad": 55433038984
+	},
+	{
+		"idPlaneta": 710,
+		"diametro": 12188958931671286000,
+		"periodo_orbita": 1.2425287657939931e+26,
+		"periodo_rotacion": 1.11949679268025e+26,
+		"gravedad": 19122970520
+	},
+	{
+		"idPlaneta": 711,
+		"diametro": 11575820930739032000,
+		"periodo_orbita": 7.208542124447279e+25,
+		"periodo_rotacion": 1.8590404041439268e+26,
+		"gravedad": 157643960004
+	},
+	{
+		"idPlaneta": 712,
+		"diametro": 17571992465325339000,
+		"periodo_orbita": 1.0796310590802431e+26,
+		"periodo_rotacion": 4.308984926939101e+25,
+		"gravedad": 1916688559
+	},
+	{
+		"idPlaneta": 713,
+		"diametro": 3392460824367238000,
+		"periodo_orbita": 4.39045896639237e+25,
+		"periodo_rotacion": 2.2239941154105532e+26,
+		"gravedad": 16232903645
+	},
+	{
+		"idPlaneta": 714,
+		"diametro": 24796044660725120000,
+		"periodo_orbita": 6.734724065728314e+25,
+		"periodo_rotacion": 2.4679890703345423e+26,
+		"gravedad": 128290899778
+	},
+	{
+		"idPlaneta": 715,
+		"diametro": 73007659550419780,
+		"periodo_orbita": 6.9482367036740875e+25,
+		"periodo_rotacion": 6.607270617672779e+25,
+		"gravedad": 78006755282
+	},
+	{
+		"idPlaneta": 716,
+		"diametro": 11890843420306776000,
+		"periodo_orbita": 2.1754421496492304e+26,
+		"periodo_rotacion": 7.338081330801445e+25,
+		"gravedad": 189588197839
+	},
+	{
+		"idPlaneta": 717,
+		"diametro": 25254361304790400000,
+		"periodo_orbita": 1.5321643843188416e+26,
+		"periodo_rotacion": 9.271855158223925e+25,
+		"gravedad": 145559926313
+	},
+	{
+		"idPlaneta": 718,
+		"diametro": 293344955457682300,
+		"periodo_orbita": 1.0825243361314004e+26,
+		"periodo_rotacion": 1.1956909068317529e+26,
+		"gravedad": 3969418488
+	},
+	{
+		"idPlaneta": 719,
+		"diametro": 8719920766841720000,
+		"periodo_orbita": 2.5831860289024286e+26,
+		"periodo_rotacion": 9.733640008556621e+25,
+		"gravedad": 84382616493
+	},
+	{
+		"idPlaneta": 720,
+		"diametro": 13478781090033396000,
+		"periodo_orbita": 1.9686366969791512e+26,
+		"periodo_rotacion": 4.740665676373314e+25,
+		"gravedad": 146053838753
+	},
+	{
+		"idPlaneta": 721,
+		"diametro": 13352231036259980000,
+		"periodo_orbita": 3.547946981523335e+25,
+		"periodo_rotacion": 3.6669601914808202e+25,
+		"gravedad": 4550412401
+	},
+	{
+		"idPlaneta": 722,
+		"diametro": 16402325687065643000,
+		"periodo_orbita": 1.1767885558519751e+26,
+		"periodo_rotacion": 2.567351062504217e+26,
+		"gravedad": 190799054069
+	},
+	{
+		"idPlaneta": 723,
+		"diametro": 15566072677194906000,
+		"periodo_orbita": 6.477228004295991e+25,
+		"periodo_rotacion": 2.580910574429481e+26,
+		"gravedad": 155293577644
+	},
+	{
+		"idPlaneta": 724,
+		"diametro": 23465591837655585000,
+		"periodo_orbita": 1.962550452040194e+26,
+		"periodo_rotacion": 1.2173596064640906e+26,
+		"gravedad": 81713097122
+	},
+	{
+		"idPlaneta": 725,
+		"diametro": 15562556147973081000,
+		"periodo_orbita": 9.399560887001666e+25,
+		"periodo_rotacion": 2.460338940549968e+26,
+		"gravedad": 155716045955
+	},
+	{
+		"idPlaneta": 726,
+		"diametro": 11959394583054025000,
+		"periodo_orbita": 3.490222384735427e+25,
+		"periodo_rotacion": 1.3691821294170597e+26,
+		"gravedad": 216973064344
+	},
+	{
+		"idPlaneta": 727,
+		"diametro": 15905112376589232000,
+		"periodo_orbita": 9.964390496076156e+25,
+		"periodo_rotacion": 2.0241285342133966e+26,
+		"gravedad": 210580723526
+	},
+	{
+		"idPlaneta": 728,
+		"diametro": 24169890387036010000,
+		"periodo_orbita": 4.5445628949441854e+25,
+		"periodo_rotacion": 2.2403200993134582e+26,
+		"gravedad": 168281844381
+	},
+	{
+		"idPlaneta": 729,
+		"diametro": 1738133154661364500,
+		"periodo_orbita": 1.3744108429703572e+26,
+		"periodo_rotacion": 2.3730194545750888e+26,
+		"gravedad": 216903970137
+	},
+	{
+		"idPlaneta": 730,
+		"diametro": 14269953966114683000,
+		"periodo_orbita": 4.891471287276518e+25,
+		"periodo_rotacion": 2.2581899829839604e+26,
+		"gravedad": 24658400397
+	},
+	{
+		"idPlaneta": 731,
+		"diametro": 8502877700277003000,
+		"periodo_orbita": 1.8909563223228793e+26,
+		"periodo_rotacion": 1.244675218714795e+26,
+		"gravedad": 173438434131
+	},
+	{
+		"idPlaneta": 732,
+		"diametro": 12491462168563538000,
+		"periodo_orbita": 2.2958984945823923e+26,
+		"periodo_rotacion": 1.3575173391835387e+26,
+		"gravedad": 16277893381
+	},
+	{
+		"idPlaneta": 733,
+		"diametro": 1612489650046878700,
+		"periodo_orbita": 1.4690792643934155e+26,
+		"periodo_rotacion": 1.2970583055540529e+26,
+		"gravedad": 26293161869
+	},
+	{
+		"idPlaneta": 734,
+		"diametro": 9558807596744900000,
+		"periodo_orbita": 2.4545271615864217e+26,
+		"periodo_rotacion": 1.5042428489825002e+26,
+		"gravedad": 66526571851
+	},
+	{
+		"idPlaneta": 735,
+		"diametro": 22141699525083165000,
+		"periodo_orbita": 1.2175081653970588e+26,
+		"periodo_rotacion": 7.036691491386984e+25,
+		"gravedad": 132681612433
+	},
+	{
+		"idPlaneta": 736,
+		"diametro": 20074252989967843000,
+		"periodo_orbita": 2.156686972710527e+26,
+		"periodo_rotacion": 2.3428812359389093e+26,
+		"gravedad": 188371706139
+	},
+	{
+		"idPlaneta": 737,
+		"diametro": 2589815715524821000,
+		"periodo_orbita": 1.0998996138505487e+26,
+		"periodo_rotacion": 1.1648171151488129e+26,
+		"gravedad": 89544928610
+	},
+	{
+		"idPlaneta": 738,
+		"diametro": 20597756921714940000,
+		"periodo_orbita": 1.624128401298485e+26,
+		"periodo_rotacion": 2.0859193745080723e+26,
+		"gravedad": 133600571243
+	},
+	{
+		"idPlaneta": 739,
+		"diametro": 11571055494499195000,
+		"periodo_orbita": 2.4850345771569554e+26,
+		"periodo_rotacion": 3.455518248534685e+25,
+		"gravedad": 29394224356
+	},
+	{
+		"idPlaneta": 740,
+		"diametro": 8622749451891210000,
+		"periodo_orbita": 1.2383887010232721e+26,
+		"periodo_rotacion": 1.482286874268722e+26,
+		"gravedad": 156760633210
+	},
+	{
+		"idPlaneta": 741,
+		"diametro": 1839823336078104300,
+		"periodo_orbita": 7.0554746078163785e+25,
+		"periodo_rotacion": 2.241048532611172e+26,
+		"gravedad": 139885976478
+	},
+	{
+		"idPlaneta": 742,
+		"diametro": 19610609813129070000,
+		"periodo_orbita": 1.1973221264798413e+26,
+		"periodo_rotacion": 5.926850186336616e+25,
+		"gravedad": 174354104504
+	},
+	{
+		"idPlaneta": 743,
+		"diametro": 16159323001766973000,
+		"periodo_orbita": 1.8857292411183353e+26,
+		"periodo_rotacion": 1.0816839098002167e+26,
+		"gravedad": 195353814270
+	},
+	{
+		"idPlaneta": 744,
+		"diametro": 10959020321801767000,
+		"periodo_orbita": 2.031347794868968e+26,
+		"periodo_rotacion": 2.418379943616668e+26,
+		"gravedad": 183751779558
+	},
+	{
+		"idPlaneta": 745,
+		"diametro": 11879806067093914000,
+		"periodo_orbita": 6.818851693999822e+25,
+		"periodo_rotacion": 9.058133884207821e+25,
+		"gravedad": 98386220219
+	},
+	{
+		"idPlaneta": 746,
+		"diametro": 1375954798338896400,
+		"periodo_orbita": 1.8745461774882805e+26,
+		"periodo_rotacion": 1.225021590898442e+26,
+		"gravedad": 14426600818
+	},
+	{
+		"idPlaneta": 747,
+		"diametro": 16119568653636055000,
+		"periodo_orbita": 1.611590244086189e+26,
+		"periodo_rotacion": 1.8102453849054245e+26,
+		"gravedad": 108793248653
+	},
+	{
+		"idPlaneta": 748,
+		"diametro": 2974470660180853000,
+		"periodo_orbita": 9.278274573237797e+25,
+		"periodo_rotacion": 6.790651248536248e+25,
+		"gravedad": 122813330725
+	},
+	{
+		"idPlaneta": 749,
+		"diametro": 24865898195936432000,
+		"periodo_orbita": 2.195374614444009e+26,
+		"periodo_rotacion": 1.2252469397661156e+26,
+		"gravedad": 178118857548
+	},
+	{
+		"idPlaneta": 750,
+		"diametro": 24732518017957940000,
+		"periodo_orbita": 1.3018323995810454e+26,
+		"periodo_rotacion": 4.257042630523306e+25,
+		"gravedad": 84959675108
+	},
+	{
+		"idPlaneta": 751,
+		"diametro": 23409504864400544000,
+		"periodo_orbita": 1.2034855963405726e+26,
+		"periodo_rotacion": 1.97668583160072e+26,
+		"gravedad": 128982277063
+	},
+	{
+		"idPlaneta": 752,
+		"diametro": 14118437026836496000,
+		"periodo_orbita": 1.5498602988979552e+26,
+		"periodo_rotacion": 2.1009256951382477e+26,
+		"gravedad": 61422983260
+	},
+	{
+		"idPlaneta": 753,
+		"diametro": 830384997054061800,
+		"periodo_orbita": 2.0947573762409097e+26,
+		"periodo_rotacion": 2.802026459091375e+25,
+		"gravedad": 171065418666
+	},
+	{
+		"idPlaneta": 754,
+		"diametro": 18048491159313668000,
+		"periodo_orbita": 2.189492103116704e+26,
+		"periodo_rotacion": 2.2627705893185786e+26,
+		"gravedad": 64022746880
+	},
+	{
+		"idPlaneta": 755,
+		"diametro": 10293978554061660000,
+		"periodo_orbita": 6.878317173421522e+25,
+		"periodo_rotacion": 2.301811479036281e+26,
+		"gravedad": 136061938893
+	},
+	{
+		"idPlaneta": 756,
+		"diametro": 12979768683952407000,
+		"periodo_orbita": 1.9898216617856204e+26,
+		"periodo_rotacion": 1.5240327680212425e+26,
+		"gravedad": 102954740016
+	},
+	{
+		"idPlaneta": 757,
+		"diametro": 9143945880126927000,
+		"periodo_orbita": 9.295071490209848e+25,
+		"periodo_rotacion": 2.3176710082028495e+26,
+		"gravedad": 194267551655
+	},
+	{
+		"idPlaneta": 758,
+		"diametro": 11387258528137290000,
+		"periodo_orbita": 5.281034974485457e+24,
+		"periodo_rotacion": 2.4606626250450974e+26,
+		"gravedad": 153726329045
+	},
+	{
+		"idPlaneta": 759,
+		"diametro": 4937517661539364000,
+		"periodo_orbita": 1.158324593429723e+25,
+		"periodo_rotacion": 1.859913691024842e+26,
+		"gravedad": 156895468749
+	},
+	{
+		"idPlaneta": 760,
+		"diametro": 19117991925478957000,
+		"periodo_orbita": 2.525627940973283e+26,
+		"periodo_rotacion": 1.5891793559164614e+26,
+		"gravedad": 155193391715
+	},
+	{
+		"idPlaneta": 761,
+		"diametro": 710391273773261300,
+		"periodo_orbita": 1.2311515616073006e+26,
+		"periodo_rotacion": 1.0039750450133176e+26,
+		"gravedad": 88459565453
+	},
+	{
+		"idPlaneta": 762,
+		"diametro": 2539617755657618400,
+		"periodo_orbita": 1.4132819881077763e+26,
+		"periodo_rotacion": 1.981717945089949e+26,
+		"gravedad": 11984636070
+	},
+	{
+		"idPlaneta": 763,
+		"diametro": 7787418681281234000,
+		"periodo_orbita": 1.7016323427458485e+26,
+		"periodo_rotacion": 9.456529863110654e+25,
+		"gravedad": 188460917048
+	},
+	{
+		"idPlaneta": 764,
+		"diametro": 6755480226719946000,
+		"periodo_orbita": 1.380205825619826e+25,
+		"periodo_rotacion": 1.2636085153803605e+26,
+		"gravedad": 132301254249
+	},
+	{
+		"idPlaneta": 765,
+		"diametro": 21309290120546450000,
+		"periodo_orbita": 9.251797965519897e+25,
+		"periodo_rotacion": 1.994909442740935e+26,
+		"gravedad": 29245729110
+	},
+	{
+		"idPlaneta": 766,
+		"diametro": 11355027224924140000,
+		"periodo_orbita": 2.3568185615918602e+26,
+		"periodo_rotacion": 1.485365830714891e+26,
+		"gravedad": 61683843317
+	},
+	{
+		"idPlaneta": 767,
+		"diametro": 22048303367012545000,
+		"periodo_orbita": 7.807816546784541e+25,
+		"periodo_rotacion": 1.2725951535446097e+26,
+		"gravedad": 188536436405
+	},
+	{
+		"idPlaneta": 768,
+		"diametro": 11024315883708772000,
+		"periodo_orbita": 1.7790424056642106e+26,
+		"periodo_rotacion": 9.675593917251608e+25,
+		"gravedad": 228288947365
+	},
+	{
+		"idPlaneta": 769,
+		"diametro": 25385243019225604000,
+		"periodo_orbita": 2.450678126561595e+26,
+		"periodo_rotacion": 5.4011167207634135e+25,
+		"gravedad": 190953905314
+	},
+	{
+		"idPlaneta": 770,
+		"diametro": 12028484424059679000,
+		"periodo_orbita": 1.1637704108065414e+26,
+		"periodo_rotacion": 2.0930297069195876e+26,
+		"gravedad": 13114847404
+	},
+	{
+		"idPlaneta": 771,
+		"diametro": 12646642332925338000,
+		"periodo_orbita": 8.212076655114455e+25,
+		"periodo_rotacion": 2.270686942008665e+26,
+		"gravedad": 87467634379
+	},
+	{
+		"idPlaneta": 772,
+		"diametro": 17713332982194821000,
+		"periodo_orbita": 6.803975796089625e+25,
+		"periodo_rotacion": 7.5641722267774415e+25,
+		"gravedad": 50095212881
+	},
+	{
+		"idPlaneta": 773,
+		"diametro": 17076749451572111000,
+		"periodo_orbita": 7.5991813048801344e+25,
+		"periodo_rotacion": 5.9010196164418955e+25,
+		"gravedad": 22790566091
+	},
+	{
+		"idPlaneta": 774,
+		"diametro": 3697080527525069000,
+		"periodo_orbita": 3.343569970620829e+24,
+		"periodo_rotacion": 2.183477250135199e+26,
+		"gravedad": 26628819687
+	},
+	{
+		"idPlaneta": 775,
+		"diametro": 19684777437279175000,
+		"periodo_orbita": 6.0502031278326905e+25,
+		"periodo_rotacion": 1.1409698944784087e+26,
+		"gravedad": 152963492754
+	},
+	{
+		"idPlaneta": 776,
+		"diametro": 17942599714450602000,
+		"periodo_orbita": 1.132252735581119e+26,
+		"periodo_rotacion": 5.94142989523482e+25,
+		"gravedad": 103620447705
+	},
+	{
+		"idPlaneta": 777,
+		"diametro": 24678074006975350000,
+		"periodo_orbita": 5.860236173355382e+25,
+		"periodo_rotacion": 1.5319538841384276e+26,
+		"gravedad": 87539714031
+	},
+	{
+		"idPlaneta": 778,
+		"diametro": 9783001823059820000,
+		"periodo_orbita": 1.9926130120579965e+26,
+		"periodo_rotacion": 2.1530755877554302e+26,
+		"gravedad": 133746069259
+	},
+	{
+		"idPlaneta": 779,
+		"diametro": 4370687034295726600,
+		"periodo_orbita": 3.277924485806505e+25,
+		"periodo_rotacion": 2.5097215772104207e+26,
+		"gravedad": 85898715584
+	},
+	{
+		"idPlaneta": 780,
+		"diametro": 21764608537866695000,
+		"periodo_orbita": 2.269339106196619e+26,
+		"periodo_rotacion": 7.724290439082281e+25,
+		"gravedad": 96892072900
+	},
+	{
+		"idPlaneta": 781,
+		"diametro": 3496514741039910400,
+		"periodo_orbita": 1.5943262098204362e+26,
+		"periodo_rotacion": 2.1726237790574998e+26,
+		"gravedad": 181554929099
+	},
+	{
+		"idPlaneta": 782,
+		"diametro": 11395516864745867000,
+		"periodo_orbita": 1.754247905691141e+26,
+		"periodo_rotacion": 1.5171015402845832e+26,
+		"gravedad": 171353879395
+	},
+	{
+		"idPlaneta": 783,
+		"diametro": 10609602338361182000,
+		"periodo_orbita": 2.000514004965633e+26,
+		"periodo_rotacion": 1.8437307987492314e+26,
+		"gravedad": 23275354959
+	},
+	{
+		"idPlaneta": 784,
+		"diametro": 16591925981538730000,
+		"periodo_orbita": 1.6482314473263923e+26,
+		"periodo_rotacion": 2.5789418477640554e+26,
+		"gravedad": 54443644841
+	},
+	{
+		"idPlaneta": 785,
+		"diametro": 13422430859316107000,
+		"periodo_orbita": 1.4603348792190317e+26,
+		"periodo_rotacion": 2.5428811136097308e+26,
+		"gravedad": 98874526423
+	},
+	{
+		"idPlaneta": 786,
+		"diametro": 13609743974717565000,
+		"periodo_orbita": 8.697682257642659e+24,
+		"periodo_rotacion": 5.299054001369033e+25,
+		"gravedad": 172511459767
+	},
+	{
+		"idPlaneta": 787,
+		"diametro": 25488856228070466000,
+		"periodo_orbita": 7.442705287529275e+24,
+		"periodo_rotacion": 2.3101542258950026e+26,
+		"gravedad": 107984051979
+	},
+	{
+		"idPlaneta": 788,
+		"diametro": 21917848006783582000,
+		"periodo_orbita": 1.5388003853438393e+26,
+		"periodo_rotacion": 1.492519236133393e+26,
+		"gravedad": 191482751721
+	},
+	{
+		"idPlaneta": 789,
+		"diametro": 11440142849920117000,
+		"periodo_orbita": 2.384270304398667e+26,
+		"periodo_rotacion": 1.1308980942778648e+26,
+		"gravedad": 209126884858
+	},
+	{
+		"idPlaneta": 790,
+		"diametro": 14482135068280360000,
+		"periodo_orbita": 2.2485355174442933e+26,
+		"periodo_rotacion": 1.6956927260420498e+26,
+		"gravedad": 138928252521
+	},
+	{
+		"idPlaneta": 791,
+		"diametro": 604162704748487400,
+		"periodo_orbita": 9.220351282128877e+25,
+		"periodo_rotacion": 2.3369193698404853e+25,
+		"gravedad": 4615082420
+	},
+	{
+		"idPlaneta": 792,
+		"diametro": 25245599277260984000,
+		"periodo_orbita": 1.0080288362339409e+26,
+		"periodo_rotacion": 1.9109836413063835e+26,
+		"gravedad": 141229885653
+	},
+	{
+		"idPlaneta": 793,
+		"diametro": 24397154471168696000,
+		"periodo_orbita": 8.462241880015195e+25,
+		"periodo_rotacion": 3.5380866065893003e+25,
+		"gravedad": 30223649835
+	},
+	{
+		"idPlaneta": 794,
+		"diametro": 19807958931046777000,
+		"periodo_orbita": 3.5425694761094952e+25,
+		"periodo_rotacion": 2.5263251459347158e+26,
+		"gravedad": 187536450013
+	},
+	{
+		"idPlaneta": 795,
+		"diametro": 7650317981982863000,
+		"periodo_orbita": 3.7802192523486637e+25,
+		"periodo_rotacion": 1.3480641428199241e+26,
+		"gravedad": 143451403590
+	},
+	{
+		"idPlaneta": 796,
+		"diametro": 21174038950759250000,
+		"periodo_orbita": 7.529402371425465e+25,
+		"periodo_rotacion": 2.6587214537320673e+25,
+		"gravedad": 193449030918
+	},
+	{
+		"idPlaneta": 797,
+		"diametro": 24221717892533584000,
+		"periodo_orbita": 4.794431406958288e+25,
+		"periodo_rotacion": 1.8622932336232466e+26,
+		"gravedad": 108554441955
+	},
+	{
+		"idPlaneta": 798,
+		"diametro": 1735897819391853300,
+		"periodo_orbita": 1.3168985663709874e+26,
+		"periodo_rotacion": 8.002391743991837e+25,
+		"gravedad": 115967519102
+	},
+	{
+		"idPlaneta": 799,
+		"diametro": 15249387469540180000,
+		"periodo_orbita": 5.524014841630027e+25,
+		"periodo_rotacion": 1.3286026905723466e+26,
+		"gravedad": 158415820263
+	},
+	{
+		"idPlaneta": 800,
+		"diametro": 21566381294439500000,
+		"periodo_orbita": 1.797067582534364e+25,
+		"periodo_rotacion": 2.3240450450005264e+26,
+		"gravedad": 4189541972
+	},
+	{
+		"idPlaneta": 801,
+		"diametro": 6333576355443663000,
+		"periodo_orbita": 3.872731586017189e+25,
+		"periodo_rotacion": 1.9149788183303827e+26,
+		"gravedad": 61174502174
+	},
+	{
+		"idPlaneta": 802,
+		"diametro": 4022277887602995700,
+		"periodo_orbita": 2.139561809073814e+26,
+		"periodo_rotacion": 1.0800418028702709e+25,
+		"gravedad": 6575209836
+	},
+	{
+		"idPlaneta": 803,
+		"diametro": 23826421926614606000,
+		"periodo_orbita": 2.0800014823471007e+26,
+		"periodo_rotacion": 1.638546855691047e+26,
+		"gravedad": 33066450337
+	},
+	{
+		"idPlaneta": 804,
+		"diametro": 10882361976784763000,
+		"periodo_orbita": 2.0651563700623324e+26,
+		"periodo_rotacion": 1.3757687418050194e+26,
+		"gravedad": 66898439036
+	},
+	{
+		"idPlaneta": 805,
+		"diametro": 3148955154367969300,
+		"periodo_orbita": 1.0947291792654627e+26,
+		"periodo_rotacion": 1.0894153955529627e+26,
+		"gravedad": 51035202804
+	},
+	{
+		"idPlaneta": 806,
+		"diametro": 7914585253775938000,
+		"periodo_orbita": 1.8949636393544035e+26,
+		"periodo_rotacion": 4.2974077917455425e+25,
+		"gravedad": 33563521070
+	},
+	{
+		"idPlaneta": 807,
+		"diametro": 7768709041070303000,
+		"periodo_orbita": 2.0882234316338203e+25,
+		"periodo_rotacion": 2.2358880929914063e+26,
+		"gravedad": 221270477105
+	},
+	{
+		"idPlaneta": 808,
+		"diametro": 25031972627182570000,
+		"periodo_orbita": 6.397929617355605e+25,
+		"periodo_rotacion": 5.940578401860932e+25,
+		"gravedad": 142669012124
+	},
+	{
+		"idPlaneta": 809,
+		"diametro": 22777474544100434000,
+		"periodo_orbita": 1.5212201466873878e+26,
+		"periodo_rotacion": 1.7867469827244344e+25,
+		"gravedad": 86525218723
+	},
+	{
+		"idPlaneta": 810,
+		"diametro": 20344601739861926000,
+		"periodo_orbita": 1.2392064188089673e+26,
+		"periodo_rotacion": 2.115857150400219e+26,
+		"gravedad": 184235091616
+	},
+	{
+		"idPlaneta": 811,
+		"diametro": 14432660852158575000,
+		"periodo_orbita": 1.7172641835676047e+26,
+		"periodo_rotacion": 5.501567131097312e+25,
+		"gravedad": 56537389577
+	},
+	{
+		"idPlaneta": 812,
+		"diametro": 13343453469840335000,
+		"periodo_orbita": 1.184846157271594e+26,
+		"periodo_rotacion": 3.0861913955242415e+25,
+		"gravedad": 101166607896
+	},
+	{
+		"idPlaneta": 813,
+		"diametro": 196603246279461660,
+		"periodo_orbita": 2.7630682433422086e+25,
+		"periodo_rotacion": 2.2331998350376995e+26,
+		"gravedad": 149452242445
+	},
+	{
+		"idPlaneta": 814,
+		"diametro": 12521622338078417000,
+		"periodo_orbita": 4.819133416944578e+25,
+		"periodo_rotacion": 1.8009332284868195e+25,
+		"gravedad": 1020018073
+	},
+	{
+		"idPlaneta": 815,
+		"diametro": 16226981187379036000,
+		"periodo_orbita": 8.17368051215367e+25,
+		"periodo_rotacion": 1.9956102643671456e+26,
+		"gravedad": 201443336165
+	},
+	{
+		"idPlaneta": 816,
+		"diametro": 25126829251108643000,
+		"periodo_orbita": 9.941706756669375e+25,
+		"periodo_rotacion": 9.201990945755198e+25,
+		"gravedad": 106198424855
+	},
+	{
+		"idPlaneta": 817,
+		"diametro": 15630814857753055000,
+		"periodo_orbita": 2.5936043581393063e+25,
+		"periodo_rotacion": 3.908306268842054e+25,
+		"gravedad": 229721107020
+	},
+	{
+		"idPlaneta": 818,
+		"diametro": 23645315517454680000,
+		"periodo_orbita": 4.474808248825934e+25,
+		"periodo_rotacion": 2.1561410700490937e+26,
+		"gravedad": 95817403151
+	},
+	{
+		"idPlaneta": 819,
+		"diametro": 4623156877357200000,
+		"periodo_orbita": 9.697481831680308e+25,
+		"periodo_rotacion": 1.9911755137382775e+26,
+		"gravedad": 89442199192
+	},
+	{
+		"idPlaneta": 820,
+		"diametro": 7557151357162762000,
+		"periodo_orbita": 2.038752794628617e+26,
+		"periodo_rotacion": 1.1002433417298958e+26,
+		"gravedad": 210989186760
+	},
+	{
+		"idPlaneta": 821,
+		"diametro": 16419290569703256000,
+		"periodo_orbita": 1.0732764429981204e+26,
+		"periodo_rotacion": 1.7938018893731815e+26,
+		"gravedad": 222562757971
+	},
+	{
+		"idPlaneta": 822,
+		"diametro": 1626549002513281800,
+		"periodo_orbita": 1.0781791226717853e+26,
+		"periodo_rotacion": 1.1721550582754147e+26,
+		"gravedad": 5938519872
+	},
+	{
+		"idPlaneta": 823,
+		"diametro": 1975885091663052300,
+		"periodo_orbita": 1.7989432503432097e+26,
+		"periodo_rotacion": 1.7074692977104967e+26,
+		"gravedad": 180940051934
+	},
+	{
+		"idPlaneta": 824,
+		"diametro": 20512275497725608000,
+		"periodo_orbita": 1.671157667456867e+26,
+		"periodo_rotacion": 6.753449966498937e+25,
+		"gravedad": 208478402910
+	},
+	{
+		"idPlaneta": 825,
+		"diametro": 15429825050301032000,
+		"periodo_orbita": 2.4974461016784695e+26,
+		"periodo_rotacion": 1.1641674991195029e+26,
+		"gravedad": 64654163598
+	},
+	{
+		"idPlaneta": 826,
+		"diametro": 15125295994835304000,
+		"periodo_orbita": 3.4620803571237533e+25,
+		"periodo_rotacion": 1.1369212699991411e+26,
+		"gravedad": 1503733511
+	},
+	{
+		"idPlaneta": 827,
+		"diametro": 18943844163975983000,
+		"periodo_orbita": 2.5069401782158512e+26,
+		"periodo_rotacion": 1.4609443750202238e+25,
+		"gravedad": 42280759257
+	},
+	{
+		"idPlaneta": 828,
+		"diametro": 6666379686368741000,
+		"periodo_orbita": 2.107289134770452e+26,
+		"periodo_rotacion": 1.974113172017488e+26,
+		"gravedad": 141653218877
+	},
+	{
+		"idPlaneta": 829,
+		"diametro": 19762372407128020000,
+		"periodo_orbita": 1.6823590124613677e+26,
+		"periodo_rotacion": 1.8415729484158895e+26,
+		"gravedad": 219232926570
+	},
+	{
+		"idPlaneta": 830,
+		"diametro": 13076424898266989000,
+		"periodo_orbita": 1.6710827649612505e+26,
+		"periodo_rotacion": 7.992260148903305e+25,
+		"gravedad": 16242419149
+	},
+	{
+		"idPlaneta": 831,
+		"diametro": 15463234280710894000,
+		"periodo_orbita": 1.8408315103098124e+26,
+		"periodo_rotacion": 1.3371567916149956e+26,
+		"gravedad": 196750435902
+	},
+	{
+		"idPlaneta": 832,
+		"diametro": 14639927256093135000,
+		"periodo_orbita": 2.8447247113972906e+25,
+		"periodo_rotacion": 2.4261485698376474e+26,
+		"gravedad": 69189985021
+	},
+	{
+		"idPlaneta": 833,
+		"diametro": 7793040367877804000,
+		"periodo_orbita": 1.653918375921228e+26,
+		"periodo_rotacion": 7.506093033679569e+25,
+		"gravedad": 116193440647
+	},
+	{
+		"idPlaneta": 834,
+		"diametro": 19143998657736160000,
+		"periodo_orbita": 1.8331683245717243e+25,
+		"periodo_rotacion": 1.7151681455903883e+26,
+		"gravedad": 65628874925
+	},
+	{
+		"idPlaneta": 835,
+		"diametro": 3361091373218956300,
+		"periodo_orbita": 1.2188189108079474e+26,
+		"periodo_rotacion": 5.943414623316986e+25,
+		"gravedad": 81268353150
+	},
+	{
+		"idPlaneta": 836,
+		"diametro": 8779230993227344000,
+		"periodo_orbita": 4.446465537429942e+25,
+		"periodo_rotacion": 2.3560436345986942e+26,
+		"gravedad": 91936531543
+	},
+	{
+		"idPlaneta": 837,
+		"diametro": 15927103856100470000,
+		"periodo_orbita": 1.151515946677965e+26,
+		"periodo_rotacion": 3.955243872590664e+25,
+		"gravedad": 127310888770
+	},
+	{
+		"idPlaneta": 838,
+		"diametro": 19419714357185060000,
+		"periodo_orbita": 2.41906393256585e+26,
+		"periodo_rotacion": 1.3542652838226861e+26,
+		"gravedad": 165359175377
+	},
+	{
+		"idPlaneta": 839,
+		"diametro": 9567480790458008000,
+		"periodo_orbita": 2.160182109543029e+26,
+		"periodo_rotacion": 4.973794609040321e+25,
+		"gravedad": 227883767106
+	},
+	{
+		"idPlaneta": 840,
+		"diametro": 5670206409326209000,
+		"periodo_orbita": 1.3624961258128744e+26,
+		"periodo_rotacion": 1.5490626236211822e+26,
+		"gravedad": 85079770673
+	},
+	{
+		"idPlaneta": 841,
+		"diametro": 5017753071391542000,
+		"periodo_orbita": 1.7821146135100048e+26,
+		"periodo_rotacion": 6.175559639891175e+25,
+		"gravedad": 44625698367
+	},
+	{
+		"idPlaneta": 842,
+		"diametro": 3031594321410899000,
+		"periodo_orbita": 7.437216564865629e+25,
+		"periodo_rotacion": 1.8271228863221152e+26,
+		"gravedad": 56803956740
+	},
+	{
+		"idPlaneta": 843,
+		"diametro": 1958012799208744000,
+		"periodo_orbita": 3.534435999760505e+25,
+		"periodo_rotacion": 1.678181254225374e+26,
+		"gravedad": 70807100717
+	},
+	{
+		"idPlaneta": 844,
+		"diametro": 19992294169978430000,
+		"periodo_orbita": 1.3249549733275441e+26,
+		"periodo_rotacion": 2.1755444432914317e+26,
+		"gravedad": 177603906972
+	},
+	{
+		"idPlaneta": 845,
+		"diametro": 21443665505534210000,
+		"periodo_orbita": 2.3784484130989498e+26,
+		"periodo_rotacion": 2.5337780454136452e+26,
+		"gravedad": 157520656929
+	},
+	{
+		"idPlaneta": 846,
+		"diametro": 17450911643481518000,
+		"periodo_orbita": 6.469125042343533e+25,
+		"periodo_rotacion": 6.878664015982046e+25,
+		"gravedad": 222540543274
+	},
+	{
+		"idPlaneta": 847,
+		"diametro": 8649199621917652000,
+		"periodo_orbita": 2.28445913886408e+26,
+		"periodo_rotacion": 8.543214762259118e+25,
+		"gravedad": 209484359745
+	},
+	{
+		"idPlaneta": 848,
+		"diametro": 7015508227481892000,
+		"periodo_orbita": 5.6158270762228734e+25,
+		"periodo_rotacion": 1.507220435203601e+26,
+		"gravedad": 68699028034
+	},
+	{
+		"idPlaneta": 849,
+		"diametro": 10607268534527894000,
+		"periodo_orbita": 1.9626959477323358e+25,
+		"periodo_rotacion": 2.5845417147581593e+26,
+		"gravedad": 101949273515
+	},
+	{
+		"idPlaneta": 850,
+		"diametro": 307163225830579600,
+		"periodo_orbita": 2.4772078465807585e+26,
+		"periodo_rotacion": 3.4353316427839804e+24,
+		"gravedad": 25664319933
+	},
+	{
+		"idPlaneta": 851,
+		"diametro": 24367624755656385000,
+		"periodo_orbita": 1.5862937802450226e+26,
+		"periodo_rotacion": 6.167300220816056e+24,
+		"gravedad": 22105588784
+	},
+	{
+		"idPlaneta": 852,
+		"diametro": 15331315271318753000,
+		"periodo_orbita": 6.333904515860954e+25,
+		"periodo_rotacion": 2.024973181288778e+26,
+		"gravedad": 98566010551
+	},
+	{
+		"idPlaneta": 853,
+		"diametro": 17283627265729733000,
+		"periodo_orbita": 8.117084012245933e+25,
+		"periodo_rotacion": 1.8614852791037645e+26,
+		"gravedad": 76496038151
+	},
+	{
+		"idPlaneta": 854,
+		"diametro": 22583152042693865000,
+		"periodo_orbita": 1.2880897301919775e+26,
+		"periodo_rotacion": 8.509622331771405e+25,
+		"gravedad": 221377235618
+	},
+	{
+		"idPlaneta": 855,
+		"diametro": 16613732745653050000,
+		"periodo_orbita": 6.524769844289789e+25,
+		"periodo_rotacion": 1.4716173465285943e+26,
+		"gravedad": 223071535980
+	},
+	{
+		"idPlaneta": 856,
+		"diametro": 25530802772862950000,
+		"periodo_orbita": 2.4156322561221438e+26,
+		"periodo_rotacion": 1.2526720038838583e+26,
+		"gravedad": 176661511913
+	},
+	{
+		"idPlaneta": 857,
+		"diametro": 20605328667204674000,
+		"periodo_orbita": 2.619439243269064e+25,
+		"periodo_rotacion": 1.600466187972227e+26,
+		"gravedad": 165286304776
+	},
+	{
+		"idPlaneta": 858,
+		"diametro": 11868149036954307000,
+		"periodo_orbita": 7.344163700431482e+24,
+		"periodo_rotacion": 1.6788325122604334e+26,
+		"gravedad": 68938871561
+	},
+	{
+		"idPlaneta": 859,
+		"diametro": 5383369866562957000,
+		"periodo_orbita": 7.050558357536056e+25,
+		"periodo_rotacion": 2.2309494979967596e+26,
+		"gravedad": 142775324086
+	},
+	{
+		"idPlaneta": 860,
+		"diametro": 4390534153103537000,
+		"periodo_orbita": 9.488179700206608e+25,
+		"periodo_rotacion": 2.0091477208985598e+26,
+		"gravedad": 156294235333
+	},
+	{
+		"idPlaneta": 861,
+		"diametro": 23217903266275975000,
+		"periodo_orbita": 1.4022491100009724e+26,
+		"periodo_rotacion": 1.4644112915726893e+26,
+		"gravedad": 74198428971
+	},
+	{
+		"idPlaneta": 862,
+		"diametro": 16344224501241750000,
+		"periodo_orbita": 2.0017073917281383e+25,
+		"periodo_rotacion": 2.3868250977659828e+26,
+		"gravedad": 46374838406
+	},
+	{
+		"idPlaneta": 863,
+		"diametro": 21559408291236200000,
+		"periodo_orbita": 8.5419124248192e+25,
+		"periodo_rotacion": 1.1286844886803604e+26,
+		"gravedad": 51248127205
+	},
+	{
+		"idPlaneta": 864,
+		"diametro": 8824335655014628000,
+		"periodo_orbita": 1.88370274781447e+26,
+		"periodo_rotacion": 1.4715010611844814e+26,
+		"gravedad": 141948684677
+	},
+	{
+		"idPlaneta": 865,
+		"diametro": 5347168605096131000,
+		"periodo_orbita": 1.2593178616994218e+26,
+		"periodo_rotacion": 2.0733447702988203e+26,
+		"gravedad": 80476984812
+	},
+	{
+		"idPlaneta": 866,
+		"diametro": 1246736800851897000,
+		"periodo_orbita": 2.2562275305629377e+26,
+		"periodo_rotacion": 1.7312964491384124e+26,
+		"gravedad": 221456723127
+	},
+	{
+		"idPlaneta": 867,
+		"diametro": 24887841265318320000,
+		"periodo_orbita": 1.5802101442790543e+26,
+		"periodo_rotacion": 1.1922378674487613e+26,
+		"gravedad": 201989503575
+	},
+	{
+		"idPlaneta": 868,
+		"diametro": 25033525779018908000,
+		"periodo_orbita": 2.1147150587453146e+26,
+		"periodo_rotacion": 1.2981772985396963e+26,
+		"gravedad": 231287203218
+	},
+	{
+		"idPlaneta": 869,
+		"diametro": 2062331497523719000,
+		"periodo_orbita": 1.6582631092189907e+26,
+		"periodo_rotacion": 2.346251784797442e+25,
+		"gravedad": 43972395344
+	},
+	{
+		"idPlaneta": 870,
+		"diametro": 7467171477136564000,
+		"periodo_orbita": 3.962312743936307e+25,
+		"periodo_rotacion": 1.844364011865817e+26,
+		"gravedad": 137681499898
+	},
+	{
+		"idPlaneta": 871,
+		"diametro": 7770560255588714000,
+		"periodo_orbita": 1.0379793624825231e+26,
+		"periodo_rotacion": 9.774251949331155e+25,
+		"gravedad": 107120302019
+	},
+	{
+		"idPlaneta": 872,
+		"diametro": 25227362427539400000,
+		"periodo_orbita": 3.3887587765430844e+25,
+		"periodo_rotacion": 2.890936463535636e+24,
+		"gravedad": 202610801623
+	},
+	{
+		"idPlaneta": 873,
+		"diametro": 14612385798967538000,
+		"periodo_orbita": 7.380955199756058e+24,
+		"periodo_rotacion": 1.0740790441637011e+26,
+		"gravedad": 76429955329
+	},
+	{
+		"idPlaneta": 874,
+		"diametro": 2426389958951758000,
+		"periodo_orbita": 1.2037908066737081e+26,
+		"periodo_rotacion": 6.229364533959807e+24,
+		"gravedad": 86995150879
+	},
+	{
+		"idPlaneta": 875,
+		"diametro": 20345758993706440000,
+		"periodo_orbita": 2.428319554984631e+26,
+		"periodo_rotacion": 1.1608881865483823e+26,
+		"gravedad": 58176343418
+	},
+	{
+		"idPlaneta": 876,
+		"diametro": 20648362265361920000,
+		"periodo_orbita": 2.1689054353791297e+26,
+		"periodo_rotacion": 1.6167403308781377e+26,
+		"gravedad": 179565948470
+	},
+	{
+		"idPlaneta": 877,
+		"diametro": 20131422815188247000,
+		"periodo_orbita": 1.6842100558874194e+26,
+		"periodo_rotacion": 7.376757925838447e+24,
+		"gravedad": 175311296516
+	},
+	{
+		"idPlaneta": 878,
+		"diametro": 24846677244759540000,
+		"periodo_orbita": 2.2413611309652558e+26,
+		"periodo_rotacion": 2.1427922128816292e+26,
+		"gravedad": 19968161448
+	},
+	{
+		"idPlaneta": 879,
+		"diametro": 2722016839241110000,
+		"periodo_orbita": 6.574622782101287e+25,
+		"periodo_rotacion": 1.87497866839895e+26,
+		"gravedad": 192160157912
+	},
+	{
+		"idPlaneta": 880,
+		"diametro": 409938557989019300,
+		"periodo_orbita": 8.380418317800455e+25,
+		"periodo_rotacion": 2.261442870872236e+26,
+		"gravedad": 215840274566
+	},
+	{
+		"idPlaneta": 881,
+		"diametro": 20204143196928870000,
+		"periodo_orbita": 1.5768373314011316e+26,
+		"periodo_rotacion": 9.049017251757985e+25,
+		"gravedad": 171245538202
+	},
+	{
+		"idPlaneta": 882,
+		"diametro": 12279877360189247000,
+		"periodo_orbita": 1.2090963666899162e+26,
+		"periodo_rotacion": 6.863963642962554e+25,
+		"gravedad": 21929405508
+	},
+	{
+		"idPlaneta": 883,
+		"diametro": 23227099397378494000,
+		"periodo_orbita": 1.666325353707432e+26,
+		"periodo_rotacion": 7.323275037054872e+25,
+		"gravedad": 128338277125
+	},
+	{
+		"idPlaneta": 884,
+		"diametro": 16866582617935303000,
+		"periodo_orbita": 1.872733200694546e+26,
+		"periodo_rotacion": 4.1765864000869404e+25,
+		"gravedad": 155344925748
+	},
+	{
+		"idPlaneta": 885,
+		"diametro": 21928293060903050000,
+		"periodo_orbita": 1.1452948220613373e+26,
+		"periodo_rotacion": 4.671802676204671e+25,
+		"gravedad": 107058803005
+	},
+	{
+		"idPlaneta": 886,
+		"diametro": 18442095493557463000,
+		"periodo_orbita": 1.769396163633039e+26,
+		"periodo_rotacion": 1.2631810343046523e+26,
+		"gravedad": 100214725765
+	},
+	{
+		"idPlaneta": 887,
+		"diametro": 9969753715922602000,
+		"periodo_orbita": 1.3600262744889567e+26,
+		"periodo_rotacion": 1.5275267192856107e+26,
+		"gravedad": 53428232764
+	},
+	{
+		"idPlaneta": 888,
+		"diametro": 7432531450049637000,
+		"periodo_orbita": 5.400327170807052e+25,
+		"periodo_rotacion": 1.108944461261772e+26,
+		"gravedad": 74806441733
+	},
+	{
+		"idPlaneta": 889,
+		"diametro": 8027219738480291,
+		"periodo_orbita": 1.9192537163508006e+26,
+		"periodo_rotacion": 2.2692712284688348e+26,
+		"gravedad": 10719185642
+	},
+	{
+		"idPlaneta": 890,
+		"diametro": 21769333710200420000,
+		"periodo_orbita": 1.3809119444310817e+26,
+		"periodo_rotacion": 1.599451455709102e+26,
+		"gravedad": 227340322623
+	},
+	{
+		"idPlaneta": 891,
+		"diametro": 1166339094038224000,
+		"periodo_orbita": 1.3590974397719614e+26,
+		"periodo_rotacion": 2.5317580743403534e+26,
+		"gravedad": 3384683010
+	},
+	{
+		"idPlaneta": 892,
+		"diametro": 21117318155767490000,
+		"periodo_orbita": 6.189712946204174e+25,
+		"periodo_rotacion": 1.8161862995683242e+25,
+		"gravedad": 98530925979
+	},
+	{
+		"idPlaneta": 893,
+		"diametro": 25172527074510990000,
+		"periodo_orbita": 2.512052231922297e+26,
+		"periodo_rotacion": 2.016831175610223e+26,
+		"gravedad": 183384818037
+	},
+	{
+		"idPlaneta": 894,
+		"diametro": 25098282159427834000,
+		"periodo_orbita": 8.727747556639722e+25,
+		"periodo_rotacion": 6.47731711474712e+25,
+		"gravedad": 181613093694
+	},
+	{
+		"idPlaneta": 895,
+		"diametro": 4320641125149394400,
+		"periodo_orbita": 1.7846140577957263e+25,
+		"periodo_rotacion": 2.3971710955653365e+26,
+		"gravedad": 144313361252
+	},
+	{
+		"idPlaneta": 896,
+		"diametro": 20590455041004400000,
+		"periodo_orbita": 2.8742151228286954e+25,
+		"periodo_rotacion": 1.0625097139824335e+26,
+		"gravedad": 45171055498
+	},
+	{
+		"idPlaneta": 897,
+		"diametro": 1389666746105013500,
+		"periodo_orbita": 1.3861650368781648e+26,
+		"periodo_rotacion": 1.1710547157809796e+26,
+		"gravedad": 219009769566
+	},
+	{
+		"idPlaneta": 898,
+		"diametro": 18984998831650832000,
+		"periodo_orbita": 2.394171143359947e+26,
+		"periodo_rotacion": 2.2651501463661482e+26,
+		"gravedad": 201795450646
+	},
+	{
+		"idPlaneta": 899,
+		"diametro": 18604119455606845000,
+		"periodo_orbita": 2.52163220834805e+26,
+		"periodo_rotacion": 1.9265040702953574e+26,
+		"gravedad": 192782058360
+	},
+	{
+		"idPlaneta": 900,
+		"diametro": 11902493601333870000,
+		"periodo_orbita": 1.180522614762275e+26,
+		"periodo_rotacion": 1.090724342697367e+26,
+		"gravedad": 89134481066
+	},
+	{
+		"idPlaneta": 901,
+		"diametro": 8732806372773124000,
+		"periodo_orbita": 1.9772082731900947e+26,
+		"periodo_rotacion": 2.4361680305907945e+26,
+		"gravedad": 27884797596
+	},
+	{
+		"idPlaneta": 902,
+		"diametro": 15100179699224650000,
+		"periodo_orbita": 4.509981559390147e+25,
+		"periodo_rotacion": 1.7896725436048654e+26,
+		"gravedad": 138067764191
+	},
+	{
+		"idPlaneta": 903,
+		"diametro": 20194669900413063000,
+		"periodo_orbita": 2.0214381555278437e+26,
+		"periodo_rotacion": 8.993533336796645e+25,
+		"gravedad": 125910216731
+	},
+	{
+		"idPlaneta": 904,
+		"diametro": 12535696942828850000,
+		"periodo_orbita": 2.0383700930259412e+26,
+		"periodo_rotacion": 3.7706255653824826e+25,
+		"gravedad": 224908855594
+	},
+	{
+		"idPlaneta": 905,
+		"diametro": 10213278231074220000,
+		"periodo_orbita": 8.013354734050938e+25,
+		"periodo_rotacion": 2.5756195580020674e+26,
+		"gravedad": 137343190880
+	},
+	{
+		"idPlaneta": 906,
+		"diametro": 25525404484087546000,
+		"periodo_orbita": 1.8271265682208388e+26,
+		"periodo_rotacion": 1.954421906557581e+26,
+		"gravedad": 32682943789
+	},
+	{
+		"idPlaneta": 907,
+		"diametro": 19958812396979710000,
+		"periodo_orbita": 8.787826624683377e+25,
+		"periodo_rotacion": 1.0588556236997249e+26,
+		"gravedad": 181825834191
+	},
+	{
+		"idPlaneta": 908,
+		"diametro": 5215757301480848000,
+		"periodo_orbita": 4.704998306947823e+25,
+		"periodo_rotacion": 1.2502563536439017e+26,
+		"gravedad": 29171600774
+	},
+	{
+		"idPlaneta": 909,
+		"diametro": 17025423069887062000,
+		"periodo_orbita": 8.644452229410939e+25,
+		"periodo_rotacion": 1.6529108237794063e+26,
+		"gravedad": 105361211281
+	},
+	{
+		"idPlaneta": 910,
+		"diametro": 7963168087528291000,
+		"periodo_orbita": 1.9072296481592673e+26,
+		"periodo_rotacion": 1.6024534058364783e+26,
+		"gravedad": 30064563647
+	},
+	{
+		"idPlaneta": 911,
+		"diametro": 2854227458706082000,
+		"periodo_orbita": 1.1001080404837432e+26,
+		"periodo_rotacion": 1.431566080511664e+26,
+		"gravedad": 117887236055
+	},
+	{
+		"idPlaneta": 912,
+		"diametro": 686785141078916000,
+		"periodo_orbita": 3.609329504916205e+24,
+		"periodo_rotacion": 1.785120625722307e+26,
+		"gravedad": 146289870839
+	},
+	{
+		"idPlaneta": 913,
+		"diametro": 10563119270345513000,
+		"periodo_orbita": 5.2563159688790664e+25,
+		"periodo_rotacion": 2.5751459924338853e+26,
+		"gravedad": 60954669136
+	},
+	{
+		"idPlaneta": 914,
+		"diametro": 8765814620474825000,
+		"periodo_orbita": 1.0042034217627892e+26,
+		"periodo_rotacion": 1.0076918964210935e+26,
+		"gravedad": 202290774038
+	},
+	{
+		"idPlaneta": 915,
+		"diametro": 11398645908307653000,
+		"periodo_orbita": 1.21117088834898e+26,
+		"periodo_rotacion": 1.6196881334179972e+26,
+		"gravedad": 73070387302
+	},
+	{
+		"idPlaneta": 916,
+		"diametro": 24620887139630133000,
+		"periodo_orbita": 3.1753392760694128e+25,
+		"periodo_rotacion": 2.4942967741445053e+26,
+		"gravedad": 5215950075
+	},
+	{
+		"idPlaneta": 917,
+		"diametro": 666547343838993500,
+		"periodo_orbita": 9.1538248241032e+25,
+		"periodo_rotacion": 2.1134326090717344e+26,
+		"gravedad": 229501191691
+	},
+	{
+		"idPlaneta": 918,
+		"diametro": 20809597419485938000,
+		"periodo_orbita": 2.4129815462470146e+26,
+		"periodo_rotacion": 1.727679632089689e+26,
+		"gravedad": 119452379201
+	},
+	{
+		"idPlaneta": 919,
+		"diametro": 3362761165344080000,
+		"periodo_orbita": 1.0404098369262656e+26,
+		"periodo_rotacion": 1.980938181950707e+26,
+		"gravedad": 202886175393
+	},
+	{
+		"idPlaneta": 920,
+		"diametro": 1558104595671448600,
+		"periodo_orbita": 2.5026973988901326e+26,
+		"periodo_rotacion": 4.815659707314929e+25,
+		"gravedad": 85587674260
+	},
+	{
+		"idPlaneta": 921,
+		"diametro": 2411001034291037700,
+		"periodo_orbita": 1.0367678347237263e+26,
+		"periodo_rotacion": 1.749772519830465e+26,
+		"gravedad": 30831933822
+	},
+	{
+		"idPlaneta": 922,
+		"diametro": 9756921528253460000,
+		"periodo_orbita": 8.953869209054016e+25,
+		"periodo_rotacion": 2.0809749686957196e+26,
+		"gravedad": 225808044577
+	},
+	{
+		"idPlaneta": 923,
+		"diametro": 18085462972824627000,
+		"periodo_orbita": 3.144796177680852e+25,
+		"periodo_rotacion": 2.288308583634853e+25,
+		"gravedad": 22961436318
+	},
+	{
+		"idPlaneta": 924,
+		"diametro": 18789817406486730000,
+		"periodo_orbita": 4.277081191284883e+24,
+		"periodo_rotacion": 1.8867231797436473e+26,
+		"gravedad": 49420305377
+	},
+	{
+		"idPlaneta": 925,
+		"diametro": 20790886638122050000,
+		"periodo_orbita": 6.305590082637663e+25,
+		"periodo_rotacion": 9.725279763458306e+25,
+		"gravedad": 6221579052
+	},
+	{
+		"idPlaneta": 926,
+		"diametro": 16338676287235478000,
+		"periodo_orbita": 2.3252851420987257e+26,
+		"periodo_rotacion": 2.0718292528519316e+26,
+		"gravedad": 35818745102
+	},
+	{
+		"idPlaneta": 927,
+		"diametro": 12274482039411053000,
+		"periodo_orbita": 2.455563313841495e+26,
+		"periodo_rotacion": 6.43780369771893e+24,
+		"gravedad": 12591599809
+	},
+	{
+		"idPlaneta": 928,
+		"diametro": 5805093015039546000,
+		"periodo_orbita": 2.524668959998957e+26,
+		"periodo_rotacion": 1.846919894880264e+26,
+		"gravedad": 75310755153
+	},
+	{
+		"idPlaneta": 929,
+		"diametro": 2507647293404602400,
+		"periodo_orbita": 1.5121569059097415e+26,
+		"periodo_rotacion": 1.5564468113881044e+26,
+		"gravedad": 124715119194
+	},
+	{
+		"idPlaneta": 930,
+		"diametro": 21104027930007175000,
+		"periodo_orbita": 2.275157302874239e+26,
+		"periodo_rotacion": 8.950665136721545e+25,
+		"gravedad": 131583688462
+	},
+	{
+		"idPlaneta": 931,
+		"diametro": 4785429864406952000,
+		"periodo_orbita": 1.0115257502452668e+26,
+		"periodo_rotacion": 1.61508053696806e+26,
+		"gravedad": 20687660290
+	},
+	{
+		"idPlaneta": 932,
+		"diametro": 19362593855436886000,
+		"periodo_orbita": 2.0364070210383484e+25,
+		"periodo_rotacion": 1.5967247005722932e+26,
+		"gravedad": 44010398913
+	},
+	{
+		"idPlaneta": 933,
+		"diametro": 4293890059615589000,
+		"periodo_orbita": 1.7968527407947677e+26,
+		"periodo_rotacion": 1.8148124589132717e+26,
+		"gravedad": 81967292605
+	},
+	{
+		"idPlaneta": 934,
+		"diametro": 17532719476647213000,
+		"periodo_orbita": 1.252773841550187e+26,
+		"periodo_rotacion": 7.130191491926696e+25,
+		"gravedad": 227613444662
+	},
+	{
+		"idPlaneta": 935,
+		"diametro": 21056300021887082000,
+		"periodo_orbita": 2.285349553669841e+26,
+		"periodo_rotacion": 3.7673111041287963e+25,
+		"gravedad": 184314607707
+	},
+	{
+		"idPlaneta": 936,
+		"diametro": 16148508098366816000,
+		"periodo_orbita": 8.040220469288278e+25,
+		"periodo_rotacion": 9.020201355808398e+25,
+		"gravedad": 166199062976
+	},
+	{
+		"idPlaneta": 937,
+		"diametro": 16052224547372112000,
+		"periodo_orbita": 8.470225870103389e+25,
+		"periodo_rotacion": 6.934690907916778e+25,
+		"gravedad": 225206022776
+	},
+	{
+		"idPlaneta": 938,
+		"diametro": 23283434551739195000,
+		"periodo_orbita": 2.4238542921213288e+26,
+		"periodo_rotacion": 8.511187557268419e+25,
+		"gravedad": 33538618859
+	},
+	{
+		"idPlaneta": 939,
+		"diametro": 10043856938349048000,
+		"periodo_orbita": 1.663187121883625e+26,
+		"periodo_rotacion": 2.4755796289449676e+26,
+		"gravedad": 138755688384
+	},
+	{
+		"idPlaneta": 940,
+		"diametro": 21343778900231360000,
+		"periodo_orbita": 1.805035679126467e+26,
+		"periodo_rotacion": 1.7376051157558414e+26,
+		"gravedad": 46288291880
+	},
+	{
+		"idPlaneta": 941,
+		"diametro": 23910923520462377000,
+		"periodo_orbita": 9.230804612164764e+25,
+		"periodo_rotacion": 1.57548144116484e+25,
+		"gravedad": 176497753491
+	},
+	{
+		"idPlaneta": 942,
+		"diametro": 13208758180503253000,
+		"periodo_orbita": 7.4651506991057645e+25,
+		"periodo_rotacion": 2.402543238248173e+26,
+		"gravedad": 34593950052
+	},
+	{
+		"idPlaneta": 943,
+		"diametro": 2582093542181480000,
+		"periodo_orbita": 1.16950875510209e+26,
+		"periodo_rotacion": 1.614418908369104e+25,
+		"gravedad": 132185387075
+	},
+	{
+		"idPlaneta": 944,
+		"diametro": 11195999116024480000,
+		"periodo_orbita": 2.3928499455491962e+26,
+		"periodo_rotacion": 1.557651091815906e+26,
+		"gravedad": 155902335323
+	},
+	{
+		"idPlaneta": 945,
+		"diametro": 2236707034189747500,
+		"periodo_orbita": 1.4361771916731632e+26,
+		"periodo_rotacion": 4.383301377105692e+25,
+		"gravedad": 190632093113
+	},
+	{
+		"idPlaneta": 946,
+		"diametro": 10793233923194081000,
+		"periodo_orbita": 1.2445811912084373e+26,
+		"periodo_rotacion": 1.9141417699817525e+25,
+		"gravedad": 195753332831
+	},
+	{
+		"idPlaneta": 947,
+		"diametro": 11468702898387616000,
+		"periodo_orbita": 2.2799563761551387e+26,
+		"periodo_rotacion": 1.4920772532943814e+26,
+		"gravedad": 124549353469
+	},
+	{
+		"idPlaneta": 948,
+		"diametro": 12320379108134770000,
+		"periodo_orbita": 1.6220762215000826e+26,
+		"periodo_rotacion": 5.970040406009825e+25,
+		"gravedad": 5416353723
+	},
+	{
+		"idPlaneta": 949,
+		"diametro": 16921327926075000000,
+		"periodo_orbita": 2.2782280004296884e+26,
+		"periodo_rotacion": 1.8989358959915343e+26,
+		"gravedad": 84760119887
+	},
+	{
+		"idPlaneta": 950,
+		"diametro": 3208444427201685000,
+		"periodo_orbita": 1.3249154031683258e+26,
+		"periodo_rotacion": 1.7405088889795666e+26,
+		"gravedad": 102857545985
+	},
+	{
+		"idPlaneta": 951,
+		"diametro": 1264999062709555000,
+		"periodo_orbita": 1.0149902780589007e+26,
+		"periodo_rotacion": 2.09230142393974e+25,
+		"gravedad": 174328546754
+	},
+	{
+		"idPlaneta": 952,
+		"diametro": 25394601584132480000,
+		"periodo_orbita": 8.066179480623836e+25,
+		"periodo_rotacion": 1.72506078491275e+24,
+		"gravedad": 58010187167
+	},
+	{
+		"idPlaneta": 953,
+		"diametro": 4844559519235241000,
+		"periodo_orbita": 2.350062957991862e+26,
+		"periodo_rotacion": 1.4147001429259331e+26,
+		"gravedad": 152256340160
+	},
+	{
+		"idPlaneta": 954,
+		"diametro": 10787402905567242000,
+		"periodo_orbita": 1.4447798969381415e+26,
+		"periodo_rotacion": 7.464918253402259e+25,
+		"gravedad": 6188638765
+	},
+	{
+		"idPlaneta": 955,
+		"diametro": 15221132925859463000,
+		"periodo_orbita": 1.1729218461990365e+24,
+		"periodo_rotacion": 1.9891292972209145e+26,
+		"gravedad": 200176196068
+	},
+	{
+		"idPlaneta": 956,
+		"diametro": 16344913426953472000,
+		"periodo_orbita": 2.2762032953941182e+26,
+		"periodo_rotacion": 2.236915952371089e+26,
+		"gravedad": 147230096291
+	},
+	{
+		"idPlaneta": 957,
+		"diametro": 3890931830102641000,
+		"periodo_orbita": 1.2337274625026356e+25,
+		"periodo_rotacion": 6.727899918932777e+25,
+		"gravedad": 45374810092
+	},
+	{
+		"idPlaneta": 958,
+		"diametro": 2935935012052442000,
+		"periodo_orbita": 8.468800752387145e+25,
+		"periodo_rotacion": 2.366941056615559e+26,
+		"gravedad": 123151852046
+	},
+	{
+		"idPlaneta": 959,
+		"diametro": 21331686621051660000,
+		"periodo_orbita": 9.750601187098049e+25,
+		"periodo_rotacion": 2.2195757337558783e+26,
+		"gravedad": 197036783042
+	},
+	{
+		"idPlaneta": 960,
+		"diametro": 15966643237998590000,
+		"periodo_orbita": 6.872598979223337e+25,
+		"periodo_rotacion": 6.368012873585569e+25,
+		"gravedad": 201348075535
+	},
+	{
+		"idPlaneta": 961,
+		"diametro": 15069403327444000000,
+		"periodo_orbita": 1.9767590036926854e+26,
+		"periodo_rotacion": 4.124495539898241e+25,
+		"gravedad": 173194311772
+	},
+	{
+		"idPlaneta": 962,
+		"diametro": 19971602282323940000,
+		"periodo_orbita": 5.900641431850694e+25,
+		"periodo_rotacion": 4.33846533070698e+25,
+		"gravedad": 127320533217
+	},
+	{
+		"idPlaneta": 963,
+		"diametro": 1971641456572098000,
+		"periodo_orbita": 5.910831022393122e+23,
+		"periodo_rotacion": 2.815892821671764e+25,
+		"gravedad": 64632727066
+	},
+	{
+		"idPlaneta": 964,
+		"diametro": 15685066156375750000,
+		"periodo_orbita": 1.1783870077458188e+26,
+		"periodo_rotacion": 4.539820427159961e+25,
+		"gravedad": 195069203890
+	},
+	{
+		"idPlaneta": 965,
+		"diametro": 23069304519238640000,
+		"periodo_orbita": 1.6995664118898096e+26,
+		"periodo_rotacion": 1.7182269173936542e+26,
+		"gravedad": 39971425028
+	},
+	{
+		"idPlaneta": 966,
+		"diametro": 25745628829799416000,
+		"periodo_orbita": 1.9200975429832867e+26,
+		"periodo_rotacion": 5.984464187472943e+24,
+		"gravedad": 80697056742
+	},
+	{
+		"idPlaneta": 967,
+		"diametro": 7200076446056995000,
+		"periodo_orbita": 1.7644650045190188e+26,
+		"periodo_rotacion": 2.079492814903435e+26,
+		"gravedad": 177816647365
+	},
+	{
+		"idPlaneta": 968,
+		"diametro": 10336305449605673000,
+		"periodo_orbita": 8.859402199473799e+25,
+		"periodo_rotacion": 1.932397606240467e+26,
+		"gravedad": 162677809422
+	},
+	{
+		"idPlaneta": 969,
+		"diametro": 13448497638755738000,
+		"periodo_orbita": 1.5237085121126198e+26,
+		"periodo_rotacion": 1.9835411717095916e+26,
+		"gravedad": 47275578621
+	},
+	{
+		"idPlaneta": 970,
+		"diametro": 8181486525734974000,
+		"periodo_orbita": 4.711039617483758e+25,
+		"periodo_rotacion": 1.9850168677764468e+26,
+		"gravedad": 146071651696
+	},
+	{
+		"idPlaneta": 971,
+		"diametro": 18048660082795534000,
+		"periodo_orbita": 2.232024875600272e+26,
+		"periodo_rotacion": 5.852085084710639e+25,
+		"gravedad": 37493783460
+	},
+	{
+		"idPlaneta": 972,
+		"diametro": 3792269530765648400,
+		"periodo_orbita": 2.0328556958468273e+26,
+		"periodo_rotacion": 9.84856187991925e+24,
+		"gravedad": 37178443726
+	},
+	{
+		"idPlaneta": 973,
+		"diametro": 20598272257025475000,
+		"periodo_orbita": 9.718150760931225e+25,
+		"periodo_rotacion": 2.3486593270793194e+26,
+		"gravedad": 113854359487
+	},
+	{
+		"idPlaneta": 974,
+		"diametro": 9718461255917963000,
+		"periodo_orbita": 2.3303211738067388e+26,
+		"periodo_rotacion": 2.5657671530860786e+26,
+		"gravedad": 39561391332
+	},
+	{
+		"idPlaneta": 975,
+		"diametro": 24561808881377853000,
+		"periodo_orbita": 7.447257863927643e+25,
+		"periodo_rotacion": 9.309450817401412e+25,
+		"gravedad": 27178774564
+	},
+	{
+		"idPlaneta": 976,
+		"diametro": 8681409998730998000,
+		"periodo_orbita": 7.746338758002085e+24,
+		"periodo_rotacion": 1.3954288113574095e+26,
+		"gravedad": 112279492073
+	},
+	{
+		"idPlaneta": 977,
+		"diametro": 95731257083619410,
+		"periodo_orbita": 2.1308789187779172e+26,
+		"periodo_rotacion": 5.215304238637819e+25,
+		"gravedad": 168467450566
+	},
+	{
+		"idPlaneta": 978,
+		"diametro": 23127616023344234000,
+		"periodo_orbita": 1.5724607479584467e+26,
+		"periodo_rotacion": 6.328437040638424e+25,
+		"gravedad": 199293985462
+	},
+	{
+		"idPlaneta": 979,
+		"diametro": 4890461438447091000,
+		"periodo_orbita": 1.7779287637188944e+26,
+		"periodo_rotacion": 2.7245082244764366e+24,
+		"gravedad": 157488374358
+	},
+	{
+		"idPlaneta": 980,
+		"diametro": 8566590872808136000,
+		"periodo_orbita": 1.880971473556912e+26,
+		"periodo_rotacion": 9.00395467644025e+25,
+		"gravedad": 137117914675
+	},
+	{
+		"idPlaneta": 981,
+		"diametro": 14199059779474790000,
+		"periodo_orbita": 2.092778238999566e+25,
+		"periodo_rotacion": 5.785372668934121e+25,
+		"gravedad": 114408039428
+	},
+	{
+		"idPlaneta": 982,
+		"diametro": 11346317919251337000,
+		"periodo_orbita": 1.1825883452581753e+26,
+		"periodo_rotacion": 1.259283508918776e+26,
+		"gravedad": 54524268149
+	},
+	{
+		"idPlaneta": 983,
+		"diametro": 13211369256108050000,
+		"periodo_orbita": 2.3208049216023645e+26,
+		"periodo_rotacion": 1.801463527295881e+26,
+		"gravedad": 79968789476
+	},
+	{
+		"idPlaneta": 984,
+		"diametro": 21839248899886834000,
+		"periodo_orbita": 1.4627057677377935e+26,
+		"periodo_rotacion": 5.482646755281427e+25,
+		"gravedad": 178634915584
+	},
+	{
+		"idPlaneta": 985,
+		"diametro": 18614156434031100000,
+		"periodo_orbita": 2.5057702290787275e+26,
+		"periodo_rotacion": 2.0602723284231673e+26,
+		"gravedad": 227822018078
+	},
+	{
+		"idPlaneta": 986,
+		"diametro": 22238241856659160000,
+		"periodo_orbita": 2.081582958010608e+26,
+		"periodo_rotacion": 8.715880276170029e+25,
+		"gravedad": 15269465589
+	},
+	{
+		"idPlaneta": 987,
+		"diametro": 7915794208692617000,
+		"periodo_orbita": 2.4159777361305446e+25,
+		"periodo_rotacion": 2.20571116876293e+26,
+		"gravedad": 138100751968
+	},
+	{
+		"idPlaneta": 988,
+		"diametro": 24456069292006916000,
+		"periodo_orbita": 1.1272575249089153e+26,
+		"periodo_rotacion": 2.0067304262903494e+26,
+		"gravedad": 37422632873
+	},
+	{
+		"idPlaneta": 989,
+		"diametro": 8706445401660234000,
+		"periodo_orbita": 1.0209764932907236e+26,
+		"periodo_rotacion": 3.8267598903514974e+25,
+		"gravedad": 73903843798
+	},
+	{
+		"idPlaneta": 990,
+		"diametro": 6657097223450482000,
+		"periodo_orbita": 2.5841901859310756e+26,
+		"periodo_rotacion": 1.63749206725666e+26,
+		"gravedad": 191904331024
+	},
+	{
+		"idPlaneta": 991,
+		"diametro": 1553611098582647300,
+		"periodo_orbita": 1.9861833236084864e+26,
+		"periodo_rotacion": 4.719518308820781e+25,
+		"gravedad": 99660167319
+	},
+	{
+		"idPlaneta": 992,
+		"diametro": 4055653432784153600,
+		"periodo_orbita": 2.3518742383164537e+23,
+		"periodo_rotacion": 4.7143517945640615e+25,
+		"gravedad": 176229241506
+	},
+	{
+		"idPlaneta": 993,
+		"diametro": 7064381069734625000,
+		"periodo_orbita": 3.315928358437667e+25,
+		"periodo_rotacion": 2.4950690270862107e+26,
+		"gravedad": 28895753782
+	},
+	{
+		"idPlaneta": 994,
+		"diametro": 24837068085050393000,
+		"periodo_orbita": 5.625233068147354e+25,
+		"periodo_rotacion": 2.028726259654277e+26,
+		"gravedad": 119636625113
+	},
+	{
+		"idPlaneta": 995,
+		"diametro": 6640337423205039000,
+		"periodo_orbita": 1.1079930059912742e+26,
+		"periodo_rotacion": 1.0607540510767326e+26,
+		"gravedad": 223792522759
+	},
+	{
+		"idPlaneta": 996,
+		"diametro": 20388317887048688000,
+		"periodo_orbita": 2.2219409415470416e+26,
+		"periodo_rotacion": 1.0396314662283047e+26,
+		"gravedad": 93628651093
+	},
+	{
+		"idPlaneta": 997,
+		"diametro": 23863016108010398000,
+		"periodo_orbita": 1.3694946809594444e+26,
+		"periodo_rotacion": 4.314026377494983e+25,
+		"gravedad": 18012066271
+	},
+	{
+		"idPlaneta": 998,
+		"diametro": 16866592630925742000,
+		"periodo_orbita": 5.5634881423593246e+25,
+		"periodo_rotacion": 1.680471236983473e+26,
+		"gravedad": 25081879387
+	},
+	{
+		"idPlaneta": 999,
+		"diametro": 20969681001566257000,
+		"periodo_orbita": 8.048856144594932e+25,
+		"periodo_rotacion": 2.8152406225319266e+25,
+		"gravedad": 212795196193
+	}
+]
